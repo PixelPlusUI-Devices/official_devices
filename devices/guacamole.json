@@ -1,0 +1,30 @@
+
+{
+	"response": [
+		{
+			"maintainer": "Master",
+			"oem": "OnePlus",
+			"device": "OnePlus 7 Pro",
+			"filename": "PixelPlusUI_4.1_guacamole-12.0-20220202-1909-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/evolutionx-guacamole/files/PixelPlusUI_4.1_guacamole-12.0-20220202-1909-OFFICIAL.zip/download",
+			"timestamp": 1643968291,
+			"md5": "13b20eab291c236901bb2da1158eda1e",
+			"sha256": "dc22c4ce479c1f35db46b1b9273a72241027bc3cd24ee36f68a6315a9a534d8c",
+			"size": 1450484156,
+			"version": "4.1",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/",
+
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/4184671",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/crdroid/files/guacamole/8.x/recovery/",
+			"paypal": "https://paypal.me/gwolf2u",
+			"telegram": "https://t.me/crDroidOP7Pro",
+			"dt": "https://github.com/crdroidandroid/android_device_oneplus_guacamole",
+			"common-dt": "https://github.com/crdroidandroid/android_device_oneplus_sm8150-common",
+			"kernel": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8150"
+		}
+	]
+}
