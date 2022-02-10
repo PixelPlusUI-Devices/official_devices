@@ -1,0 +1,27 @@
+{
+	"response": [
+			{
+					"maintainer": "Patriot",
+					"oem": "Realme",
+					"device": "Realme X3/SuperZoom",
+					"filename": "PixelPlusUI_4.2_x3-12.0-20220210-1309-OFFICIAL.zip",
+					"download": "https://sourceforge.net/projects/pixelplusui-project/files/twelve/Realmex3/PixelPlusUI_4.2_x3-12.0-20220210-1309-OFFICIAL.zip/download",
+					"timestamp": 1644498540,
+					"md5": "f689be6d5c18a6ebfea647c5fd4b0af4",
+					"sha256": "ed38b678d2c3768e11aa35d11800c2fc9c3fe01a4c9d69ea5c55ae0252f0c1a0",
+					"size": 1389091204,
+					"version": 4.2,
+					"buildtype": "Monthly",
+					"forum": "https://forum.xda-developers.com/t/rom-12-0-rmx2081-pixelplusui-official-unified-aosp.4400949/",
+					"firmware": "",
+					"modem": "",
+					"bootloader": "",
+					"recovery": "",
+					"paypal": "https://paypal.me/uglykid24",
+					"telegram": "https://t.me/ppui_RMX2081",
+					"dt": "https://github.com/PixelPlusUI-devices/device_realme_x3",
+					"common-dt": "",
+					"kernel": "https://github.com/PixelPlusUI-devices/kernel_realme_x3"
+			}
+	]
+}
