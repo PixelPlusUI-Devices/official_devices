@@ -1,1 +1,9 @@
-Intial Test
+Fixed NFC
+Fixed GPay Issues
+Switched to QTI Bluetooth
+Added MotoDolby (Can be disable)
+Fixed Camera related isses
+Fixed Android Auto Issues
+Enabled Quick Tap
+Enabled Warp Charging
+Updated Netflix BSP
