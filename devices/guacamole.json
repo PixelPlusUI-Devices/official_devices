@@ -1,30 +1,27 @@
-
 {
 	"response": [
-		{
-			"maintainer": "Master",
-			"oem": "OnePlus",
-			"device": "OnePlus 7 Pro",
-			"filename": "PixelPlusUI_4.1_guacamole-12.0-20220202-1909-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/evolutionx-guacamole/files/PixelPlusUI_4.1_guacamole-12.0-20220202-1909-OFFICIAL.zip/download",
-			"timestamp": 1643968291,
-			"md5": "13b20eab291c236901bb2da1158eda1e",
-			"sha256": "dc22c4ce479c1f35db46b1b9273a72241027bc3cd24ee36f68a6315a9a534d8c",
-			"size": 1450484156,
-			"version": "4.1",
-			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/",
-
-			"buildtype": "Monthly",
-			"forum": "https://forum.xda-developers.com/t/4184671",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "https://sourceforge.net/projects/crdroid/files/guacamole/8.x/recovery/",
-			"paypal": "https://paypal.me/gwolf2u",
-			"telegram": "https://t.me/crDroidOP7Pro",
-			"dt": "https://github.com/crdroidandroid/android_device_oneplus_guacamole",
-			"common-dt": "https://github.com/crdroidandroid/android_device_oneplus_sm8150-common",
-			"kernel": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8150"
-		}
+			{
+					"maintainer": "Master",
+					"oem": "OnePlus",
+					"device": "OnePlus 7 Pro",
+					"filename": "PixelPlusUI_4.2_guacamole-12.0-20220210-0558-OFFICIAL.zip",
+					"download": "https://download.ppui.site/eleven/guacamole/PixelPlusUI_4.2_guacamole-12.0-20220210-0558-OFFICIAL.zip",
+					"timestamp": 1644472524,
+					"md5": "7a7002fd05ee261d31197d7a77540c83",
+					"sha256": "f643363c847ef148f21d197dcdd410424074f196163a693901bb85b24b6374a1",
+					"size": 1451514646,
+					"version": 4.2,
+					"buildtype": "Monthly",
+					"forum": "https://forum.xda-developers.com/t/rom-12-0-guacamole-oneplus-7-pro-pixelplusui-official-twelve-aosp.4392087/",
+					"firmware": "",
+					"modem": "",
+					"bootloader": "",
+					"recovery": "https://drive.google.com/file/d/1rCsKLfoVED1KyfpygQfKkwEC5olEECAe/view?usp=sharing",
+					"paypal": "https://paypal.me/uglykid24",
+					"telegram": "https://t.me/ppui_apollo",
+					"dt": "https://github.com/PixelPlusUI-devices/device_oneplus_guacamole",
+					"common-dt": "",
+					"kernel": "https://github.com/PixelPlusUI-devices/kernel_oneplus_guacamole"
+			}
 	]
 }
