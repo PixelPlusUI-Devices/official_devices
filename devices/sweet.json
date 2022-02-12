@@ -1,0 +1,27 @@
+{
+	"response": [
+		{
+			"maintainer": "Zestify24",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 10 Pro",
+			"filename": "PixelPlusUI_4.2_sweet-12.0-20220212-1539-OFFICIAL.zip",
+			"download": "https://ppui.sidgdrive.workers.dev/0:/PixelPlusUI_4.2_sweet-12.0-20220212-1539-OFFICIAL.zip",
+			"timestamp": 1644680340,
+			"md5": "4fc485274231d94fab34477f868ffe54",
+			"sha256": "eb261a66bfd4f701ec42f493e6563c92f67d4e49100521f4a3e09689d7a6f2c3",
+			"size": 1758799654,
+			"version": 4.2,
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-12-sweet-official-pixelplusui-4-2-02-12-22.4401841",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/uglykid24",
+			"telegram": "https://t.me/ppui_sweet",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
