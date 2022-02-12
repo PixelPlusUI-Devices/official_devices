@@ -1,3 +1,40 @@
+=====================================
+New changes:
+=====================================
+- Addressed a lot of sepolicies
+- Additional fixes and updates for system bluetooth repos
+- Updated genfs and other sepolicies from system and device side
+- Removed Bluetooth requirement for always compiling FM
+- Build with latest resync to all available changes
+- Mi_Thermald allowed to use policies correctly
+- Added more F2FS selinux permissions
+- Fix and remake a lot of other policies
+- Set config_screen_off_delay to 0
+- Fix denials for imsdatadaemon
+- Removed PostBoot init on charging
+- Removed QTI Loglit dirs
+- Fix additional tons of denials
+- Added freeform windows permissions
+- Fixed additional RIL denials
+- Potential Deep Sleep Fix
+- Potential Wi-Fi Fixes for Kona v2.1
+- Revert Miui China blobs
+- Updated Wi-Fi, IPA Firmware, Power-off charging blobs from Miui V12.5.5.0.RKHMIXM
+- Revert part of kernel changes that could issue some errors and bugs
+- Declared android.hardware.memtrack AIDL hal in FCM
+- Updated SecureElement from Miui 12.5.5.0 Global Mi
+- Declared latest vendor.qti.gnss@4.0.so and android.hardware.gnss@2.1 blobs in manifests
+=====================================
+New improvements:
+=====================================
+Rootdir: 
+- Enable idle_state mechanism
+- Report max frequency to miHoYo games
+- Remove cpusets duplication
+- Remove modprobe as we don't build kernel modules
+- Allow system apps to read measured_fps node
+=====================================
+
 Device Changelog:
 - Added support of QTI BT stack and switch on it
 - Set higher priority on C2 Codecs vs OMX one
