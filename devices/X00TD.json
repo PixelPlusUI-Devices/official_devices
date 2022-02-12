@@ -1,0 +1,27 @@
+{
+	"response": [
+		{
+			"maintainer": "NotHarshhaa",
+			"oem": "Asus",
+			"device": "Asus Zenfone Max Pro M1",
+			"filename": "PixelPlusUI_4.2_X00TD-12.0-20220211-1654-OFFICIAL.zip",
+			"download": "https://download.ppui.site/eleven/X00TD/PixelPlusUI_4.2_X00TD-12.0-20220211-1654-OFFICIAL.zip",
+			"timestamp": 1644598440,
+			"md5": "6c14a0559a62b87712d068eb72db4c05",
+			"sha256": "271b7e889c20377dcc5ee2fdc25608014c65b2f9c140b1450016fe2cb42e602d",
+			"size": 1495287017,
+			"version": 4.2,
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/4401595",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/uglykid24",
+			"telegram": "https://t.me/PPUIX00T",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
