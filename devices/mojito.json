@@ -1,0 +1,28 @@
+{
+
+	"response": [
+		{
+			"maintainer": "Arya1230",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 10",
+			"filename": "PixelPlusUI_4.2_mojito-12.0-20220212-1744-OFFICIAL.zip",
+			"download": "https://download.ppui.site/eleven/mojito/PixelPlusUI_4.2_mojito-12.0-20220212-1744-OFFICIAL.zip",
+			"timestamp": "1644687840" ,
+			"md5": "2d942b2a91f30ff074c26068bac987e9",
+			"sha256": "a87ea49f02940b3b0a8de7d16a1707fd8d30fe98b6f92e57c491d4bc74d1a580",
+			"size": 1644687840,
+			"version": 4.2,
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/4380899/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/uglykid24",
+			"telegram": "https://t.me/ppui_mojito",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
