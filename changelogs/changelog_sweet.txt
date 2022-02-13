@@ -9,6 +9,14 @@ Device Changelog:
 - Perfomamce Tuning
 - Fixed screen recorder lags
 - Fixed Some Props for Smoother Display
+- Switched to qti perf
+- And much more 
+
+
+Notes:
+- Vantom kernel is default
+- Better to Clean flash
+- Safety-net is passed
 
 
 PixelPlusUI V4.2 Release Changelog:
