@@ -1,0 +1,27 @@
+{
+	"response": [
+		{
+			"maintainer": "Dhruvesh",
+			"oem": "Realme",
+			"device": "Realme XT",
+			"filename": "PixelPlusUI_4.2_RMX1921-12.0-20220213-1305-OFFICIAL.zip",
+			"download": "https://download.ppui.site/eleven/RMX1921/PixelPlusUI_4.2_RMX1921-12.0-20220213-1305-OFFICIAL.zip",
+			"timestamp": 1644757317,
+			"md5": "f5b6ef5a6f6cda57d8ba0b672df1f546",
+			"sha256": "8e55fa3076a783d8e22bf9da7ed6410d5efb13f173e3694cc60773c0b09ad3d3",
+			"size": 1615921255,
+			"version": 4.2,
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-realme-xt-12-0-official-pixelplus-ui-for-realme-xt-aosp.4389007/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/uglykid24",
+			"telegram": "https://t.me/ppui_rmx1921",
+			"dt": "https://github.com/Dhruvesh16/device_realme_RMX1921/tree/ppui",
+			"common-dt": "",
+			"kernel": "https://github.com/Dhruvesh16/android_kernel_realme_RMX1921/tree/11"
+		}
+	]
+}
