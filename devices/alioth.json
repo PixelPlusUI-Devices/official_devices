@@ -1,28 +1,27 @@
 {
-	"response": [
-		{
-			"maintainer": "johnmart19",
-			"oem": "Poco",
-			"device": "Poco F3",
-			"filename": "PixelPlusUI_4.2_alioth-12.0-20220210-0852-OFFICIAL.zip",
-			"download": "https://download.ppui.site/eleven/alioth/PixelPlusUI_4.2_alioth-12.0-20220210-0852-OFFICIAL.zip",
-			"timestamp": 1644483158,
-			"md5": "ca6584c854dc59322b9fc7e76fb82a6d",
-			"sha256": "543de2255366c432a3f03756f4ab0333d7aa455eb5b6778e06316b0d979801ba",
-			"size": 1750762397,
-			"version": 4.2,
-			"buildtype": "Monthly",
-			"forum": "https://forum.xda-developers.com/t/4375615",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "https://eu.dl.twrp.me/alioth/",
-			"paypal": "https://paypal.me/uglykid24",
-			"telegram": "https://t.me/ppui_alioth",
-			"dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_alioth",
-			"common-dt": "https://github.com/PixelPlusUI-Devices/alioth_device_xiaomi_sm8250-common",
-			"kernel": "https://github.com/PixelPlusUI-Devices/alioth_kernel_xiaomi_sm8250"
-		}
-	]
+        "response": [
+                {
+                        "maintainer": "johnmart19",
+                        "oem": "Poco",
+                        "device": "Poco F3",
+                        "filename": "PixelPlusUI_4.2_alioth-12.0-20220215-0458-OFFICIAL.zip",
+                        "download": "https://ppui.sidgdrive.workers.dev/0:/PixelPlusUI_4.2_alioth-12.0-20220215-0458-OFFICIAL.zip",
+                        "timestamp": 1644901072,
+                        "md5": "343ef2ebdcdf1be282aac403c4535fb7",
+                        "sha256": "f1546ff2e6cd3076fe49d0ac3cab7405e912c0a70515a4f7907eb245c27606e2",
+                        "size": 1751989871,
+                        "version": 4.2,
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/4375615",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "https://eu.dl.twrp.me/alioth/",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://t.me/ppui_alioth",
+                        "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_alioth",
+                        "common-dt": "https://github.com/PixelPlusUI-Devices/alioth_device_xiaomi_sm8250-common",
+                        "kernel": "https://github.com/PixelPlusUI-Devices/alioth_kernel_xiaomi_sm8250"
+                }
+        ]
 }
-
