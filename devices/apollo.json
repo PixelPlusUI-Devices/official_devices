@@ -1,0 +1,27 @@
+{
+	"response": [
+		{
+			"maintainer": "Master",
+			"oem": "Xiaomi",
+			"device": "Mi 10T/Pro",
+			"filename": "PixelPlusUI_4.2_apollo-12.0-20220215-0810-OFFICIAL.zip",
+			"download": "https://download.ppui.site/eleven/apollo/PixelPlusUI_4.2_apollo-12.0-20220215-0810-OFFICIAL.zip",
+			"timestamp": 1644912455,
+			"md5": "b886701b18d021b545ffb9245cc2311d",
+			"sha256": "acb912fb12f67ee2469dc79b5f2c129aeecbb08255459b16f5232b4a56e60848",
+			"size": 2018485238,
+			"version": 4.2,
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-12-0-apollo-apollopro-pixelplusui-official-twelve-aosp.4380691/",
+			"firmware": "https://t.me/Mi10TSeriesCloud/91",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://androidfilehost.com/?fid=17825722713688274480",
+			"paypal": "https://paypal.me/uglykid24",
+			"telegram": "https://t.me/ppui_apollo",
+			"dt": "https://github.com/PixelPlusUI-devices/device_xiaomi_apollo",
+			"common-dt": "https://github.com/PixelPlusUI-devices/device_xiaomi_sm8250-common",
+			"kernel": "https://github.com/PixelPlusUI-devices/kernel_xiaomi_apollo"
+		}
+	]
+}

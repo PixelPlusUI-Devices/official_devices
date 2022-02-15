@@ -1,0 +1,9 @@
+Updated to PixelPlusUI 4.2
+Added Moto Dolby
+Fixed FP Delay (Thanks to APOLLO dev TEAM)
+Fixed game crashes
+Enables OTA system
+Enabled High Touch Sampling Rate
+Updated Kernel
+Special Thanks to My testers
+@harry_w73, @nicklas2k, @Muneeb4
