@@ -2,8 +2,8 @@ Device Changelog:
 - Switched to google bootanimation
 - Added quick tap feature
 - Switched to qti bt
-- Introducted OTA updater
-- Safteynet passed by default
+- Introduced OTA updater
+- Safetynet passed by default
 - kernel upstreamed 4.14.266
 - Fixed google assistance voice match
 - February security patch

@@ -4,12 +4,12 @@
                         "maintainer": "DestroyerV",
                         "oem": "realme",
                         "device": "RMX2061",
-                        "filename": "PixelPlusUI_4.2_RMX2061-12.0-20220215-0821-OFFICIAL.zip",
-                        "download": "https://download.ppui.site/eleven/RMX2061/PixelPlusUI_4.2_RMX2061-12.0-20220215-0821-OFFICIAL.zip",
-                        "timestamp": 1644913304,
-                        "md5": "6487d31bc3167914a436e8f2bca12b16",
-                        "sha256": "a178d85161011459fdb7758512039dfa93cd285076cef204b9bf72e5276cb3ab",
-                        "size": 1651111628,
+                        "filename": "PixelPlusUI_4.2_RMX2061-12.0-20220216-0908-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/eleven/RMX2061/PixelPlusUI_4.2_RMX2061-12.0-20220216-0908-OFFICIAL.zip",
+                        "timestamp": 1645002510,
+                        "md5": "6cd4dd1f03d02ae9716048b2cd68abe1",
+                        "sha256": "b1c8d88ba46f8042f07e37c3140f531cc67dc928627310eb8cdb922f6eabe898",
+                        "size": 1651158429,
                         "version": 4.2,
                         "buildtype": "Monthly",
                         "forum": "https://forum.xda-developers.com/t/4382201",
@@ -25,4 +25,3 @@
                 }
         ]
 }
-
