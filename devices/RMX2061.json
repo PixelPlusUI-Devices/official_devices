@@ -1,0 +1,27 @@
+{
+        "response": [
+                {
+                        "maintainer": "DestroyerV",
+                        "oem": "realme",
+                        "device": "RMX2061",
+                        "filename": "PixelPlusUI_4.2_RMX2061-12.0-20220216-0908-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/eleven/RMX2061/PixelPlusUI_4.2_RMX2061-12.0-20220216-0908-OFFICIAL.zip",
+                        "timestamp": 1645002510,
+                        "md5": "6cd4dd1f03d02ae9716048b2cd68abe1",
+                        "sha256": "b1c8d88ba46f8042f07e37c3140f531cc67dc928627310eb8cdb922f6eabe898",
+                        "size": 1651158429,
+                        "version": 4.2,
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/4382201",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://t.me/ppui_realme6pro",
+                        "dt": "https://github.com/DestroyerV/android_device_realme_RMX2061",
+                        "common-dt": "https://github.com/DestroyerV/android_device_realme_sm7125-common",
+                        "kernel": "https://github.com/rmx2061/android_kernel_realme_sm7125"
+                }
+        ]
+}
