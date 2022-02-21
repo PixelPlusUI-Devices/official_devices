@@ -1,0 +1,27 @@
+{
+        "response": [
+                {
+                        "maintainer": "Chandler_bing_here",
+                        "oem": "Poco",
+                        "device": "Poco X3 Pro",
+                        "filename": "PixelPlusUI_4.2_vayu-12.0-20220221-1348-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/eleven/vayu/PixelPlusUI_4.2_vayu-12.0-20220221-1348-OFFICIAL.zip",
+                        "timestamp": 1645451190,
+                        "md5": "d472f98ec4c5b3d08ccc2575d7d02928",
+                        "sha256": "e0028c9082982f7660e610e9735c7e28f176fb6e7aa80acced26dbc3627cdf23",
+                        "size": 1863974912,
+                        "version": 4.2,
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/4405831",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "https://orangefox.download/device/vayu",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://t.me/ppui_vayu",
+                        "dt": "https://github.com/PixelPlusUI-Devices/andrid_device_xiaomi_vayu",
+                        "common-dt": "",
+                        "kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_vayu"
+                }
+        ]
+}

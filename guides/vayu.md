@@ -27,7 +27,7 @@
     - Check notes below for recommended firmware
 3. Wipe Dalvik and Cache in Advanced Wipe (optional)
 4. Flash Pixel Plus UI ROM
-5. Flash custom kernel (optional)
+5. Flash custom kernel (optional) [No support will be provided]
 6. Flash Magisk (optional)
 7. Flash [DFE](https://t.me/PocoX3ProUpdates/308) (optional)
     - Disables force encryption on custom AOSP ROMs on OSS vendor
@@ -36,6 +36,6 @@
 8. Reboot to System
 
 ## Notes: 
-- Recommended firmware: 12.5.X (global)
-- [TWRP](https://t.me/PocoX3ProUpdates/288) recommended
+- Recommended firmware: 12.X.X (any)
+- [TWRP](https://t.me/PocoX3ProUpdates/288) or [OFRP](https://orangefox.download/device/vayu) recommended
 - Clean flash if you face any bugs
