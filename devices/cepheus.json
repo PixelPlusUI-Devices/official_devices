@@ -1,0 +1,27 @@
+{
+        "response": [
+                {
+                        "maintainer": "Mehdi",
+                        "oem": "Xiaomi",
+                        "device": "Xiaomi Mi9",
+                        "filename": "PixelPlusUI_4.2_cepheus-12.0-20220221-2024-OFFICIAL.zip",
+                        "download": "https://transfer.sh/5lL1CM/PixelPlusUI_4.2_cepheus-12.0-20220221-2024-OFFICIAL.zip",
+                        "timestamp": 1645475040,
+                        "md5": "5d60729e7bcc3e432775654d35c84e85",
+                        "sha256": "a0443d95a3c7994a776400522fea83dca0b854d020217cb5f49ea2dcea36dfe5",
+                        "size": 1598553215,
+                        "version": "4.1",
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/rom-12-0-cepheus-pixelplusui-official-twelve-aosp.4381029/",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "https://eu.dl.twrp.me/cepheus/",
+                        "paypal": "https://www.paypal.me/uglykid24",
+                        "telegram": "https://t.me/ppui_mi9",
+                        "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_cepheus",
+                        "common-dt": "",
+                        "kernel": "https://github.com/flackback/PixonKernel"
+                }
+        ]
+}
