@@ -1,5 +1,6 @@
 • Merged Android 12 Release 29 to system
 • February Security patch 
+• Introcuce you FaceUnlock
 • CTS Passes by default
 • Introducing our New OTA Updater
 • Sync mediacodecs with LA.UM.9.12.r1-13800-SMxx50.0
