@@ -7,9 +7,11 @@
 2. Wipe Dalvik Cache, Cache, Data
 3. Format Data
 4. Reboot to Recovery
-5. Flash Xiaomi.EU 12.5 (or port for M3)
-6. Flash PixelPlusUI
-7. Reboot to System
+5. Flash Vendor MIUI 12.5
+6. Reboot Recovery
+7. Flash PixelPlusUI
+8. Flash DM-Verity
+9. Reboot to System
 
 ### DIRTY FLASH
 1. Boot to Recovery
