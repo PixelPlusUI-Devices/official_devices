@@ -1,25 +1,25 @@
 ![Installation Guide For PixelPlusUI on Redmi Note 10](https://i.imgur.com/pmZkslu.png "Installation")
 
-# Installation Guide For PixelPlusUI on Redmi Note 10 (Mojito/Sunny)
+# Installation guide for PixelPlusUI on Redmi Note 10 (Mojito/Sunny)
 
-### CLEAN FLASH (RECOMMENDED) : 
-Boot Into PE Recovecy
-1. First Format Data(Factory Reset) 
-2. Click On Apply Update And Choose Adb Sideload
-3. Now Go To Pc,Open CMD In Platform Tools,Type Adb Sideload PPUI_Mojito.zip(File Name Will Be Different)
-4. It Will Be Failed At 47%.It's Normal So Dont Worry.
-5. Now Reboot Your Phone And Enjoy!
+### CLEAN FLASH (RECOMMENDED): 
+Boot into Pixel Experience recovecy
+1. First, format data (Factory reset) 
+2. Click on "Apply update" and select "Install from ADB"
+3. On your computer, open comamnd prompt in your [android platform tools folder](https://developer.android.com/studio/releases/platform-tools), and run `adb sideload PPUI_Mojito.zip` (your zip file will be named differently)
+4. The sideload might fail at 47%. This is normal.
+5. Reboot your phone and enjoy!
 
-### DIRTY FLASH IF AN UPDATE
-Boot Into PE Recovecy
-1. Click On Apply Update And Choose Adb Sideload
-2. Now Go To Pc,Open CMD In Platform Tools,Type Adb Sideload PPUI_Mojito.zip(File Name Will Be Different)
-3. It Will Be Failed At 47%.It's Normal So Dont Worry.
-4. Now Reboot Your Phone And Enjoy!
+### DIRTY FLASH FOR UPDATES:
+Boot into Pixel Experience recovecy
+1. Click on "Apply update" and select "Install from ADB"
+2. On your computer, open comamnd prompt in your [android platform tools folder](https://developer.android.com/studio/releases/platform-tools), and run `adb sideload PPUI_Mojito.zip` (your zip file will be named differently)
+3. The sideload might fail at 47%. This is normal.
+4. Reboot your phone and enjoy!
 
 ## Note: 
-• The Method Is Same For LOS Recovery
+• The method is the same for LineageOS recovery
 
 • Flash The Fastboot Rom Again Then Do The Steps If You Face Any Issues
 
-• It Also Works With TWRP Recovery But PE/LOS Is Recommended
+• This also works via TWRP but LineageOS/Pixel Experience recovery is recommended
