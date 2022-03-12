@@ -12,7 +12,7 @@ Copy the Custom ROM & the Required Firmware to your internal storage
 Reboot to Recovery
 • Wipe Cache, Dalvik, Data, System, Vendor
 • Flash Firmware
-• Flash PixelPlusUI_4.2_X00TD-12.0-20220211-1654-OFFICIAL.zip
+• Flash PixelPlusUI_4.3_X00TD-12.0-20220312-1429-OFFICIAL.zip
 • Flash Magisk(Optional-who requires root)
 • Now just Reboot to system
 ```
