@@ -1,9 +1,10 @@
-Fixed NFC
-Fixed GPay Issues
-Switched to QTI Bluetooth
-Added MotoDolby (Can be disable)
-Fixed Camera related isses
-Fixed Android Auto Issues
-Enabled Quick Tap
-Enabled Warp Charging
-Updated Netflix BSP
+UpStreamed Kernel to V4.14.271
+Fixed issues related to FOD on AOD
+Added Off screen Finger Print Scanning option
+Added OnePlus Camera for Photos only
+Added Alert Slider Notification
+Reimported OnePlus Settings
+Added LiveDisplay 
+Fixed Screen Flicker
+Updated Display and Media Blobs (Better HDR)
+ETC (I forget Rest of ChangeLogs)
