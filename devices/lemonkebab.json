@@ -1,0 +1,27 @@
+{
+	"response": [
+			{
+					"maintainer": "slothdabski",
+					"oem": "OnePlus",
+					"device": "OnePlus 8T/9R",
+					"filename": "PixelPlusUI_4.3_lemonkebab-12.0-20220312-1633-OFFICIAL.zip",
+					"download": "https://download.ppui.site/eleven/lemonkebab/PixelPlusUI_4.3_lemonkebab-12.0-20220312-1633-OFFICIAL.zip",
+					"timestamp": 1647102780,
+					"md5": "a36f30071ba6adab938f56266e2155ac",
+					"sha256": "dead8910292af74ff6766ecd0d12c43005985a6b51e52024c9a207345e45c54d",
+					"size": 1797420368,
+					"version": 4.3,
+					"buildtype": "Monthly",
+					"forum": "https://forum.xda-developers.com/t/rom-official-12-0-lemonkebab-pixelplus-ui-aosp.4414975/",
+					"firmware": "Latest OOS 11",
+					"modem": "",
+					"bootloader": "",
+					"recovery": "https://drive.google.com/file/d/1Kde7dp-PB9BomjYTJJ8TafyV5fcWvyeD/view?usp=sharing",
+					"paypal": "https://paypal.me/uglykid24",
+					"telegram": "https://t.me/ppui_lemonkebab",
+					"dt": "https://github.com/PixelPlusUI-devices/device_oneplus_lemonkebab",
+					"common-dt": "",
+					"kernel": "https://github.com/PixelPlusUI-devices/kernel_oneplus_lemonkebab"
+			}
+	]
+}
