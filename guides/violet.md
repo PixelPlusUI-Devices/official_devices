@@ -2,9 +2,9 @@
 
 # Installation Guide For PixelPlusUI on Violet
 
-## IF YOU ARE MOVING FROM ANDROID 10 TO ANDROID 11 CLEAN FLASH ( Format Data ) Is COMPULSORY.
+## IF YOU ARE MOVING FROM ANDROID 11 TO ANDROID 12 CLEAN FLASH ( Format Data ) Is COMPULSORY.
 
-## Recovery Link : [OFOX Recovery](https://orangefox.download/release/60535ec5e4534f7cb0c48ed9)
+## Recovery Link : [OFOX Recovery](https://orangefox.download/device/violet)
 
 ### Encryption to Encryption : 
 1. First format data (by typing yes)

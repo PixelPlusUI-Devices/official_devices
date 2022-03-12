@@ -1,0 +1,20 @@
+{
+ "response": [
+{
+ "maintainer": "ugly_kid_af",
+ "oem": "Xiaomi",
+ "device": "Redmi Note 7 Pro",
+ "filename": "PixelPlusUI_4.3_violet-12.0-20220312-0946-OFFICIAL.zip",
+ "download": "https://download.ppui.site/eleven/violet/PixelPlusUI_4.3_violet-12.0-20220312-0946-OFFICIAL.zip",
+ "timestamp":  1647078360,
+ "md5": "399ad5c28124f7369be06e060f678f8e",
+ "sha256": "5e1a1d067f8732e0d367546491bebafe5786553e87e4d0ef9b89e770eab1e8d5",
+ "size": 1667121685,
+ "version": 4.3,
+ "buildtype": "Monthly",
+ "forum": "https://forum.xda-developers.com/t/rom-12-0-violet-pixelplusui-official-twelve-aosp.4374079/",
+ "paypal": "https://paypal.me/uglykid24",
+ "telegram": "https://t.me/noobs_build"
+}
+]
+}
