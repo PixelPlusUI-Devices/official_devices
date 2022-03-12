@@ -2,16 +2,18 @@
 
 # Installation Guide For PixelPlusUI on Tissot
 
-## IF YOU ARE MOVING FROM ANDROID 10 TO ANDROID 11 CLEAN FLASH Is COMPULSORY.
+## IF YOU ARE MOVING FROM ANDROID 11 TO ANDROID 12 CLEAN FLASH Is COMPULSORY.
 
 ### Clean Flash 
-1. Wipe Data , System, Cache (all except internal)
-2. Switch slot reboot recovery
-3. Wipe all except internal
-4. Install PixelPlusUI ROM zip
-5. Change to slot
-6. Install TWRP Installer
-7. Reboot
+1. Download the latest build.
+2. Reboot to recovery, if not, use TWRP.img via CMD.
+3. Wipe Data , System, Cache (all except internal).
+4. Switch slot reboot recovery
+5. Wipe all except internal
+6. Install PixelPlusUI ROM zip
+7. Change to slot
+8. Install TWRP Installer
+9. Reboot
 
 ### DIRTY FLASH  
 1. Reboot to recovery

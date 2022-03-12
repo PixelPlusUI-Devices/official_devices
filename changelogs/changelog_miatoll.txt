@@ -1,0 +1,9 @@
+## PPUI 4.2
+
+ • Feb security patch
+ • Allow ioctl to zram_swap for performance
+ • set usb and hidraw to 0660 root usb 
+ • Set system graphics to power control node
+ • Add vendor.qti.hardware.systemhelper for TUI
+ • Drop unsupported perf resources
+ • Kang governor settings from sunfish

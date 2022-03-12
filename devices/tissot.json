@@ -1,0 +1,20 @@
+{
+ "response": [
+{
+ "maintainer": "ugly_kid_af",
+ "oem": "Xiaomi",
+ "device": "Mi A1",
+ "filename": "PixelPlusUI_4.3_tissot-12.0-20220312-0832-OFFICIAL.zip",
+ "download": "https://download.ppui.site/eleven/tissot/PixelPlusUI_4.3_tissot-12.0-20220312-0832-OFFICIAL.zip",
+ "timestamp":  1647073920,
+ "md5": "8cebe2236b0f11762e38d60eafa3883c",
+ "sha256": "d2f45163651a6f332a73cbf58fb6b72b1fa7aa901d2d2e4e26a94d697ce665a7",
+ "size": 1195560788,
+ "version": 4.3,
+ "buildtype": "Monthly",
+ "forum": "https://forum.xda-developers.com/t/rom-12-0-tissot-pixelplusui-official-twelve-aosp.4414809/",
+ "paypal": "https://paypal.me/uglykid24",
+ "telegram": "https://t.me/ppui_tissot"
+}
+]
+}

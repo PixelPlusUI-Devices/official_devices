@@ -1,0 +1,27 @@
+{
+        "response": [
+                {
+                        "maintainer": "Lynx",
+                        "oem": "Xiaomi",
+                        "device": "Poco M3 / Xiaomi Redmi 9T / Redmi 9 Power And Redmi Note 9 4G",
+                        "filename": "PixelPlusUI_4.2_juice-12.0-20220228-1357-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/twelve/juice/PixelPlusUI_4.2_juice-12.0-20220228-1357-OFFICIAL.zip",
+                        "timestamp":  1646031457,
+                        "md5": "a0f11f1f402ad880a493fcf95b3268b0",
+                        "sha256": "cf4450700c14175ab6875a058933de8b46b9f2894c340161b5c9123906723b16",
+                        "size": 1252829044,
+                        "version": 4.2,
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/rom-12-juice-unified-pixelplusui-v4-2-snowcone.4409061",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://t.me/ppui_juice",
+                        "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_juice",
+                        "common-dt": "",
+                        "kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_juice"
+                }
+        ]
+}
