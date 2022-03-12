@@ -1,0 +1,4 @@
+- Initial Official Release
+- Cleanflash is mandatory coming from a11
+- Safetynet Passes By Default
+- Selinux enforcing
