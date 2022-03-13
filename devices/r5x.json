@@ -1,0 +1,26 @@
+{
+	"response": [
+		{
+			"maintainer": "Takumi021",
+			"oem": "Realme",
+			"device": "Realme 5 Series",
+			"filename": "PixelPlusUI_4.3_r5x-12.0-20220312-1256-OFFICIAL.zip",
+			"download": "https://download.ppui.site/eleven/r5x/PixelPlusUI_4.3_r5x-12.0-20220312-1256-OFFICIAL.zip",
+			"timestamp": 1647089760,
+			"md5": "6f42115340b8f48fad5c785429740ca9",
+			"sha256": "8ae74a8c647502e8f2dce84de1dbbe49b31ff33bf85c0ea0379b9a68c1b82b7a",
+			"size": 1723655851,
+			"version": 4.3,
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-11-0-realme-5-realme-5i-realme-5s-pixelplusui-official-eleven-aosp.4272121/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/pbrp/files/r5x/PBRP-r5x-3.1.0-20210510-1436-OFFICIAL.zip/download",
+			"paypal": "https://paypal.me/uglykid24",
+			"telegram": "https://t.me/ppui_realme5",
+			"dt": "https://github.com/PixelPlusUI-Devices/device_realme_r5x",
+			"kernel": "https://github.com/PixelPlusUI-Devices/kernel_realme_r5x"
+		}
+	]
+}
