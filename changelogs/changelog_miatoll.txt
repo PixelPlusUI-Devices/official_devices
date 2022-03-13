@@ -1,3 +1,13 @@
+## PPUI 4.3
+
+ - Feb security patch
+ - Add system app whitelist for applock
+ - Added support for anx cam
+ - Added support for face unlock
+ - Added support for quick tap
+ - Kernel upstreamed to 4.14.271
+
+
 ## PPUI 4.2
 
  • Feb security patch
