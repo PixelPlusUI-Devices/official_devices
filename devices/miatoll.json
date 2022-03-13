@@ -1,0 +1,27 @@
+{
+        "response": [
+                {
+                        "maintainer": "Lopster_70",
+                        "oem": "Xiaomi",
+                        "device": "Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite",
+                        "filename": "PixelPlusUI_4.3_miatoll-12.0-20220312-1541-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/eleven/miatoll/PixelPlusUI_4.3_miatoll-12.0-20220312-1541-OFFICIAL.zip",
+                        "timestamp":  1647099660,
+                        "md5": "e270948d43d463efd35b3d49594dfb86",
+                        "sha256": "d8e5da369539e73859e9b7fffc47471714ddfdb328ce6c24d80931590f58d4ca",
+                        "size": 1801655381,
+                        "version": 4.3,
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/rom-12-0-miatoll-pixelplusui-official-twelve-aosp.4380723/",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://t.me/ppuimiatoll",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_sm6250"
+                }
+        ]
+}

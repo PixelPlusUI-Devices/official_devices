@@ -5,9 +5,10 @@
 ### CLEAN FLASH (RECOMMENDED) : 
 1. First take backup 
 2. Reboot to Recovery then do Wipe cache, dalvik/ART cache,Format Data
-2. Flash Rom
-3. Flash Magisk (if you want to root your device) 
-4. Reboot
+3. Flash Rom
+4. Flash latest firmware
+5. Flash magisk (if needed)
+6. Reboot
 
 ### DIRTY FLASH IF AN UPDATE
 1. Wipe Cache and Dalvik Cache
@@ -15,4 +16,5 @@
 3. Reboot
 
 ## Note: 
-• OrangeFox Recovery recommended for flashing
+• OrangeFox R11.1_1 Recovery recommended for flashing
+- clean flash is always recommended
