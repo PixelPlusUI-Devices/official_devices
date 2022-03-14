@@ -1,0 +1,27 @@
+{
+	"response": [
+		{
+			"maintainer": "SriBalaji",
+			"oem": "Realme",
+			"device": "RM6785",
+			"filename": "PixelPlusUI_4.3_RM6785-12.0-20220314-0155-OFFICIAL.zip",
+			"download": "https://download.ppui.site/eleven/RM6785/PixelPlusUI_4.3_RM6785-12.0-20220314-0155-OFFICIAL.zip",
+			"timestamp": 1647112320,
+			"md5": "796db1a47c51c06fd97d6aa79a282d07",
+			"sha256": "e35470cbf9e406d22cae29271833f262b75410277efc405d77a697ee16eb1398",
+			"size": 1743334969,
+			"version": 4.3,
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-12-official-pixelplusui-v4-3-14-03-2022.4390871/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/uglykid24",
+			"telegram": "https://t.me/ppui_RM6785",
+			"dt": "https://github.com/realme-mt6785-devs",
+			"common-dt": "",
+			"kernel": "https://github.com/realme-mt6785-devs/android_kernel_realme_mt6785/"
+		}
+	]
+}
