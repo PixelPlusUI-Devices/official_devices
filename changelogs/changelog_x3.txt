@@ -3,7 +3,12 @@ Build type: Monthly
 Device: Realme X3/SuperZoom (x3)
 Device maintainer: Patriot
 
-===== 10 February, 2022 =====
--initial A12 Build
--Switched to Source Built-kernel
--Switched to Atom-X-Clang
+## PPUI 4.3
+
+===== 15 March, 2022 =====
+-Synced with latest PPUI 4.3 Codebase
+-Enabled Face Unlock Support
+-Compiled with latest Proton-Clang 13.0
+-Shipped with Origin kernel
+-Upstreamed kernel to 4.14.271
+-Improved Overall Stability and Performance
