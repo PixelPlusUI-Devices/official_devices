@@ -1,0 +1,6 @@
+- Initial Android 12 release
+- Cleanflash is mandatory coming from Android 11
+- Safetynet Passes By Default
+- Selinux Enforcing
+- ZUI (Prebuilt) Vendor available only
+- Retained most of previous changelogs from Android 11
