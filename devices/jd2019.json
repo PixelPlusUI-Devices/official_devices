@@ -1,0 +1,20 @@
+{
+ "response": [
+{
+ "maintainer": "HsyHusker",
+ "oem": "Lenovo",
+ "device": "Z5s",
+ "filename": "PixelPlusUI_4.3_jd2019-12.0-20220313-1759-OFFICIAL.zip",
+ "download": "https://download.ppui.site/eleven/jd2019/PixelPlusUI_4.3_jd2019-12.0-20220313-1759-OFFICIAL.zip",
+ "timestamp":  1647194340,
+ "md5": "58be93c2f78a03dea676d26a74febf4c",
+ "sha256": "5538624aefcaa9b689b8cdb46f7a655693d07eafba9b82a0338c93fafdb59b99",
+ "size": 1464184618,
+ "version": 4.3,
+ "buildtype": "Monthly",
+ "forum": "https://forum.xda-developers.com/t/rom-12-0-jd2019-pixelplusui-for-lenovo-z5s-official-aosp.4234153/",
+ "paypal": "https://paypal.me/uglykid24",
+ "telegram": "https://t.me/ppui_jd2019"
+}
+]
+}
