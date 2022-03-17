@@ -22,4 +22,4 @@
 7. Reboot - Reboot to system
 
 ## Note
-• Updated all google packages after first setup recommended
+• Update all google packages after first setup recommended
