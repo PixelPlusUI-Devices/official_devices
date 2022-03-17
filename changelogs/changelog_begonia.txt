@@ -1,0 +1,60 @@
+===== 17/03/2022 =====
+- Initial A12 build
+- Upstream kernel to 4.14.272
+- Huge kernel optimization
+- Optimized console framebuffer for upto 70% perfomance
+- General CPU scheduler improve
+- Added thunderquake engine v1.1 for vibration control
+- Add sioplus scheduler I/O and set it by default
+- Enabled all TCP algorithms (westwood by default)
+- Disabled CRC check by default
+- Fixed In-Call volume control with headphones
+- Fixed zRAM size on boot (3GB per stock)
+- Fixed MTK IMS crashes
+- Fixed lags in google camera (BufferFix)
+- TTL Fixation
+- Fixed screenrecorder (works only on Google OMX codec in begonia parts) & screenshots work
+- Fixed GoogleTTS crash
+- Fixed MTK oversharpness
+- Fixed WideVine L1 and Netflix work
+- Fixed boot time and init denials
+- Use bluetooth.audio@2.1 HALs
+- Disabled force camera sounds
+- Updated hotword permissions (for voice match)
+- Enabled 3rd party location providers support
+- Add additional network modes to settings
+- Disabled updatable apexes (fixes magisk installation)
+- Enabled bluetooth AVRCP v1.6 by default
+- Added props for fast charge
+- Use skiagl HWUI rendering
+- Removed some trash packages (like safety hub, partner setup and etc.)
+- Disabled V-Sync by default and disable it force for CPU rendering apps
+- Reduced numbers of CPUs for system-background apps
+- Use HintManager for HWUI
+- Compile HWUI for perfomance
+- Silence spammy logtags, fix audio param spam
+- Added some GFX flags for rendering
+- Disabled ART Debug
+- Optimized ART build flags
+- Added framework compatibility matrix for HIDL & AIDL hals
+- Disable I/O stats
+- Enable all cores on boot (on some custom kernels for unkown reasons big CPUs disabled)
+- Report max cpu frequiency to unity tasks and miHoYo games
+- Set stune boost for top-app, rt, foreground to 10 and enable prefer
+- Added props for HDR and Wide Colour Display support
+- Enabled display white balance
+- Removed wait_for_keymaster and all references in main init
+- Disabled Vulkan GPU rendering
+- Enabled 64-bit inode version support for ext4
+- Enabled pre-rendering feature
+- Added modified Begonia Parts by TTTT555
+- Added non-root Viper4AndroidFX (use legacy mode in settings)
+- Added Dirac and integrated into begonia
+- Added GCam BSG mod PV4 with config by Mark Kalash v1.7.2 (path to config: /sdcard/Gcam/Configs7/)
+- Added ANXCamera v185 with 48mp fix
+- Pack global and indian firmware into ROM archive (without TWRP)
+- Add support for AOD, face unlock, google recorder and live wallpapers
+- Add MTK Engineering Mode with full references
+- Fixed SEPolicy a lot for system and apps, more stable work
+- Improved UI smoothness
+- Minor changes
