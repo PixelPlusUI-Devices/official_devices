@@ -1,0 +1,27 @@
+{
+	"response": [
+		{
+			"maintainer": "KostyaJRZ",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 7",
+			"filename": "PixelPlusUI_4.3_onclite-12.0-20220318-1842-OFFICIAL.zip",
+			"download": "https://github.com/PixelPlusUI-Devices/device_xiaomi_onclite/releases/download/4.3/PixelPlusUI_4.3_onclite-12.0-20220318-1842-OFFICIAL.zip",
+			"timestamp": 1647628920,
+			"md5": "b77a0b4045275848247cffa23dfc0d31",
+			"sha256": "60e8df572a338997e7472f80a8bd690288b93ee107a342780d85d815e0473960",
+			"size": 1654334583,
+			"version": 4.3,
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-onclite-11-0-0_r29-pixelplusui-v4-3-official.4070407/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://twrp.me/xiaomi/xiaomiredmi7.html",
+			"paypal": "",
+			"telegram": "https://t.me/ppuichat",
+			"dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_onclite.git",
+			"common-dt": "",
+			"kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_onclite.git"
+		}
+	]
+}

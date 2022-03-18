@@ -1,0 +1,3 @@
+==== 18th March, 2022 ====
+Device Changelog:
+- Initial Snowcone build
