@@ -1,0 +1,20 @@
+{
+ "response": [
+{
+ "maintainer": "erwinabs",
+ "oem": "xiaomi",
+ "device": "Redmi Note 8/8T",
+ "filename": "PixelPlusUI_4.3_ginkgo-12.0-20220320-0700-OFFICIAL.zip",
+ "download": "https://download.ppui.site/eleven/ginkgo/PixelPlusUI_4.3_ginkgo-12.0-20220320-0700-OFFICIAL.zip",
+ "timestamp":  1647759600,
+ "md5": "2d28e9e8f0383f0b37ea84d7445e9060",
+ "sha256": "3dfe05a6bf59d9a4dfa18317434fc148e3b3baa17e119cbab6fa3df573d37c35",
+ "size": 1697155451,
+ "version": 4.3,
+ "buildtype": "Monthly",
+ "forum": "https://forum.xda-developers.com/t/rom-11-ginkgo-willow-pixelplusui-official-3-8.4232791/",
+ "paypal": "https://paypal.me/uglykid24",
+ "telegram": "https://t.me/ppuiginkgo"
+}
+]
+}
