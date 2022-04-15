@@ -11,6 +11,7 @@ Go to your repo `settings > secrets > new repository secret`, and add these secr
 - `PRIV_CHAT_ID`: Telegram group/channel chat ID where the logs need to be posted
 - `STICKER_ID`: Telegram sticker ID (If added, the bot first sends sticker then the rom post)
 - `BANNER_URL`: Telegraph URL of your rom banner/photo
+- `NOTES`: Notes to add in rom post if you have any
 - `GH_TOKEN`: Github access token to push changes to repo
 <br><b>Note:</b> Bot should be added in the group/channel where the rom needs to be posted
 

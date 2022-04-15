@@ -42,6 +42,11 @@ except KeyError:
     print("Fill all the configs plox..\nExiting...")
     exit(0)
 
+try:
+    NOTES = getConfig("NOTES")
+except:
+    NOTES = None
+
 # Init bot
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 
@@ -94,7 +99,7 @@ def get_info(ID):
                 break
     with open(f"{jsonDir}/{device}") as device_file:
         info = json.loads(device_file.read())
-        ANDROID_VERSION = "12"
+        ANDROID_VERSION = "12.1"
         PPUI_VERSION = info['response'][0]['version']
         DEVICE_NAME = info['response'][0]['device']
         CODENAME =  device.replace(".json", "")
@@ -148,8 +153,11 @@ def message_content(information):
     msg += f"<b>Installation Guide:</b> <a href='https://github.com/PixelPlusUI-Devices/official_devices_a12/blob/snowcone/guides/{information['codename']}.md'>Here</a>\n"
     msg += f"<b>Screenshots:</b> <a href='https://ppui.site/gallery'>Here</a>\n"
     msg += f"<b>MD5:</b> <code>{information['md5']}</code>\n\n"
-    msg += f"<b>Notes:</b> \n<b>•</b> <code>CTS Passes by default</code>\n<b>•</b> <code>Checkout our website for all the necessary files, guide, device changelog etc.</code>\n\n"
-    msg += f"<b>Donate:</b>\n<b>UPI:</b> <code>dwarmachine24@oksbi</code> <code>dwarmachine24@paytm</code>\n<b>PayPal:</b> https://www.paypal.me/uglykid24"
+    if NOTES is not None:
+        msg += f"<b>Notes:</b>\n"
+        for LINES in NOTES.split('\n'):
+            msg+=f"<b>•</b> <code>{LINES}</code>\n"
+    msg += f"<b>\nDonate:</b>\n<b>UPI:</b> <code>dwarmachine24@oksbi</code> <code>dwarmachine24@paytm</code>\n<b>PayPal:</b> https://www.paypal.me/uglykid24"
     return msg
 
 # Prepare buttons for message
