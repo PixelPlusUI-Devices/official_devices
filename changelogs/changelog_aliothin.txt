@@ -1,128 +1,32 @@
 =====================================
-2022/04/01 11:26 Changes:
+PixelPlusUI v4.4 Android 12.1 Release 4
 =====================================
-April Fools' Day Release
+For Android 12.1 System was needed to be done from scratch.
+Part of stuffs can be replaced, added later, or not exist anymore.
+Thanks for understanding.
 =====================================
-!! Wipe data recommended from 4.3 !!
+Redmi K40/Xiaomi POCO F3/Xiaomi Mi 11x changes:
 =====================================
-- Port changes from SettingsGoogle
-- Settings: Add Columbus preference on gestures
-- Revert "Settings: Implement RoutinesActionBroadcastReceiver"
-- Settings: Revert to AOSP vibration intensity preferences
-- Settings: Fix listing dual SIMs with provider model 
-- Settings: Introduce PUI iconpack 
-- Settings: import xdroid-OSS settings base layout 
-- Settings: xdUI: Redesign our toolbar
-- Settings: Adapt xdUI base layout for our needs
-- PixelPropsUtils: Do not change props for Fortnite
-- FB: Port changes from SystemUIGoogle
-- FB: SystemUIGoogle: Import dagger dependencies 
-- FB: SystemUI: Introduce ColumbusCompatibilityHelper
-- FB: SystemUI: Add powershare QS tile
-- FB: Revert "SystemUI: Add HBM provider for UDFPS on Pixel devices"
-- FB: BatterySaverTileGoogle: Inject missing dependencies
-- FB: QSFactoryImplGoogle: Import our Custom QS Tiles
-- vendor: Update rro overlays from SP2A.220305.012
-- kernel: INSTALLED_RECOVERY_KERNEL -> INSTALLED_RECOVERY_KERNEL_TARGET
-- Import vendor/pixel-frameworks
-- config: product: build vendor interface for libdisplayconfig.qti
-- Revert to stable release kernel version 4.19.227
-- SystemUI: Fix QS status font weight mismatch in dark mode 
-- SystemUI: Remove nav bar background in QS customizer 
-- SystemUI: Add dual-tone light and dark themes for QS 
-- SystemUI: Initialize QS tiles in inactive state 
-- SystemUI: Follow light/dark theme in quick settings 
-- Revert "Do not re-inflate QS and SB when CONFIG_UI_MODE" 
-- Revert "Make QS always use dark theme colors" 
-- SystemUI: Reduce scrim color animation duration to 375 ms
-- Use default letter spacing for category titles
-- Link location indicators toggle in privacy settings
-- Replace writepid with task_profiles command for cgroup migration
-- Do not show camera indicator for Face Unlock service
-- audio: add support for extended formats (EVRC, QCELP ,LPCM, multichannel encoding, DSD)
-- media: Define MPEG-H Encoder Format
-- Settings: Initial implementation of FeatureFactoryImpl from Pixel
-- FeatureFactoryImpl: Implement AccountFeatureProviderGoogleImpl
-- Settings: update PowerUsageFeatureProviderGoogle to 12L
-- Settings: Remove divider from Battery Manage
-- Added support to Force Apps to FullScreen (Settings - Display - Full Screen Apps)
-- Correct CPU Info tile temperatures
-- Removed auto while colour balance (Not working)
-- SystemUI and Fonts rendering improvements
-- monet: Fix overly low chroma for tones below 90 
-- Skip screen on animation when wake and unlock via biometrics
-- SystemUI: Add machine learning back gesture provider
-- Merge Android 12.1 R2
-- Fix showing Updater in Settings
-- Removed Mobile network panel
-- Added full support of Mediatek devices
-- Additional IMS / Telephony fixes
-- keymasterV4_0: Tags support for FBE wrapped key. 
-- Update raven fingerprint to SP2A.220305.013.A3
-- Added AudioSessionInfo AIDL
-- More correct implementation of "Remove restrictions for system audio record"
-- common: Partially track Android.bp from device/qcom/qssi CAF project
-- Add support of UDFPS
-- Enable Smart Battery
-- Additional Fixes for Unlimited upload to Google Photos in original Quality
-- Add a lot of new QS tiles (Available in QS tiles settings)
-- Additional fixes for FaceUnlock usage with Banking apps
-- Additional fixes for AuthRippleController
-- Implement burn-in protection for statusbar/navbar
-- Enable config_showGesturalNavigationHints by default
-- A lot of improvements and bugfixes for Settings
-- Added PowerUsageFeatureGoogle
-- Add min/max HZ settings, also temp enabled Smooth Display setting, will be removed later
-- Disable face enrol on Setup Wizard
-- sepolicy: Allow Settings > Device info to load selinux status
-- sepolicy: Allow Settings to read selinux status
-- Revert "Disallow shrinking threadpool size once started."
-- adb: Add ro.adb.secure.recovery handling
-- libartpalette: Remove SetTaskProfiles when setting priority 
-- system/core: 
-init: Report valid verified boot for SafetyNet checks
-init: Skip interface duplicates if service is an override
-libutils -= libprocessgroup dep 
-libutils: don't call SetTaskProfiles around priority
-libutils: Remove a little dead code 
-- frameworks/base:
-KeyStore: Block key attestation for Google Play Services 
-base: Add support for app signature spoofing 
-Bluetooth: Added changes to avoid Null Pointer Exception 
-base: set scrolling friction to 0.006f 
-Move GraphicsStatsService native method registration to zygote.
-base: Show USB icon in ADB notification 
-=====================================
-Device Side:
-=====================================
-- Import IFAA BootJar repos
-- sm8250-common: Update CNE Stack from Miui 13.0.2.0 and import missing blobs
-- sm8250-common: BT: Add compilation of libbthost_if & libldacBT_bco to vendor
-- Revert sm8250-common: prop: Decrease media volume steps to 15 (Now again 30)
-- sm8250-common: Downgrade blobs to Miui 13.0.2.0 Global MI
-- Revert "sm8250-common: Enable freeform windows"
-- sm8250-common: build libqsap_sdk from source and changes to make it work
-- sm8250-common: proprietary-files: add CACertService.apk
-- sm8250-common: Audio: Restore default audio effects
-- sm8250-common: prop: Decrease media volume steps to 15
-- sm8250-common: audio: Enforce 24-bit audio for offload playback
-- sm8250-common: Fix Video Calling (Requires testing)
-- media: s/PRODUCT_PROPERTY_OVERRIDES/PRODUCT_VENDOR_PROPERTIES/g
-- display: s/PRODUCT_PROPERTY_OVERRIDES/PRODUCT_VENDOR_PROPERTIES/g
-- display-product: Correct path for sm8250
-- audio: kona: Use project pathmap
-- audio: Ahal: use project pathmap
-- audio: s/PRODUCT_PROPERTY_OVERRIDES/PRODUCT_VENDOR_PROPERTIES/g
-- Commits cleanup
-- Resurrect MotoDolby (Main Audio Parts still sourcebuilt)
-- Clean all SSR commits back to Miui State
-- Drop Lineage TouchFeature
-- Drop Miui TouchFeature
+- Added A12.1 QuickTap support
+- Update fingerprint position overlays for 12.1
 - Drop prebuild vendor.qti.hardware.audiohalext@1.0
-- Build vendor.qti.hardware.audiohalext@1.0 from source
-- Fixup: Add missing Bluetooth panel for QS Tile
-- Build opensource soundtrigger HAL
-- Update QTI DisplayComposer to @3.1
-- sm8250-common: rootdir: Set default thermal profile to '10'
-- sm8250-common: Update powerhint
+- Added IFAAManager to sources
+- Adapt status_bar_height overlays to 12.1
+- Update Immencity kernel to latest available sources
+- Imported Clang 14.0.5 for kernel builds
+- Kernel built with ThinLTO, ld.ldd and LLVM tools
+- Fixed potential random reboot bug 
+- Drop Lineage & Miui TouchFeature
+- Resurrect MotoDolby
+- Remove freeform windows support (Not implemented properly in AOSP, so useless)
+- Update QTI USB Hal to v1.3
+- Added flags for better RAM management & Faster work of system
+- Updated CAF Tags for display, media and audio drivers
+- Downgraded RIL & GNSS blobs to Miui 13.0.2.0 Global MI
+- Updated Audio, Camera and Sensors blobs from Miui 13.0.2.0 Global Mi
+- Dropped ATrace hal compilation
+- Fix display animation while AOD on/off screen, thanks to t.me/sayumx
+- AOD Autobrightness
+- Set default Settings.Global.DEVICE_NAME according to MIUI
+- And more changes
 =====================================
