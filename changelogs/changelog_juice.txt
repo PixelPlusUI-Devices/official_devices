@@ -1,18 +1,32 @@
 Device Changelog:
-- Bumped to v4.3
-- Switch to user build
-- QTI bt stack
-- Added xiaomiparts
-- Enable face unlock support
-- Fix for brightness flicker on some panels when turning off display
-- Fix screenshot sound leakage while connected to bluetooth
-- Reworked statusbar padding
-- Enable some kernel feature
-- Enable blur support
-- Disable GPU protected composition
+- Bumped to v4.4
+- Initial android 12.1 release
+- audio: Enforce 24-bit audio for offload playback
+- audio: Add hotword input for hotword mic concurrency
+- audio: correct routing order for voip output
+- props: Set ro.config.media_vol_steps to 8
+- Enable FUSE Passthrough
+- Switch primary output and deep buffer to 24 bit profile
+- Enable skia reduce ops task splitting
+- Use skiaglthreaded for Renderengine backend
+- Set max frame buffer to 3
+- Dropped Xiaomi Parts
+- props: Enable Rich-Communication Services
+- props: Disable VSync for CPU rendered apps
+- init: Tune ZRAM configuration
+- Disable hwc vds in surface flinger
+- Import sunfish cpusets configuration
+- overlay: Exempt IMS Service from location indicators
+- overlay: Set config_screen_off_delay to 0
+- overlay: Enable support for Bluetooth hearing Aids
+- overlay: Rework statusbar cutout and padding
+- Fully use RRO overlays (override vendor ones)
+- props: Import phase offset from sunfish
+- props: Add memory optimization
+- Update AOSP clang to 14.0.5
 
 Notes:
-- OTA available from previous build
+- Clean Flash is Compulsory
+- Enforcing + user build
 - Juice-Bengal as default kernel
 - Safetynet Passes By Default
-- Selinux enforcing
