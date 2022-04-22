@@ -1,60 +1,16 @@
-Device side changelog-
--Initial Build With New Decommonized Tree
+Changelog :
 
-Whats new?
--ANXCamera
--Mi Sound Enhancer(Settings>Sound and Vibration)
--Clear Speaker(Settings>Sound and Vibration)
--Thermal Profiles(Settings>System)
--Quick Tap(Settings>System>Gestures)
--Now You Can Take Screenshots Using Volume+Power Key Without Any Fail
--Much More - Try by yourself
+-Initial A12.1 Build
+-Improved Overall Smoothness
+-Nuked ANX,Thermal Profiles And Dirac.
 
 Notes:
--Make Sure To Flash 13.0.5 FW 
--Clean Flash
--OFOX Beta Is Recommended For Flashing
+-It Might Take 3-4 Mins To Pass The Redmi Logo
 
-PixelPlusUI V4.3 Release Changelog:
-- Added - Pixelizer finally
-- Added Applocker into System
-- Added Face Unlock into System
-- Pixelizer: Add back all SB network traffic options
-- PIXELIZER: Incall vibration options
-- Allow changing monet settings from - Pixelizer
-- PIXELIZER: Battery Customizations
-- PIXELIZER: Add Flashlight blink on incoming calls
-- Pixelizer: Allow to flash on call only when entirely silent
-- Pixelizer: Launch default music player on headset connect
-- Pixelizer: Allow forcing small keyguard clock
-- Bring back Udfps icons and Animations
-- Added Lockscreen Charging info
-- Pixelizer: Allow customizing footer text
-- Pixelizer: Allow choosing statusbar clock position
-- Pixelizer: Allow disabling QS battery estimates
-- Pixelizer: allow toggling location privacy indicator
-- Pixelizer: Allow toggling camera/mic privacy indicator
-- Pixelizer: Add volume panel on left toggle
-- Pixelizer: Alert Slider: Add toggle to disable notifications
-- Pixelizer: Add navbar layout inversion tuning
-- SystemUI: Use AndroidSystemBlur styled Blurs
-- SystemUI: Adapt screenrecord dialog switches UI to 12
-- SystemUI: Android 12L style Internet and Screenrecord dialogs
-- SystemUI: Use same background color for Internet and Screen record
-- SystemUI: Android 13 inspired Media Output Picker
-- Settings: Add vibration patterns from OOS
-- Settings: Allow choosing a custom vibration pattern
-- Settings: Allow customizing volume dialog timeout
-- Settings: Allow toggling floating rotation button
-- Settings: Add LiveDisplay
-- Settings: Enable blur on Bluetooth and Media control panel
-- Settings: allow disable of screenshot shutter sound
-- SystemUI: Alert slider: Introduce user interface for Alert Sliders
-- base: - SystemUI: Introduce DataSwitchTile
-- SystemUI: allow changing the length of gesture navbar
-- ven/aosp: Bump to 4.3
-- Updater: Add missing Storage permission
-- Updater: Show Changelogs inside Updater
-- Improved stability and performance
-- Misc changes and improvements
-- Much More - Try by yourself
+=====================================
+PixelPlusUI v4.4 Android 12.1 Release 4
+=====================================
+For Android 12.1 System was needed to be done from scratch.
+Part of stuffs can be replaced, added later, or not exist anymore.
+Thanks for understanding.
+=====================================
