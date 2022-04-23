@@ -1,60 +1,101 @@
-===== 17/03/2022 =====
-- Initial A12 build
-- Upstream kernel to 4.14.272
-- Huge kernel optimization
-- Optimized console framebuffer for upto 70% perfomance
-- General CPU scheduler improve
-- Added thunderquake engine v1.1 for vibration control
-- Add sioplus scheduler I/O and set it by default
-- Enabled all TCP algorithms (westwood by default)
-- Disabled CRC check by default
-- Fixed In-Call volume control with headphones
-- Fixed zRAM size on boot (3GB per stock)
-- Fixed MTK IMS crashes
-- Fixed lags in google camera (BufferFix)
-- TTL Fixation
-- Fixed screenrecorder (works only on Google OMX codec in begonia parts) & screenshots work
-- Fixed GoogleTTS crash
-- Fixed MTK oversharpness
-- Fixed WideVine L1 and Netflix work
-- Fixed boot time and init denials
-- Use bluetooth.audio@2.1 HALs
-- Disabled force camera sounds
-- Updated hotword permissions (for voice match)
-- Enabled 3rd party location providers support
-- Add additional network modes to settings
-- Disabled updatable apexes (fixes magisk installation)
-- Enabled bluetooth AVRCP v1.6 by default
-- Added props for fast charge
-- Use skiagl HWUI rendering
-- Removed some trash packages (like safety hub, partner setup and etc.)
-- Disabled V-Sync by default and disable it force for CPU rendering apps
-- Reduced numbers of CPUs for system-background apps
-- Use HintManager for HWUI
-- Compile HWUI for perfomance
-- Silence spammy logtags, fix audio param spam
-- Added some GFX flags for rendering
-- Disabled ART Debug
-- Optimized ART build flags
-- Added framework compatibility matrix for HIDL & AIDL hals
-- Disable I/O stats
-- Enable all cores on boot (on some custom kernels for unkown reasons big CPUs disabled)
-- Report max cpu frequiency to unity tasks and miHoYo games
-- Set stune boost for top-app, rt, foreground to 10 and enable prefer
-- Added props for HDR and Wide Colour Display support
-- Enabled display white balance
-- Removed wait_for_keymaster and all references in main init
-- Disabled Vulkan GPU rendering
-- Enabled 64-bit inode version support for ext4
-- Enabled pre-rendering feature
-- Added modified Begonia Parts by TTTT555
-- Added non-root Viper4AndroidFX (use legacy mode in settings)
-- Added Dirac and integrated into begonia
-- Added GCam BSG mod PV4 with config by Mark Kalash v1.7.2 (path to config: /sdcard/Gcam/Configs7/)
-- Added ANXCamera v185 with 48mp fix
-- Pack global and indian firmware into ROM archive (without TWRP)
-- Add support for AOD, face unlock, google recorder and live wallpapers
-- Add MTK Engineering Mode with full references
-- Fixed SEPolicy a lot for system and apps, more stable work
-- Improved UI smoothness
-- Minor changes
+=====================================
+PixelPlusUI v4.4 Android 12.1 Release 4
+=====================================
+For Android 12.1 System was needed to be done from scratch.
+Part of stuffs can be replaced, added later, or not exist anymore.
+Thanks for understanding.
+=====================================
+- Initial Android 12.1 build
+- Sync with latest sources PixelPlusUI v4.4
+- April security patch
+- Kernel upstream to 4.14.276
+- Rebase on 12.1 device branches by DarkJoker360Dev
+- Update global firmware images from V12.5.7.0.RGGMIXM
+- Update Indian firmware images from V12.5.8.0.RGGINXM
+- Update TWRP to v3.6.1_12-3 for Android 12.1 (Author: sambit) 
+- TWRP shipped built-in ROM zip
+- Implementation of Android Low Memory Killer
+- Expanded kernel-side TTL fixation
+- Added lots of new SELinux policies
+- Fixed Netflix and Amazon Prime Video running on SELinux Enforcing 
+- Improved device manifest structure
+- Removed incompatible device code in init
+- Dropped partition_permissions and throttle scripts (useless in AOSP)
+- The ueventd.rc unit has been moved to /vendor/etc for compatibility with A12.1
+- Useless waiting for keymaster in init removed
+- RAM and memory optimization
+- Imported new LMKD props for memory optimization
+- Import new dex and dalvik props and flags
+- Pre-dex stock Pixel Launcher
+- FS tuning for I/O speed increase
+- Declare memtrack AIDL HAL in FCM
+- Full support for zRAM writeback feature
+- Fixed swap file path in init
+- Swapiness parameter is set to 30
+- Vfs cache pressure is set to 130
+- Optimized zRAM usage
+- Removed useless keymaster wait in init, faster loading
+- Import new graphical props for smoothness
+- V-Sync enabled by default
+- Optimized props and flags for smoothness with V-Sync
+- Disable debug.sf.latch_unsignaled by default
+- Import config_avoidGfxAccel prop for RAM and GFX
+- Full switch to SkiaGL render
+- Enable Fading Marquee (smoothness optimization)
+- Added flags for smooth bootanimation
+- Drop HintManager for HWUI
+- Enable UI blur support
+- Fixed screen flicker in one handed mode
+- Fixed screen flicker in the navigation/status bar
+- Include libhwc2onfbadapter and libhwc2on1adapter as stock display dependencies
+- Remove white balance feature (does not work)
+- Enable display color mods feature (natural/boosted)
+- Fixed HDR work
+- Set display idle time to 0
+- Fix display animation while AOD on/off screen
+- Fixed AOD gestures in Begonia Parts
+- Fixed lagged fingerprint sensor
+- Fixed charging data display on lock screen
+- Improved DeepSleep work
+- Reduced CPUSet configuration for background and daemon tasks
+- Fixed CPU monitoring for little cluster
+- Removed some useless charging props
+- Possibly fixed fast charging
+- Reduce stune boost for each task to 1
+- Set media volume steps to 15
+- Set in-call volume steps to 10
+- Added missing USB audio policy
+- Enable vibration intensity control
+- Enable haptic feedback on text selection/insertion
+- Don't use all-caps text for buttons 
+- Reduce screenshot delay to 0
+- Fixed echoing when calling on WhatsApp
+- Fixed USB tethering operation
+- Enabled call recording support in Google Dialer
+- Disabled privacy indicator display for MTK IMS
+- Fixed network type, now there will be no problems sending SMS for some regions
+- Fixed IMS and GPS logspam, reduced other logspam
+- Switch to AOSP Wi-Fi Display
+- Dropped MMS User-Agent overlays
+- Fixed the system updater to crash during some activities
+- GCam BSG app was updated
+- Updated the config for GCam BSG to v1.3 by Mark Kalash
+- Removed more unnecessary preinstalled stuff from Google
+- Magisk Hide and Zygisk Denylist were improved for the banking applications
+- Fixed most of the sections in MTK engineering mode (Band Mode, Audio, Logs, etc.)
+- Fixed Begonia Parts crashes, if any
+- Added new FFMPEG H.264 decoder
+- Implemented Software C2 codecs part
+- Added new "Software C2" codec to Begonia Parts and set as default
+- Fixed vertical video quality in YouTube
+- Forced 4K quality support for YouTube
+- Fixed NewPipe crashes on MTK HW codecs
+- Fixed green line when shooting Instagram video on Google OMX codecs
+- Fixed SoundCloud cover art lags
+- Fixed some other media issues
+- Import some media props with sm6150
+- Import some media props for faster video decoding/encoding
+- Import MTK media extractors from MIUI
+- Battery, perfomance and smoothness optimizations
+- Bug fixes
+- Minor and forgotten changes
