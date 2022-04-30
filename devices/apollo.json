@@ -1,27 +1,27 @@
 {
 	"response": [
 		{
-			"maintainer": "MHMDeveloper",
-			"oem": "Xiaomi",
-			"device": "Mi 10T/Pro",
-			"filename": "PixelPlusUI_4.3_apollo-12.0-20220313-1037-OFFICIAL.zip",
-			"download": "https://download.ppui.site/eleven/apollo/PixelPlusUI_4.3_apollo-12.0-20220313-1037-OFFICIAL.zip",
-			"timestamp": 1647167820,
-			"md5": "172622952a586c45cfc001e61010410c",
-			"sha256": "6af2e471873c8003b1ac66ff8d48bfb5086ad45bae23acde6c9fc8b00982be6e",
-			"size": 2069794977,
-			"version": 4.3,
-			"buildtype": "Monthly",
-			"forum": "https://forum.xda-developers.com/t/rom-12-0-apollo-apollopro-pixelplusui-official-twelve-aosp.4380691/",
-			"firmware": "https://t.me/Mi10TSeriesCloud/91",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "https://androidfilehost.com/?fid=17825722713688274480",
-			"paypal": "https://paypal.me/uglykid24",
-			"telegram": "https://t.me/ppui_apollo",
-			"dt": "https://github.com/PixelPlusUI-devices/device_xiaomi_apollo",
-			"common-dt": "https://github.com/PixelPlusUI-devices/device_xiaomi_sm8250-common",
-			"kernel": "https://github.com/PixelPlusUI-devices/kernel_xiaomi_apollo"
+                        "maintainer": "Ahmed Tohamy (Agmad)",
+                        "oem": "Xiaomi",
+                        "device": "Mi 10T/Pro",
+                        "filename": "PixelPlusUI_4.4_apollo-12.1-20220430-1303-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/eleven/apollo/PixelPlusUI_4.4_apollo-12.1-20220430-1303-OFFICIAL.zip",
+                        "timestamp": 1651323776,
+                        "md5": "ca7e8cb0bd4a106eb68196279396ac2d",
+                        "sha256": "b2f42404f34230b6d4a4255863dd6b83d85b60005fa04ff21cf70aea5bcc8608",
+                        "size": 2182013084,
+                        "version": 4.4,
+                        "buildtype": "Monthly",
+                        "forum": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "https://mirrorbits.lineageos.org/recovery/apollon/20220319/lineage-18.1-20220319-recovery-apollon.img",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://t.me/ppui_apollo",
+                        "dt": "",
+                        "common-dt": "https://github.com/ahmedtohamy1/device_xiaomi_sm8250-common",
+                        "kernel": ""
 		}
 	]
 }
