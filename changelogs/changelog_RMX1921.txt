@@ -1,8 +1,10 @@
-
-• Kernel Upstream to 4.9.304
-
-• Kernel built with latest Neutron-Clang 14
-
+• Kernel Upstream to 4.9.311
 • Merged latest caf tag LA.UM.9.8.r1-04700-SDM710.0 in kernel
 
 • Merged qcacld-3.0, fw-api, qca-wifi-host-cmn wifi drivers from LA.UM.9.8.r1-04700-SDM710.0
+
+• Updated DPM, IMS, and RIL system blobs from LA.QSSI.12.0.r1-05800.02-qssi.0
+
+• Updated WiFi Display system blobs from LA.QSSI.12.0.r1-05800.02-qssi.0
+
+
