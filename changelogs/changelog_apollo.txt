@@ -1,7 +1,1 @@
-Updated to PixelPlusUI 4.3
-Improved system performance
-Fixed Screen Flicker
-Improved Kernel and Upstreamed
-More Optimized source
-FaceUnlock and App Lock Supported
-ETC
+Initial A12.1 release
