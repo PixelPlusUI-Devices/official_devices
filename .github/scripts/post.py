@@ -153,7 +153,7 @@ def message_content(information):
     msg += f"<b>Installation Guide:</b> <a href='https://github.com/PixelPlusUI-Devices/official_devices_a12/blob/snowcone/guides/{information['codename']}.md'>Here</a>\n"
     msg += f"<b>Screenshots:</b> <a href='https://ppui.site/gallery'>Here</a>\n"
     msg += f"<b>MD5:</b> <code>{information['md5']}</code>\n\n"
-    if NOTES is not None:
+    if NOTES is not None and len(NOTES) > 1:
         msg += f"<b>Notes:</b>\n"
         for LINES in NOTES.split('\n'):
             msg+=f"<b>•</b> <code>{LINES}</code>\n"
