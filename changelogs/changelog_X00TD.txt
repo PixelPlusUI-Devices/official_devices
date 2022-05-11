@@ -1,5 +1,5 @@
 =====================================
-PixelPlusUI v4.4 Android 12.1 Release 4
+PixelPlusUI v4.5 Android 12.1 Release 5
 =====================================
 For Android 12.1 System was needed to be done from scratch.
 Part of stuffs can be replaced, added later, or not exist anymore.
@@ -7,19 +7,13 @@ Thanks for understanding.
 =====================================
 Asus Zenfone Max Pro M1 (X00T/D) changes:
 =====================================
-- Initial Android 12.1 release
-- Updated FP to Raven April 
-- Added powerhint for sdm660 and sdm636
-- Removed qti perf stack
-- rootdir: Create a cpuset for camera-specific processes
-- libperfmgr: Updated from android12-release
-- power-libperfmgr: Switched to AIDL Power HAL
-- Configured dext2oat for pre-optimization
-- Removed FM Tuner from audio input devices
-- Updated Graphics blobs from LA.UM.8.2.r1-07400-sdm660.0
-- Switched from Schedtune to UClamp
-- Used speed tuning for performance critical applications
-- Optimized ART props
+- Updated FP to Raven May
+- Remove vendor RenderScript implementation
+- Fixed Data usage
+- Improved overall device performance
+- Improved scrolling and RAM management
+- Removed updatable-media from pinner services
+- Decreased launch boost to 3sec
 - Misc improvements and changes
 - CTS passed by default
 - ROM is NON-FBE & LV build
