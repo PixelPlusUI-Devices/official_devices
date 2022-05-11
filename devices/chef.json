@@ -1,0 +1,27 @@
+{
+    "response": [
+            {
+                    "maintainer": "saucefinder",
+                    "oem": "Motorola",
+                    "device": "Motorola One Power",
+                    "filename": "PixelPlusUI_4.5_chef-12.1-20220511-0914-OFFICIAL.zip",
+                    "download": "https://download.ppui.site/twelve/chef/PixelPlusUI_4.5_chef-12.1-20220511-0914-OFFICIAL.zip",
+                    "timestamp": 1652280867,
+                    "md5": "ac87db2f15ab21a3cad8c4f5434a69f3",
+                    "sha256": "cc982b80b075640e67ba152b0a5f28b5e4f1376965a40a3c733c3a2eaa9dc498",
+                    "size": 1193933316,
+                    "version": 4.5,
+                    "buildtype": "Monthly",
+                    "forum": "https://forum.xda-developers.com/t/official-rom-12-chef-pixelplusui-aosp.4444387/",
+                    "firmware": "",
+                    "modem": "",
+                    "bootloader": "",
+                    "recovery": "https://dl.twrp.me/chef/",
+                    "paypal": "https://paypal.me/uglykid24",
+                    "telegram": "https://t.me/motorolaonepower",
+                    "dt": "https://github.com/rushiranpise/device_motorola_chef",
+                    "common-dt": "https://github.com/rushiranpise/device_motorola_sdm660-common",
+                    "kernel": "https://github.com/rushiranpise/kernel_motorola_msm8998"
+            }
+    ]
+}

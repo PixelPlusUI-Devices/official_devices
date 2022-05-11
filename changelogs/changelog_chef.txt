@@ -1,0 +1,9 @@
+PixelPlusUI v4.5 Android 12.1 Release 5
+=====================================
+For Android 12.1 System was needed to be done from scratch.
+Part of stuffs can be replaced, added later, or not exist anymore.
+Thanks for understanding.
+=====================================
+Motorola One Power (chef) changes:
+=====================================
+- Initial Official build
