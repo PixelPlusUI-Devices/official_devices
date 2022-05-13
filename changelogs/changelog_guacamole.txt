@@ -1,10 +1,11 @@
-UpStreamed Kernel to V4.14.271
-Fixed issues related to FOD on AOD
-Added Off screen Finger Print Scanning option
-Added OnePlus Camera for Photos only
-Added Alert Slider Notification
-Reimported OnePlus Settings
-Added LiveDisplay 
-Fixed Screen Flicker
-Updated Display and Media Blobs (Better HDR)
-ETC (I forget Rest of ChangeLogs)
+UpStreamed Kernel to V4.14.278
+Turn OFF off-screen FingerPrint Scanning
+ReImported OnePlus Settings with exiting new features
+Improved ZRAM performance
+Updated MEDIA and DISPLAY CAF Tags
+Added Battery Health Nods
+Added Support for OnePlus Apps (Camera, Gallery, Screen Recorder, FileManager) Install then manually
+Updated blobs from OSS 11.0.7.1
+Updated USB Hals
+Increased dalvik-heap to 6GB
+Improved Wifi Speed
