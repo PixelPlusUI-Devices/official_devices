@@ -1,3 +1,11 @@
+## PPUI 4.5
+ - May security patch
+ - Addressed camera denials
+ - updated target screen density
+ - Build camera libs
+ - Enabled NGA
+
+
 ## PPUI 4.4
  - April security patch
  - Added missing lib needed for depth camera sensor
