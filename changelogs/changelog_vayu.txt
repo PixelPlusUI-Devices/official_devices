@@ -1,8 +1,36 @@
-Device Changelog:
-#VAYU 4.3
+Device Changes 
+
+==========================================================================
+PixelPlusUI v4.5 
+==========================================================================
+ - Increase SWAP (zRAM) memory to improve system smoothness
+ - Add G Cam by BSG as default [Bug: Camera crashing when system's camera API is requested] 
+ - Enable haptics when swiping text cursor
+ - Remove mobile plan from Settings -> Network & Internet
+ - Set Recommended Night Display Color Temperature as default 
+ - Make the UI smoother on top of smoothness provided by Android 12.1
+ - Added modded Pixel Launcher as prebuilt home app
+    - Double Tap to Sleep
+    - More Grids Options [Available 6x9, 6x8, 6x7, 6x6, 5x8, 5x7, 5x6, 5x5, 4x7, 4x6, 4x5, 4x4, 3x3, 2x2]
+    - The appearance of app-drawer in-device search bar colour in light/dark theme is correct(which is buggy in original pixel launcher on all aosp based roms, only works fine in pixel devices)
+    - Search Results Highlight Colour shows in material you colour. When you press enter while highlighting search results, that app/settings opens. Subtle Changes in Group Highlights & Search Box Highlight
+    - Smoothness better than original launcher. Added Tweaks which makes the launcher more smoother.
+    - [Bug] Weather widget in 'At a Glance' widget (below calendar/date) not launching google weather app (Weather data is working fine tho)
+ - Reduce time taken to boot into system (Faster boot times, usually took 10 seconds to move from splash screen to boot animation, reduced that delay to half)
+ - Revert "combined signal icons in status bar"
+ - Add call recording to Google Phone app
+ - Show Turbo Charging when using the proprietary charger, like MIUI
+ - Video captured in ScrenRecorder is capped to 120 FPS
+ - Some network and GPS improvemnts
+
+==========================================================================
+PixelPlusUI v4.3 
+==========================================================================
  - Nuke Adaptive Charging
 
-#VAYU 4.2
+==========================================================================
+PixelPlusUI v4.2 
+==========================================================================
  - Add support for AUX camers in Open Camera App
  - Nuke default camera app
  - VILTE calls working
