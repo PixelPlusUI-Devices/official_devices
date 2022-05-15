@@ -1,16 +1,8 @@
 Changelog :
 
--Initial A12.1 Build
--Improved Overall Smoothness
--Nuked ANX,Thermal Profiles And Dirac.
-
-Notes:
--It Might Take 3-4 Mins To Pass The Redmi Logo
+- Updated Fingerprint Overlay Location
+- Improved Bootanimation Launching Time
 
 =====================================
-PixelPlusUI v4.4 Android 12.1 Release 4
-=====================================
-For Android 12.1 System was needed to be done from scratch.
-Part of stuffs can be replaced, added later, or not exist anymore.
-Thanks for understanding.
+PixelPlusUI v4.5 Android 12.1 Release 5
 =====================================
