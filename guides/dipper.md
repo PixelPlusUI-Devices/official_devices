@@ -10,6 +10,8 @@
 
 3. Wipe System, Data, Dalvik, Cache, Vendor
 
-4. Flash PixelPlusUI ROM zip
+4. In TWRPIOrangeFox, open Terminal (Advanced/ Terminal in TWRP, Menu/More/Terminal in OrangeFox), and run command mke2fs -t ext4 -b 4096 /dev/block/bootdevice/by-name/cust, then enter "y" to confirm.
 
-5. Reboot to System
+5. Flash PixelPlusUI ROM zip
+
+6. Reboot to System

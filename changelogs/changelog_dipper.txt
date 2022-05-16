@@ -1,0 +1,8 @@
+Initial build by LuMorningStarr
+Shipped without encryption for better instalation by twrp orangefox
+LiveDisplay added
+Kernel Etude Op.12 No.3
+4.9.313
+Shipper without pixel thermal
+Overlays adapted to A12.1
+Mic and sound upstreamed
