@@ -2,26 +2,17 @@
         "response": [
                 {
                         "maintainer": "SoldatSempai",
-                        "oem": "Xiaomi",
                         "device": "Redmi Note 8 Pro",
-                        "filename": "PixelPlusUI_4.4_begonia-12.1-20220423-0449-OFFICIAL.zip",
-                        "download": "https://download.ppui.site/twelve/begonia/PixelPlusUI_4.4_begonia-12.1-20220423-0449-OFFICIAL.zip",
-                        "timestamp": 1650689038,
-                        "md5": "8ea26cc279c43ffb9d74ad6f0bbec2bb",
-                        "sha256": "54e1986ddf59342627dfa30ff37c34a7fe5eb31823795aa0f1a6cdb30a5cc2d1",
-                        "size": 2219503233,
-                        "version": 4.4,
+                        "filename": "PixelPlusUI_4.5_begonia-12.1-20220517-1506-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/twelve/begonia/PixelPlusUI_4.5_begonia-12.1-20220517-1506-OFFICIAL.zip",
+                        "timestamp": 1652799713,
+                        "md5": "75bd7e7cd6f4be3d26d3c02b9382b3c5",
+                        "sha256": "404b5871c5fd09cf287d9322cd883c47932e490309d33d9ed67831d5ab0ee260",
+                        "size": 2150484459,
+                        "version": 4.5,
                         "buildtype": "Monthly",
-                        "forum": "https://forum.xda-developers.com/t/4417779/",
-                        "firmware": "https://github.com/7Soldier/vendor_redmi_begonia-firmware",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "",
                         "paypal": "https://paypal.me/uglykid24",
-                        "telegram": "https://t.me/ppui_begonia",
-                        "dt": "https://github.com/PixelPlusUI-Devices/device_redmi_begonia",
-                        "common-dt": "",
-                        "kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_mt6785"
+                        "telegram": "https://t.me/ppui_begonia"
                 }
         ]
 }
