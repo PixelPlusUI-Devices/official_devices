@@ -1,101 +1,62 @@
 =====================================
-PixelPlusUI v4.4 Android 12.1 Release 4
+PixelPlusUI v4.5 Android 12.1 Release 5
 =====================================
 For Android 12.1 System was needed to be done from scratch.
 Part of stuffs can be replaced, added later, or not exist anymore.
 Thanks for understanding.
 =====================================
-- Initial Android 12.1 build
-- Sync with latest sources PixelPlusUI v4.4
-- April security patch
-- Kernel upstream to 4.14.276
-- Rebase on 12.1 device branches by DarkJoker360Dev
-- Update global firmware images from V12.5.7.0.RGGMIXM
-- Update Indian firmware images from V12.5.8.0.RGGINXM
-- Update TWRP to v3.6.1_12-3 for Android 12.1 (Author: sambit) 
-- TWRP shipped built-in ROM zip
-- Implementation of Android Low Memory Killer
-- Expanded kernel-side TTL fixation
-- Added lots of new SELinux policies
-- Fixed Netflix and Amazon Prime Video running on SELinux Enforcing 
-- Improved device manifest structure
-- Removed incompatible device code in init
-- Dropped partition_permissions and throttle scripts (useless in AOSP)
-- The ueventd.rc unit has been moved to /vendor/etc for compatibility with A12.1
-- Useless waiting for keymaster in init removed
-- RAM and memory optimization
-- Imported new LMKD props for memory optimization
-- Import new dex and dalvik props and flags
-- Pre-dex stock Pixel Launcher
-- FS tuning for I/O speed increase
-- Declare memtrack AIDL HAL in FCM
-- Full support for zRAM writeback feature
-- Fixed swap file path in init
-- Swapiness parameter is set to 30
-- Vfs cache pressure is set to 130
-- Optimized zRAM usage
-- Removed useless keymaster wait in init, faster loading
-- Import new graphical props for smoothness
-- V-Sync enabled by default
-- Optimized props and flags for smoothness with V-Sync
-- Disable debug.sf.latch_unsignaled by default
-- Import config_avoidGfxAccel prop for RAM and GFX
-- Full switch to SkiaGL render
-- Enable Fading Marquee (smoothness optimization)
-- Added flags for smooth bootanimation
-- Drop HintManager for HWUI
-- Enable UI blur support
-- Fixed screen flicker in one handed mode
-- Fixed screen flicker in the navigation/status bar
-- Include libhwc2onfbadapter and libhwc2on1adapter as stock display dependencies
-- Remove white balance feature (does not work)
-- Enable display color mods feature (natural/boosted)
-- Fixed HDR work
-- Set display idle time to 0
-- Fix display animation while AOD on/off screen
-- Fixed AOD gestures in Begonia Parts
-- Fixed lagged fingerprint sensor
-- Fixed charging data display on lock screen
-- Improved DeepSleep work
-- Reduced CPUSet configuration for background and daemon tasks
-- Fixed CPU monitoring for little cluster
-- Removed some useless charging props
-- Possibly fixed fast charging
-- Reduce stune boost for each task to 1
-- Set media volume steps to 15
-- Set in-call volume steps to 10
-- Added missing USB audio policy
-- Enable vibration intensity control
-- Enable haptic feedback on text selection/insertion
-- Don't use all-caps text for buttons 
-- Reduce screenshot delay to 0
-- Fixed echoing when calling on WhatsApp
-- Fixed USB tethering operation
-- Enabled call recording support in Google Dialer
-- Disabled privacy indicator display for MTK IMS
-- Fixed network type, now there will be no problems sending SMS for some regions
-- Fixed IMS and GPS logspam, reduced other logspam
-- Switch to AOSP Wi-Fi Display
-- Dropped MMS User-Agent overlays
-- Fixed the system updater to crash during some activities
-- GCam BSG app was updated
-- Updated the config for GCam BSG to v1.3 by Mark Kalash
-- Removed more unnecessary preinstalled stuff from Google
-- Magisk Hide and Zygisk Denylist were improved for the banking applications
-- Fixed most of the sections in MTK engineering mode (Band Mode, Audio, Logs, etc.)
-- Fixed Begonia Parts crashes, if any
-- Added new FFMPEG H.264 decoder
-- Implemented Software C2 codecs part
-- Added new "Software C2" codec to Begonia Parts and set as default
-- Fixed vertical video quality in YouTube
-- Forced 4K quality support for YouTube
-- Fixed NewPipe crashes on MTK HW codecs
-- Fixed green line when shooting Instagram video on Google OMX codecs
-- Fixed SoundCloud cover art lags
-- Fixed some other media issues
-- Import some media props with sm6150
-- Import some media props for faster video decoding/encoding
-- Import MTK media extractors from MIUI
-- Battery, perfomance and smoothness optimizations
-- Bug fixes
-- Minor and forgotten changes
+- Sync with latest sources PixelPlusUI v4.5
+- May security patches
+- Kernel upstream to 4.14.279
+- Reworked TWRP flashing scheme from the ROM archive, reduced archive size
+- Added ThunderCharge and Force Fast Charge drivers in kernel
+- Changed Bluetooth AVRCP version to 1.5 by default, fixes connection breakdowns with older BT devices
+- IMS Service replaced with APK from PE+, VoWIFI fixed
+- Disable remote KeyGuard animation via prop (fixed lag when unlocking the phone)
+- Fixed saving gesture settings in Begonia Parts
+- Fixed saving the vibration strength value on reboot in Begonia Parts
+- Fixed scrolling lags in YouTube when viewed in 1080p
+- Disabled network settings provider (fixes sim card bugs)
+- Removed incorrect audio pre-processing effects, less logspam, more stability in sound
+- Removed incorrect audio parameters, less logspam, more stability in sound
+- Mi Audio changed to MTK BesSound, less logspam, more sound stability
+- Declared missing HAL services (more proper work of backend)
+- Removed support for call recording in Google Dialer (did not work anywhere)
+- Fixed Dolby Atmos on SELinux Enforcing (Dolby itself is not included)
+- Fixed temperature display in CPU monitor
+- Properly disabled NFC on begoniain units
+- USB Audio Policy replaced with the correct one from the system side
+- Maybe fixed scrolling lags in Twitter, Google Chrome
+- Added more SELinux security policies
+- Fixed background displayfeature crash during to wrong SEPolicy
+- Disabled blur on app opening
+- Added battery monitor in settings
+- Removed a ton of useless props
+- Switching priv-app control mode to Enforcing
+- Generate priv-app permissions for MTK Engineering Mode
+- Added Camera and YGPS sections to MTK Engineering Mode
+- Added advanced backend of the C2 for others codecs
+- Include in build android OMX HALs (codecs backend)
+- Added custom configurations for unlimited Google Photos
+- Performance profiles moved from the vendor to the device tree
+- Reconfiguration of performance profiles to optimize battery life and performance
+- CPU usage for system background processes reduced to 2 cores
+- Disabled stune boosts for real-time group and foreground processes 
+- Disabled prefer idle and prefer high cap for real time group and foreground processes 
+- Dex Pre-Opt for Google and Phonesky services
+- Disabled more ART and DEX debug, test utilities
+- Added more DEX optimization flags
+- Integrated some parts of NLSound for MTK
+- - Disabling deep sound buffer for media
+- - Expansion of bit-rate range for many channels to 24/32 bit
+- - Expansion of sound frequency range for many channels
+- - Enabling HI-FI for headphones
+- - Enabling some audio features hidden in Device Features 
+- - Other audio enhancements
+- Added MTK PQ (MTK HDR) switch to Begonia Parts
+- Added Thermal Driver switch to Begonia Parts
+- Added USB fast charge switch to Begonia Parts
+- Added SELinux switch to Begonia Parts
+- Added MTK Engineering Mode opener in Begonia Parts
+- Optimizing battery backup, performance and smoothness
+- Minor changes
