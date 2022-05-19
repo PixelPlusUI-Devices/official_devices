@@ -1,0 +1,9 @@
+=====================================
+PixelPlusUI v4.5 Android 12.1 Release 5
+=====================================
+- Initial Official Build
+- Cleanup early_boot script (Even more)
+- Disable QCOM system daemon
+- Allow nv_mac to read /dev/diag
+- Remove unnecessary QTI logkit directories
+=====================================
