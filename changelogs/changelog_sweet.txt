@@ -1,10 +1,4 @@
-==== 16th March, 2022 ====
-• Updated Miui 13 blobs
-• Update media codecs from miui 13
-• pin QTI vibrator from MIUI v12.5.8.0 RKFMIXM9
-• props: Force triple frame buffers
-• Switch to Vulkan UI renderer
-• overlay: decrease status bar top padding value
-• enable quick tap
-• Added Anx Prebuilt
-• And more .
+- Initial Android 12.1 release
+- Safetynet Passes By Default
+- Selinux Enforcing
+
