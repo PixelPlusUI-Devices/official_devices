@@ -2,26 +2,20 @@
   "response": [
     {
       "maintainer": "Chandler_bing_here",
-      "oem": "Poco",
       "device": "Poco X3 Pro",
-      "filename": "PixelPlusUI_4.5_vayu-12.1-20220513-1221-OFFICIAL.zip",
-      "download": "https://download.ppui.site/eleven/vayu/PixelPlusUI_4.5_vayu-12.1-20220513-1221-OFFICIAL.zip",
-      "timestamp": 1652444486,
-      "md5": "bc8584465eb997fd25bae38ce24da7c4",
-      "sha256": "1a9c4bd117c07d63e4eb4741281ff4f0361747c9bd12ded5b9050b767ab6af41",
-      "size": 2020798594,
+      "filename": "PixelPlusUI_4.5_vayu-12.1-20220522-2206-OFFICIAL.zip",
+      "download": "https://download.ppui.site/twelve/vayu/PixelPlusUI_4.5_vayu-12.1-20220522-2206-OFFICIAL.zip",
+      "timestamp": 1653257173,
+      "md5": "8d554cac3ca966c9960875dcf1f95048",
+      "sha256": "293b83d90dc659154309dc70b49ab2737995f84785bc08f09fb078fb5dc8dcbc",
+      "size": 2044322393,
       "version": 4.5,
-      "buildtype": "Monthly",
+      "buildtype": "Hotfix",
       "forum": "https://forum.xda-developers.com/t/4415965",
       "firmware": "https://xiaomifirmwareupdater.com/archive/firmware/vayu/",
-      "modem": "",
-      "bootloader": "",
       "recovery": "https://orangefox.download/device/vayu",
       "paypal": "https://paypal.me/sanjeevstunner",
-      "telegram": "https://t.me/ppui_vayu",
-      "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_vayu",
-      "common-dt": "",
-      "kernel": "https://github.com/Jebaitedneko/android_kernel_xiaomi_vayu/tree/r2"
+      "telegram": "https://t.me/ppui_vayu"
     }
   ]
 }

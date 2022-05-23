@@ -1,6 +1,21 @@
 Device Changes 
 
 ==========================================================================
+PixelPlusUI v4.5 HotFix
+==========================================================================
+ - Updated GCam to latest version (MGC_8.1.101_A9_GV1zfix) Source HERE
+ - Add QS tile to launch Thermal Profiles
+ - Add Ambient Display settings
+   - Pick-up to wake device
+   - Hand Wave to wake device
+   - Wake device when out of pocket
+ - Add FPS info QS tile
+ - Update Pixel Launcher MOD to v8.4
+   - Added themed icons from the module
+   - More changelogs -> https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-03-31-2
+[BUG FIX] Fixed lags in system UI
+
+==========================================================================
 PixelPlusUI v4.5 
 ==========================================================================
  - Increase SWAP (zRAM) memory to improve system smoothness
