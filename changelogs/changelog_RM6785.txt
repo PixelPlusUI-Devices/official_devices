@@ -1,12 +1,11 @@
-==== 14th March, 2022 ====
-• February Security Patch
-• Passes SafetyNet out-of-the-box
-• Use GcamGo as default
-• Fixed screen flicker
-• Fixed charging info on lockscreen
-• Fixed native screen recorder
-• Fixed offline charging
-• Miscellaneous changes
-• Fixed DRM Widevine L1
-• Upstreamed kernel to 4.14.266
-• Added F2FS support for userdata partition
+==== 23th May, 2022 ====
+• May ASB (android-12.1.0_r5)
+• SELinux Enforcing
+• PixelplusUI source upstream
+• Fixed Auto brightness QS toggle
+• Unlocked Google app weather widgets
+• Improved haptics
+• Improved UI performance
+• Fixed lag on viewfinder in GCam
+• power: Boost min CPU freq to 1618000,1419000 on interaction
+• Drop redundant secure element service
