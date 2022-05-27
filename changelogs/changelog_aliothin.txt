@@ -1,4 +1,29 @@
 =====================================
+PixelPlusUI v4.6-PreRelease Android 12.1 Release 5
+=====================================
+This is not scheduled planned release, some features can be in {BETA}
+=====================================
+- PixelPropsUtils: Rework for PPUI environment, fix Hide for Tencent Games
+- Added Pixelizer with initial customizations implementations - thanks to mhmdeve
+- Added GameSpace - thanks to nullxception, Neobuddy and Stallix for main changes and implementations
+- Monet Customizations, App Lock, Black Theme, Fonts customizations, Blurs {Beta} and more other features added to system
+- Improve hide for SafetyNet spoofs
+- Much more...
+=====================================
+Device Side:
+=====================================
+- Update vendor from Miui 13.0.6.0 Global Europe
+- Final sepolicy rules for Ks/mdm_helper support (Ported from Sony Devices and Adapted for Xiaomi 8250)
+- audio: Use QCOM implementation for audio effects
+- Inherit Build time optimizations for platform
+- Revert "sm8250-common: audio: Use USB audio policy configuration from AOSP" (USB dac was broken)
+- Import & adapt qti vibrator effects
+- Import vibrator service prebuilts from Miui 13.0.4.0 EU
+- Implement support of vendor.qti.hardware.btconfigstore@2.0
+- Update and improve props from Miui Alioth V13.0.4.0.SKHEUXM
+- Improve Ultrasound Proximity Sensor
+- Latest kernel upstreams & adapt Vibraor for current environment
+=====================================
 PixelPlusUI v4.5 Android 12.1 Release 5
 =====================================
 - Full rework of device trees from scratch on top of LineageOS 19.1
