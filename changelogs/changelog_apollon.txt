@@ -1,4 +1,69 @@
 =====================================
+PixelPlusUI v4.6-PreRelease Android 12.1 Release 5
+=====================================
+This is not scheduled planned release, some features can be in {BETA}
+=====================================
+- PixelPropsUtils: Rework for PPUI environment, fix Hide for Tencent Games
+- Added Pixelizer with initial customizations implementations - thanks to mhmdeve
+- Added GameSpace - thanks to nullxception, Neobuddy and Stallix for main changes and implementations
+- Monet Customizations, App Lock, Black Theme, Fonts customizations, Blurs {Beta} and more other features added to system
+- Improve hide for SafetyNet spoofs
+- Much more...
+=====================================
+Device Side:
+=====================================
+- All blobs updated from MIUI-APOLLOEEA-13.0.6.0
+- Final sepolicy rules for Ks/mdm_helper support (Ported from Sony Devices and Adapted for Xiaomi 8250)
+- audio: Use QCOM implementation for audio effects
+- Inherit Build time optimizations for platform
+- Fixed USB dac 
+- Import & adapt qti vibrator effects
+- Updated and improved props from latest Miui
+- Improved Ultrasound Proximity Sensor behavior
+- Latest kernel upstreams 
+- Fixed wrong battery capacity report 
+- Removed Dolby Atmos (refer to support group for getting dolby again)
+- Disable showing BatteryHealth info in Settings
+- Drop deprecated power profile configs 
+- Declare default screen density
+- set Night Display Default Color Temperature
+- Import display calibration blobs from HelluvaOS
+- Import stock HVDCP props 
+- Update Service Tracker QTI Impl from 13.0.6.0 Europe Miui
+- Update Listen Blobs from Miui 13.0.6.0 Europe Miui
+- Update IPA firmware Blobs from 13.0.6.0 Europe Miui
+- Update ssrec Blobs from 13.0.6.0 Europe Miui
+- Update ADSP Blobs from 13.0.6.0 Europe Miui
+- Update cnss-daemon from  13.0.3.0 Global Miui
+- Update RIL blobs from 13.0.3.0 Global Miui
+- releasetools: Print a read-able message while flashing
+- Update surfaceflinger props 
+- Apply 64-bit inode version support 
+- start bootanimation on late-fs 
+- Set 50% Zram size
+- Remove zram cold page writeback file 
+- Enable zram writeback 
+- tune zram performance 
+- Properly label qvr_external_sensor fd
+- Correct wi-fi permissions
+- Provide proper permissions for audio folder
+- Disable vendor.lowi by default
+- Disable adsprpcd 
+- Sepolicy: Further improve mdm_helper sepolicy
+- Delete non-existing ssr_[setup/debug/ramdump] 
+- Remove duplicate "start logd" 
+- Clean up non-existing cpu_boost nodes 
+- Drop QTI camera device usage 
+- Remove 5g_mode_pref for 4G Only Support 
+- Drop ims-vt prop and overlay 
+- Import LMK props from stock 
+- Label thermal_hbm_disabled 
+- disable phantom process monitoring
+- Remove config_jitzygoteBootImagePinnerServiceFiles list 
+- Use stop instead of setprop for console 
+- Disable serial console notification 
+- Disable some gms components for better WiFi speeds 
+=====================================
 
 PixelPlusUI v4.5 Android 12.1 Release 5
 
