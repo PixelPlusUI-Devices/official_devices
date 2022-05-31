@@ -1,0 +1,27 @@
+{
+        "response": [
+                {
+                        "maintainer": "Zahran Ansaria",
+                        "oem": "Xiaomi",
+                        "device": "Redmi Note 11",
+                        "filename": "PixelPlusUI_4.5_spes-12.1-20220530-1041-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/twelve/juice/PixelPlusUI_4.5_spes-12.1-20220530-1041-OFFICIAL.zip",
+                        "timestamp": 1653892588 ,
+                        "md5": "cef32ac6225dd49a0641766e51f51a4c",
+                        "sha256": "ba855e6bb024ae0c21237f20e31088ab7c7accc3393853e96f7be54285541a71",
+                        "size": 1565272561,
+                        "version": 4.5,
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/rom-official-12-1-pixelplusui-v-4-x-spes-spesn.4452395/",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://t.me/ppuispes",
+                        "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_spes",
+                        "common-dt": "",
+                        "kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_spes"
+                }
+        ]
+}
