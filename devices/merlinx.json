@@ -1,0 +1,20 @@
+{
+    "response": [
+   {
+    "maintainer": "LuMorningStarr",
+    "oem": "Redmi",
+    "device": "Note 9",
+    "filename": "PixelPlusUI_4.5_merlinx-12.1-20220531-0442-OFFICIAL.zip",
+    "download": "https://download.ppui.site/twelve/merlinx/PixelPlusUI_4.5_merlinx-12.1-20220531-0442-OFFICIAL.zip",
+    "timestamp":  1653842736,
+    "md5": "5e0fdee4bcde55c4d5902f87b0a5e39f",
+    "sha256": "3b5b876d3ba5432de330c1118c5bfc9d8594bd2426776b5b40aefcb8a5a0f2fc",
+    "size": 1727075329,
+    "version": 4.5,
+    "buildtype": "Monthly",
+    "paypal": "https://paypal.me/uglykid24",
+    "telegram": "https://t.me/ppui_merlin"
+   }
+   ]
+   }
+   
