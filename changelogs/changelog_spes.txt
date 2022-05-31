@@ -1,0 +1,7 @@
+## 4.5 Spes/Spesn
+
+- Initial Official Release
+- Disable pocket mode support
+- Disable NearbyMessagesService
+- OSS Vendor
+- SELinux Enforcing
