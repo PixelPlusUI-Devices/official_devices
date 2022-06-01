@@ -1,0 +1,27 @@
+{
+        "response": [
+                {
+                        "maintainer": "Matheus Costa",
+                        "oem": "Xiaomi",
+                        "device": "Redmi 9 / Poco M2",
+                        "filename": "PixelPlusUI_4.6-PreRelease_lava-12.1-20220531-1832-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/twelve/lava/PixelPlusUI_4.6-PreRelease_lava-12.1-20220531-1832-OFFICIAL.zip",
+                        "timestamp": 1654021774 ,
+                        "md5": "b453945104b646f75ba779d8e7841533",
+                        "sha256": "b9c99f35dac16cadcb2bd755cb03aab5ff9b512dc18a77a4e0184f85a2b51abd  ",
+                        "size": 1707572244,
+                        "version": 4.5,
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/rom-12-1-official-pixelplusui-redmi-9-poco-m2-lava.4452735/",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://t.me/ppui_lancelot",
+                        "dt": "https://github.com/PixelExperience-Devices/device_xiaomi_lava",
+                        "common-dt": "https://github.com/PixelExperience-Devices/device_xiaomi_mt6768-common",
+                        "kernel": "https://github.com/PixelExperience-Devices/kernel_xiaomi_mt6768"
+                }
+        ]
+}
