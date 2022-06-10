@@ -1,4 +1,1 @@
-• Updated DPM, IMS, RIL & WFD system blobs From LA.QSSI.12.0.r1-07000-qssi.0
-
-• Updated GPS blobs & configs from pnx_sprout
-
+• Kernel Upstream to 4.9.316
