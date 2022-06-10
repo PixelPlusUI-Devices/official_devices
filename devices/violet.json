@@ -1,19 +1,21 @@
 {
- "response": [
-{
- "maintainer": "ugly_kid_af",
- "oem": "Xiaomi",
- "device": "Redmi Note 7 Pro",
- "filename": "PixelPlusUI_4.5_violet-12.1-20220514-1036-OFFICIAL.zip",
- "download": "https://private.ppui.site/twelve/violet/PixelPlusUI_4.5_violet-12.1-20220514-1036-OFFICIAL.zip",
- "timestamp":  1652524584,
- "md5": "edfe3a0b20035e8d5bce51c618fbeb63",
- "sha256": "1eadd944294ef59f9db680b663cd22615210c68a2dfc2bfd5026acb46866b6bd",
- "size": 1843905057,
- "version": 4.5,
- "forum": "https://forum.xda-developers.com/t/rom-12-0-violet-pixelplusui-official-twelve-aosp.4374079/",
- "paypal": "https://paypal.me/uglykid24",
- "telegram": "https://t.me/noobs_build"
-}
-]
+        "response": [
+                {
+                        "maintainer": "ugly_kid_af",
+                        "device": "Redmi Note 7 Pro",
+                        "filename": "PixelPlusUI_4.6_violet-12.1-20220609-1558-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/twelve/violet/PixelPlusUI_4.6_violet-12.1-20220609-1558-OFFICIAL.zip",
+                        "timestamp": 1654790196,
+                        "md5": "d6e7a65eaf0c282a1adff4848e223e85",
+                        "sha256": "86e28e0158a9b811506317bb385067aa601ab5f24d2d1957c03204b8e7b788ed",
+                        "size": 1733435859,
+                        "version": 4.6,
+                        "buildtype": "",
+                        "forum": "https://forum.xda-developers.com/t/rom-12-0-violet-pixelplusui-official-twelve-aosp.4374079/",
+                        "firmware": "",
+                        "recovery": "",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://t.me/noobs_build"
+                }
+        ]
 }
