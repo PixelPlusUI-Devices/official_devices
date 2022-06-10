@@ -2,26 +2,20 @@
 	"response": [
 		{
 			"maintainer": "dhruvesh_23",
-			"oem": "Realme",
 			"device": "Realme XT",
-			"filename": "PixelPlusUI_4.4_RMX1921-12.1-20220430-0934-OFFICIAL.zip",
-			"download": "https://download.ppui.site/twelve/RMX1921/PixelPlusUI_4.5_RMX1921-12.1-20220515-0810-OFFICIAL.zip",
-			"timestamp": 1652601096,
-			"md5": "48fc2093067b7fdc9ab645ac0fa748cc ",
-			"sha256": " 90b81a892a26f36f735acec1f6c0434994f8bfa53d438fc3fb0655d8b39c23e6 ",
-			"size": 1678951769 ,
-			"version": 4.5,
+			"filename": "PixelPlusUI_4.6_RMX1921-12.1-20220609-1719-OFFICIAL.zip",
+			"download": "https://download.ppui.site/twelve/RMX1921/PixelPlusUI_4.6_RMX1921-12.1-20220609-1719-OFFICIAL.zip",
+			"timestamp": 1654794656,
+			"md5": "9b824d35ad8cec8d03d4303ca474bcaa",
+			"sha256": "f22039787d11a3a6a9211308b9329a7c3d7cdc508698c398514e0c26476193d3",
+			"size": 1703531318,
+			"version": 4.6,
 			"buildtype": "Monthly",
 			"forum": "https://forum.xda-developers.com/t/rom-realme-xt-12-0-official-pixelplus-ui-for-realme-xt-aosp.4389007/",
 			"firmware": "",
-			"modem": "",
-			"bootloader": "",
 			"recovery": "",
 			"paypal": "https://paypal.me/uglykid24",
 			"telegram": "https://t.me/ppui_rmx1921",
-			"dt": "https://github.com/Dhruvesh16/device_realme_RMX1921/tree/ppui",
-			"common-dt": "",
-			"kernel": "https://github.com/Dhruvesh16/android_kernel_realme_RMX1921/tree/11"
 		}
 	]
 }
