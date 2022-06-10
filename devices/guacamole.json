@@ -1,27 +1,21 @@
 {
-	"response": [
-			{
-					"maintainer": "MHMDeveloper",
-					"oem": "OnePlus",
-					"device": "OnePlus 7 Pro",
-					"filename": "PixelPlusUI_4.5_guacamole-12.1-20220513-1221-OFFICIAL.zip",
-					"download": "https://download.ppui.site/twelve/guacamole/PixelPlusUI_4.5_guacamole-12.1-20220513-1221-OFFICIAL.zip",
-					"timestamp": 1652444331,
-					"md5": "837fddb0fbb93f9a0ab0280e105411c8",
-					"sha256": "3a51d2d8f307fa8f15ceebd660a5dacf76149c331d552b65272db2d2db5fbe79",
-					"size": 1518915808,
-					"version": 4.5,
-					"buildtype": "Monthly",
-					"forum": "https://forum.xda-developers.com/t/rom-12-0-guacamole-oneplus-7-pro-pixelplusui-official-twelve-aosp.4392087/",
-					"firmware": "",
-					"modem": "",
-					"bootloader": "",
-					"recovery": "https://drive.google.com/file/d/1rCsKLfoVED1KyfpygQfKkwEC5olEECAe/view?usp=sharing",
-					"paypal": "https://paypal.me/uglykid24",
-					"telegram": "https://t.me/ppui_guacamole",
-					"dt": "https://github.com/PixelPlusUI-devices/device_oneplus_guacamole",
-					"common-dt": "",
-					"kernel": "https://github.com/PixelPlusUI-devices/kernel_oneplus_guacamole"
-			}
-	]
+        "response": [
+                {
+                        "maintainer": "MHMDeveloper",
+                        "device": "OnePlus 7 Pro",
+                        "filename": "PixelPlusUI_4.6_guacamole-12.1-20220609-1452-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/twelve/guacamole/PixelPlusUI_4.6_guacamole-12.1-20220609-1452-OFFICIAL.zip",
+                        "timestamp": 1654786244,
+                        "md5": "22bb2f86ec09ea9a8c1730bdab67e2d2",
+                        "sha256": "35ccca24fcdbf1c5218bfb610ba1831b9327df3cef64f64f516165b96d78d9df",
+                        "size": 1700251792,
+                        "version": 4.6,
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/rom-12-0-guacamole-oneplus-7-pro-pixelplusui-official-twelve-aosp.4392087/",
+                        "firmware": "",
+                        "recovery": "https://www.androidfilehost.com/?w=files&flid=330123",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://t.me/ppui_guacamole",
+                }
+        ]
 }

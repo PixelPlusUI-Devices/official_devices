@@ -1,11 +1,10 @@
-UpStreamed Kernel to V4.14.278
-Turn OFF off-screen FingerPrint Scanning
-ReImported OnePlus Settings with exiting new features
-Improved ZRAM performance
-Updated MEDIA and DISPLAY CAF Tags
-Added Battery Health Nods
-Added Support for OnePlus Apps (Camera, Gallery, Screen Recorder, FileManager) Install then manually
-Updated blobs from OSS 11.0.7.1
-Updated USB Hals
-Increased dalvik-heap to 6GB
-Improved Wifi Speed
+UpStreamed Kernel to V4.14.282
+Updated OnePlus apps
+Fixed Vibration control
+Improved Camera compatibility
+Fixed sepolicy issues
+Added Off Screen FingerPrint toggle
+Added compatibility for Local OTA update
+Improved Vibration Pattern
+Switch to dot product CPU variant
+Most of changes are Source side(See source ChangeLogs)
