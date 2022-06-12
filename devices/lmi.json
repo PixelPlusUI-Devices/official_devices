@@ -1,27 +1,24 @@
 {
-	"response": [
-		{
-			"maintainer": "NotZeetaa",
-			"oem": "Poco",
-			"device": "Poco F2 Pro/ Redmi K30 Pro",
-			"filename": "PixelPlusUI_4.5_lmi-12.1-20220518-1254-OFFICIAL.zip",
-			"download": "https://private.ppui.site/twelve/lmi/PixelPlusUI_4.5_lmi-12.1-20220518-1254-OFFICIAL.zip",
-			"timestamp": 1652878295,
-			"md5": "39ca104581a20eb6d913ed2f896dee4c",
-			"sha256": "d0c3612bdca96988964baf960bf12f563db94532791b743bb0ddee6b9628eb16",
-			"size": 1974308358,
-			"version": 4.5,
-			"buildtype": "Monthly",
-			"forum": "https://forum.xda-developers.com/t/rom-12-1-lmi-pixel-plus-ui-poco-f2-pro-redmi-k30-pro-official-aosp.4447635/",
-			"firmware": "https://t.me/ppui_lmi/3135",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "https://dl.akr-developers.com/?dir=skkk/TWRP/A12",
-			"paypal": "https://paypal.me/uglykid24",
-			"telegram": "https://t.me/ppui_lmi",
-			"dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_lmi",
-			"common-dt": "https://github.com/PixelPlusUI-Devices/lmi_xiaomi_sm8250-common",
-			"kernel": "https://github.com/PixelPlusUI-Devices/lmi_kernel_xiaomi_sm8250"
-		}
-	]
+        "response": [
+                {
+                        "maintainer": "NotZeetaa",
+                        "device": "Poco F2 Pro/ Redmi K30 Pro",
+                        "filename": "PixelPlusUI_4.6_lmi-12.1-20220612-1436-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/twelve/lmi/PixelPlusUI_4.6_lmi-12.1-20220612-1436-OFFICIAL.zip",
+                        "timestamp": 1655044565,
+                        "md5": "7644cfb914a69f84fb8465256deb760d",
+                        "sha256": "bc70d8013d951db657a0f6f0b9622f2b03317fb17846e31d33220ca6d329b65a",
+                        "size": 1987939664,
+                        "version": 4.6,
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/rom-12-1-lmi-pixel-plus-ui-poco-f2-pro-redmi-k30-pro-official-aosp.4447635/",
+                        "firmware": "https://t.me/ppui_lmi/3135",
+                        "recovery": "https://dl.akr-developers.com/?dir=skkk/TWRP/A12",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://t.me/ppui_lmi",
+                        "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_lmi",
+			            "common-dt": "https://github.com/PixelPlusUI-Devices/lmi_xiaomi_sm8250-common",
+			            "kernel": "https://github.com/PixelPlusUI-Devices/lmi_kernel_xiaomi_sm8250"
+                }
+        ]
 }
