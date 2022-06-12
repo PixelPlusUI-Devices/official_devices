@@ -1,19 +1,22 @@
 =====================================
-PixelPlusUI v4.5 Android 12.1 Release 5
+PixelPlusUI v4.6 Android 12.1 Release 8
 =====================================
-For Android 12.1 System was needed to be done from scratch.
-Part of stuffs can be replaced, added later, or not exist anymore.
-Thanks for understanding.
+- PixelPropsUtils: Rework for PPUI environment, fix Hide for Tencent Games
+- Added Pixelizer with initial customizations implementations - thanks to mhmdeve
+- Added GameSpace - thanks to nullxception, Neobuddy and Stallix for main changes and implementations
+- Monet Customizations, App Lock, Black Theme, Fonts customizations, Blurs {Beta} and more other features added to system
+- Improve hide for SafetyNet spoofs
+- Much more...
 =====================================
 Asus Zenfone Max Pro M1 (X00T/D) changes:
 =====================================
-- Updated FP to Raven May
-- Remove vendor RenderScript implementation
-- Fixed Data usage
-- Improved overall device performance
-- Improved scrolling and RAM management
-- Removed updatable-media from pinner services
-- Decreased launch boost to 3sec
-- Misc improvements and changes
+- Updated FP to Raven june
+- Enabling 24 bit profile for audio capture
+- Kang sensors.ssc from Nokia PL2
+- Build graphics.allocator @3.0 and @4.0
+- Audio: Increase earpiece volume for calling
+- Added OpenGL ES and update Vulkan dEQP feature flags
+- Re-enabled some audio features
+- Refactored all audio props
 - CTS passed by default
 - ROM is NON-FBE & LV build
