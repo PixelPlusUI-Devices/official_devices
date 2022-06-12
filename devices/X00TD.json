@@ -1,27 +1,25 @@
 {
-	"response": [
-		{
-			"maintainer": "NotHarshhaa",
-			"oem": "Asus",
-			"device": "Asus Zenfone Max Pro M1",
-			"filename": "PixelPlusUI_4.5_X00TD-12.1-20220511-1157-OFFICIAL.zip",
-			"download": "https://download.ppui.site/twelve/X00TD/PixelPlusUI_4.5_X00TD-12.1-20220511-1157-OFFICIAL.zip",
-			"timestamp": 1652270061,
-			"md5": "23b5219f44ac6710b33fb882e74975f7",
-			"sha256": "81eec0519586cd9afcc3c36a166b794b22f9dce9ba36c0aa92d2de019a8f2e00",
-			"size": 1627867490,
-			"version": 4.5,
-			"buildtype": "Monthly",
-			"forum": "https://forum.xda-developers.com/t/4401595",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "https://paypal.me/uglykid24",
-			"telegram": "https://t.me/PPUIX00T",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
-		}
-	]
+    "response": [{
+        "maintainer": "NotHarshhaa",
+        "oem": "Asus",
+        "device": "Asus Zenfone Max Pro M1",
+        "filename": "PixelPlusUI_4.6_X00TD-12.1-20220612-0852-OFFICIAL.zip",
+        "download": "https://download.ppui.site/twelve/X00TD/PixelPlusUI_4.6_X00TD-12.1-20220612-0852-OFFICIAL.zip",
+        "timestamp": 1655023895,
+        "md5": "3672becb0ff0604c137c9b52ac5be2d8",
+        "sha256": "ce0ae37ab06ba1d82472f59c11f429775b16da956d93e959b393f2214007da20",
+        "size": 1644027105,
+        "version": 4.6,
+        "buildtype": "Monthly",
+        "forum": "https://forum.xda-developers.com/t/4401595",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://paypal.me/uglykid24",
+        "telegram": "https://t.me/PPUIX00T",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }]
 }
