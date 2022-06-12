@@ -2,26 +2,20 @@
         "response": [
                 {
                         "maintainer": "freesoul00",
-                        "oem": "Xiaomi",
                         "device": "Xiaomi Mi9",
-                        "filename": "PixelPlusUI_4.5_cepheus-12.1-20220510-1307-OFFICIAL.zip",
-                        "download": "https://download.ppui.site/eleven/cepheus/PixelPlusUI_4.5_cepheus-12.1-20220510-1307-OFFICIAL.zip",
-                        "timestamp": 1652187976,
-                        "md5": "7741fdc4a6806510216395983bccd31a",
-                        "sha256": "b17dd7dd4574828ab1b54919569fdeaae2be88dc73c6cb78fa8064b53933bcb4",
-                        "size": 1674530424,
-                        "version": 4.5,
+                        "filename": "PixelPlusUI_4.6_cepheus-12.1-20220612-1348-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/twelve/cepheus/PixelPlusUI_4.6_cepheus-12.1-20220612-1348-OFFICIAL.zip",
+                        "timestamp": 1655041624,
+                        "md5": "4aba0f17e6866d28dac77da39a6fc39d",
+                        "sha256": "6abb082e35f856ddd8c9f2adb6d0ba096b309f0c04efc95e3f871fe5f3d857ab",
+                        "size": 1692550048,
+                        "version": 4.6,
                         "buildtype": "Monthly",
                         "forum": "https://forum.xda-developers.com/t/rom-12-0-cepheus-pixelplusui-official-twelve-aosp.4381029/",
                         "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
                         "recovery": "https://eu.dl.twrp.me/cepheus/",
                         "paypal": "https://www.paypal.me/uglykid24",
                         "telegram": "https://t.me/ppui_mi9",
-                        "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_cepheus",
-                        "common-dt": "",
-                        "kernel": "https://github.com/flackback/PixonKernel"
                 }
         ]
 }
