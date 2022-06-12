@@ -2,26 +2,20 @@
         "response": [
                 {
                         "maintainer": "Lopster_70",
-                        "oem": "Xiaomi",
                         "device": "Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite",
-                        "filename": "PixelPlusUI_4.5_miatoll-12.1-20220513-1432-OFFICIAL.zip",
-                        "download": "https://download.ppui.site/twelve/miatoll/PixelPlusUI_4.5_miatoll-12.1-20220513-1432-OFFICIAL.zip",
-                        "timestamp": 1652452143,
-                        "md5": "4a49024ae3488d6d41f29277d5ddd499",
-                        "sha256": "8ae0d13cb0520c69d54d65e5c013aab060ed760d990b81121821f5d785f9c1cb",
-                        "size": 1806146768,
-                        "version": 4.5,
+                        "filename": "PixelPlusUI_4.6_miatoll-12.1-20220612-0851-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/twelve/miatoll/PixelPlusUI_4.6_miatoll-12.1-20220612-0851-OFFICIAL.zip",
+                        "timestamp": 1655023739,
+                        "md5": "c4322fd832f97e3856204138f2451700",
+                        "sha256": "07e5b90eda9e71f750387c37abc1ec0819bec311739ca9d277b290854f88325e",
+                        "size": 1951056688,
+                        "version": 4.6,
                         "buildtype": "Monthly",
                         "forum": "https://forum.xda-developers.com/t/rom-12-0-miatoll-pixelplusui-official-twelve-aosp.4380723/",
                         "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
                         "recovery": "",
                         "paypal": "https://paypal.me/uglykid24",
                         "telegram": "https://t.me/ppuimiatoll",
-                        "dt": "",
-                        "common-dt": "",
-                        "kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_sm6250"
                 }
         ]
 }
