@@ -1,9 +1,12 @@
 =====================================
-PixelPlusUI v4.5 Android 12.1 Release 5
+PixelPlusUI v4.6 Android 12.1 Release 6
 =====================================
-- Initial Official Build
-- Cleanup early_boot script (Even more)
-- Disable QCOM system daemon
-- Allow nv_mac to read /dev/diag
-- Remove unnecessary QTI logkit directories
+- Fixed Logspam when you touch screen
+- overlay: Compact cached app heaps in the background
+- overlay: Allow more cached apps in the background
+- Remove TARGET_ENABLE_MEDIADRM_64
+- Enable Multi-gen LRU
+- rootdir: Disable Few-debug services
+- Adapted Statusbar height to SV2
+- Disable gms components (Less battery usage and better wifi speed)
 =====================================
