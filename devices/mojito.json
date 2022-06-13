@@ -2,26 +2,20 @@
 	"response": [
 		{
 			"maintainer": "Arya1230",
-			"oem": "Xiaomi",
 			"device": "Redmi Note 10",
-			"filename": "PixelPlusUI_4.5_mojito-12.1-20220515-0718-OFFICIAL.zip",
-			"download": "https://download.ppui.site/eleven/mojito/PixelPlusUI_4.5_mojito-12.1-20220515-0718-OFFICIAL.zip",
-			"timestamp": 1652599116,
-			"md5": "1c2a2b749a8b5e86e8c3e6a4e928bb3d",
-			"sha256": "1ae493fda35f5d256f98330c0552e787dac54e530c1191800c9ba8c0736b8b0a",
-			"size": 1540317940,
-			"version": 4.5,
+			"filename": "PixelPlusUI_4.6_mojito-12.1-20220612-0506-OFFICIAL.zip",
+			"download": "https://download.ppui.site/twelve/mojito/PixelPlusUI_4.6_mojito-12.1-20220612-0506-OFFICIAL.zip",
+			"timestamp": 1655010369,
+			"md5": "94c70efbb1befb881ae3396d2467f52a",
+			"sha256": "164a30a64e75e6288d0e8ec6739abf494f9e29eaf72f17227063c8d597d991e1",
+			"size": 1557757566,
+			"version": 4.6,
 			"buildtype": "Monthly",
 			"forum": "https://forum.xda-developers.com/t/4380899/",
 			"firmware": "",
-			"modem": "",
-			"bootloader": "",
 			"recovery": "",
 			"paypal": "https://paypal.me/uglykid24",
 			"telegram": "https://t.me/ppui_mojito",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
 		}
 	]
 }
