@@ -1,6 +1,6 @@
 {
 	"response": [
-		{
+		       {
 			"maintainer": "Ba_Sh_ArAT",
 			"oem": "Xiaomi",
 			"device": "Redmi Note 10 Pro",
@@ -14,9 +14,14 @@
 			"buildtype": "Monthly",
 			"forum": "https://forum.xda-developers.com/t/rom-12-1-sweet-pixel-plus-ui-official-aosp.4448147/#post-86920433",
 			"firmware": "",
-			"recovery": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",  
 			"paypal": "https://paypal.me/uglykid24",
-			"telegram": "https://t.me/ppui_sweet"
-		}
+			"telegram": "https://t.me/ppui_sweet",
+                        "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_sweet",
+                        "common-dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_sm6150-common_sweet",
+                        "kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_sweet"
+	     	}
 	]
 }
