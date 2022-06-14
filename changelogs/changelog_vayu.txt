@@ -1,9 +1,18 @@
 Device Changes 
 
+
+==========================================================================
+PixelPlusUI v4.6 
+==========================================================================
+ - Add per-app refresh rate settings
+ - Added Moto Dolby by ReiRyuki 
+ - Upstreamed Pixel Launcher MOD to v9.3 | Changelogs -> https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-05-28
+ - Upstream GCam to MGC_8.1.101_A9_GV2b | Source -> https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl88/3/ | Recommended config -> https://t.me/chandeler_s_chat/17887
+
 ==========================================================================
 PixelPlusUI v4.5 HotFix
 ==========================================================================
- - Updated GCam to latest version (MGC_8.1.101_A9_GV1zfix) Source HERE
+ - Updated GCam to latest version (MGC_8.1.101_A9_GV1zfix) 
  - Add QS tile to launch Thermal Profiles
  - Add Ambient Display settings
    - Pick-up to wake device
