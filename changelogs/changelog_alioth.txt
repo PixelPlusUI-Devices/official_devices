@@ -1,4 +1,25 @@
 =====================================
+PixelPlusUI v4.6 Android 12.1 Release 8
+=====================================
+- Maintainer changed to EmanuelCN
+- Now ships with N0Kernel
+- Swiched to EROFS
+- Dropped HOS display calibration
+- Dropped Moto Dolby
+- Using prebuilt audio hal from miui
+- Updated adreno drivers to @0530
+- Updated almost all blobs to LA.UM.9.12.r1-14100.01-SMxx50.QSSI13.0
+- Enhanced audio quality
+- Forced 32bit audio output
+- Using Media Codec2
+- Removed zram_writeback feature
+- Updated powerhint
+- Updated rootdir scripts to LA.UM.9.14.r1-18900-LAHAINA.QSSI12.0
+- Disabled some debugging services
+- Fixed remaining selinux denials
+- Using Pixel Atrace hal
+
+=====================================
 PixelPlusUI v4.6-PreRelease Android 12.1 Release 5
 =====================================
 This is not scheduled planned release, some features can be in {BETA}
