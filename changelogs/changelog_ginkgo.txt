@@ -1,1 +1,2 @@
-- Initial Android 12 release
+- Adding Quick Tap support
+- Update MIUI blobs to V12.5.2.0.RCOMIXM
