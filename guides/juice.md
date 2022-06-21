@@ -5,16 +5,16 @@
 ### CLEAN FLASH
 1. Boot to Recovery
 2. Wipe Dalvik Cache, Cache, Data
-3. Format Data
+3. Format Data (If you encrypted)
 4. Reboot to Recovery
-5. Flash Vendor MIUI 12.5
-6. Reboot Recovery
-7. Flash PixelPlusUI
-8. Flash DM-Verity
-9. Reboot to System
+5. Flash MIUI 12.5 Recovery rom (If you from Android 10 stock rom)
+6. Flash PixelPlusUI
+7. Flash dynDFE (If you want decrypt, https://t.me/ppui_chime/1076)
+8. Reboot to System
 
 ### DIRTY FLASH
 1. Boot to Recovery
 2. Wipe Dalvik Cache/Cache
 3. Flash PixelPlusUI
-4. Reboot to System
+4. Flash dynDFE (If you want decrypt, https://t.me/ppui_chime/1076)
+5. Reboot to System
