@@ -1,27 +1,27 @@
 {
         "response": [
                 {
-                        "maintainer": "Hakazeee",
+                        "maintainer": "imannig & frostg012",
                         "oem": "Xiaomi",
                         "device": "Poco M3 / Xiaomi Redmi 9T / Redmi 9 Power And Redmi Note 9 4G",
-                        "filename": "PixelPlusUI_4.5_juice-12.1-20220512-0301-OFFICIAL.zip",
-                        "download": "https://download.ppui.site/twelve/juice/PixelPlusUI_4.5_juice-12.1-20220512-0301-OFFICIAL.zip",
-                        "timestamp":  1652299283,
-                        "md5": "54238bf0228bf793ac20b0b2d05e3742",
-                        "sha256": "241f73ae72862147b88ccd0cc9f9b04a5ed6cbdf3b0c4cf5ef5a30ac7c80b0b4",
-                        "size": 1322792013,
-                        "version": 4.5,
+                        "filename": "PixelPlusUI_4.6_juice-12.1-20220619-1339-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/twelve/juice/PixelPlusUI_4.6_juice-12.1-20220619-1339-OFFICIAL.zip",
+                        "timestamp": 1655544757,
+                        "md5": "143ad83126d593d4af1ea503f3643557",
+                        "sha256": "0a2f1292918ac2e9c06cfd64a4821409067e210e67a95c2cfa89ac0f9f5c7b93",
+                        "size": 1631891986,
+                        "version": 4.6,
                         "buildtype": "Monthly",
-                        "forum": "https://forum.xda-developers.com/t/4409061",
+                        "forum": "https://forum.xda-developers.com/t/rom-12-1-juice-pixelplusui-official-twelve-aosp.4459339/",
                         "firmware": "",
                         "modem": "",
                         "bootloader": "",
                         "recovery": "",
                         "paypal": "https://paypal.me/uglykid24",
-                        "telegram": "https://t.me/ppui_juice",
+                        "telegram": "https://t.me/ppui_chime",
                         "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_juice",
                         "common-dt": "",
-                        "kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_juice"
+                        "kernel": "https://github.com/PixelPlusUI-Devices/android_kernel_xiaomi_juice"
                 }
         ]
 }
