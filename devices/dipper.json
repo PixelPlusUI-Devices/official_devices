@@ -1,21 +1,27 @@
 {
-    "response": [
-   {
-    "maintainer": "LuMorningStarr",
-    "oem": "xiaomi",
-    "device": "Mi 8",
-    "filename": "PixelPlusUI_4.5_dipper-12.1-20220516-0511-OFFICIAL.zip",
-    "download": "https://download.ppui.site/twelve/dipper/PixelPlusUI_4.5_dipper-12.1-20220516-0511-OFFICIAL.zip",
-    "timestamp":  1652647992,
-    "md5": "e7612a24d29c0990470d5b43c911ec50",
-    "sha256": "b1040188970c5547b60b2200e529c26240d2eff50daf0dd3c7c795bf81070ecf",
-    "size": 1652648119,
-    "version": 4.5,
-    "buildtype": "Monthly",
-    "forum": "https://forum.xda-developers.com/t/rom-official-12-1-pixelplusui-mi-8-dipper.4446501/",
-    "paypal": "https://paypal.me/uglykid24",
-    "telegram": "https://t.me/ppui_dipper"
-   }
-   ]
-   }
-   
+	"response": [
+		{
+			"maintainer": "LuMorningStarr",
+			"oem": "xiaomi",
+			"device": "Mi 8",
+			"filename": "PixelPlusUI_4.6_dipper-12.1-20220623-1151-OFFICIAL.zip",
+			"download": "https://download.ppui.site/twelve/dipper/PixelPlusUI_4.6_dipper-12.1-20220623-1151-OFFICIAL.zip",
+			"timestamp": 1655984814,
+			"md5": "a84624d76e0dc41397319272b837c50d",
+			"sha256": "9491df3ecbe112341aba77c32f92f0ac97f289f2809c56a2a52c1211b633cdad",
+			"size": 1770512976,
+			"version": 4.6,
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-official-12-1-pixelplusui-mi-8-dipper.4446501/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/uglykid24",
+			"telegram": "https://t.me/ppui_dipper",
+			"dt": "https://github.com/LucyfMorning/android_device_xiaomi_dipper",
+			"common-dt": "https://github.com/LucyfMorning/android_device_xiaomi_sdm845-common",
+			"kernel": "https://github.com/PixelExperience-Devices/kernel_xiaomi_polaris"
+		}
+	]
+}
