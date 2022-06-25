@@ -1,5 +1,10 @@
 Device Changes 
 
+==========================================================================
+PixelPlusUI v4.6 Semi-Monthly Release (2nd Release) 
+==========================================================================
+ - Fixed heating issues and battery drain issues 
+ - Upstreamed Pixel Launcher MOD to v9.5 | Changelogs -> https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-05-28
 
 ==========================================================================
 PixelPlusUI v4.6 
