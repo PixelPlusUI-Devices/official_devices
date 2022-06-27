@@ -1,8 +1,5 @@
-Initial build by LuMorningStarr
-Shipped without encryption for better instalation by twrp orangefox
-LiveDisplay added
-Kernel Etude Op.12 No.3
-4.9.313
-Shipper without pixel thermal
-Overlays adapted to A12.1
-Mic and sound upstreamed
+Update rounded corners
+Change power profile for better experience
+Updated platform audio 
+Applied remove packages for system space
+Kernel update to Linux 4.9.319 (Etude Op.12 No.3)
