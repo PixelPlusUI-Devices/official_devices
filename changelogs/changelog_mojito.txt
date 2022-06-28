@@ -1,18 +1,8 @@
 Changelog :
 
-- Added GcamGo
-- Improved SB Padding
-- Fix Display Animation While AOD On/Off Screen
-- Updated Audio Blobs
-- Minor Fixes And Improvements
-
+- 1 Year Of PPUI Mojito
+- Wait This IS Not A Changelog
 =====================================
-PixelPlusUI v4.6 Android 12.1 Release 8
+PixelPlusUI v4.7-PreRelease Android 12.1 
 =====================================
-- PixelPropsUtils: Rework for PPUI environment, fix Hide for Tencent Games
-- Added Pixelizer with initial customizations implementations - thanks to mhmdeve
-- Added GameSpace - thanks to nullxception, Neobuddy and Stallix for main changes and implementations
-- Monet Customizations, App Lock, Black Theme, Fonts customizations, Blurs {Beta} and more other features added to system
-- Improve hide for SafetyNet spoofs
-- Much more...
 
