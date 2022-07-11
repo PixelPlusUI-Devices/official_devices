@@ -9,7 +9,7 @@ Copy the Custom ROM & the Required Firmware to your internal storage
 • Also remove any lockscreen password or pin
 
 Reboot to fastboot and Flash this recovery | fastboot flash boot boot.img
-• [Recovery](https://t.me/ppui_apollo/8318)
+• [Recovery](https://www.androidfilehost.com/?fid=15664248565197186422)
 
 
 Reboot to Recovery
