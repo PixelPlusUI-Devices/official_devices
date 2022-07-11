@@ -157,7 +157,7 @@ def message_content(information):
         msg += f"\n<b>Notes:</b>\n"
         for LINES in NOTES.split('\n'):
             msg+=f"<b>•</b> <code>{LINES}</code>\n"
-    msg += f"\n<b>Donate:</b>\n<b>UPI:</b> <code>dwarmachine24@oksbi</code>\n<b>PayPal:</b> https://www.paypal.me/uglykid24\n<b>Patreon:</b> https://www.patreon.com/join/uglykid24"
+    msg += f"\n<b>Do consider donating if you want to appreciate our work</b>\n<b>UPI:</b> <code>dwarmachine24@oksbi</code>\n<b>PayPal:</b> https://www.paypal.me/uglykid24\n<b>Patreon:</b> https://www.patreon.com/join/uglykid24"
     return msg
 
 # Prepare buttons for message
