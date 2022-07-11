@@ -1,2 +1,5 @@
-- Adding Quick Tap support
-- Update MIUI blobs to V12.5.2.0.RCOMIXM
+- Upgrade adreno stack 
+- Update Version 4.7
+- July security patch
+- Improved performance and stability
+- Misc Changes and Fixes 
