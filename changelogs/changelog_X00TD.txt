@@ -1,5 +1,5 @@
 =====================================
-PixelPlusUI v4.6 Android 12.1 Release 8
+PixelPlusUI v4.7 Android 12.1 Release 11
 =====================================
 - PixelPropsUtils: Rework for PPUI environment, fix Hide for Tencent Games
 - Added Pixelizer with initial customizations implementations - thanks to mhmdeve
@@ -10,13 +10,17 @@ PixelPlusUI v4.6 Android 12.1 Release 8
 =====================================
 Asus Zenfone Max Pro M1 (X00T/D) changes:
 =====================================
-- Updated FP to Raven june
-- Enabling 24 bit profile for audio capture
-- Kang sensors.ssc from Nokia PL2
-- Build graphics.allocator @3.0 and @4.0
-- Audio: Increase earpiece volume for calling
-- Added OpenGL ES and update Vulkan dEQP feature flags
-- Re-enabled some audio features
-- Refactored all audio props
+- Updated FP to Raven july
+- Ships with ANX Camera by default
+- Ships with latest Lawnchair Dev version
+- Properties: Disable debug.sf.enablehwcvds
+- Cleaned up dead build packages
+- Updated blobs from LA.UM.9.2.r1-03500-SDMxx0.0
+- Fixed camera lags (Reccomended not to use EAS-OC)
+- Switched to QTI bluetooth stack
+- Switch to QTI Vibrator hal
+- Added night display color temperature calibration from Coral
+- Updated adreno from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+- Change default GPU idle timeout to 60ms
 - CTS passed by default
 - ROM is NON-FBE & LV build
