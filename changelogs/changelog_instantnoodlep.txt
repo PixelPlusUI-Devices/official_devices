@@ -1,0 +1,19 @@
+=====================================
+PixelPlusUI v4.7 Android 12.1 Release 1
+=====================================
+- PixelPropsUtils: Rework for PPUI environment, fix Hide for Tencent Games
+- Added Pixelizer with initial customizations implementations - thanks to mhmdeve
+- Added GameSpace - thanks to nullxception, Neobuddy and Stallix for main changes and implementations
+- Monet Customizations, App Lock, Black Theme, Fonts customizations, Blurs {Beta} and more other features added to system
+- Improve hide for SafetyNet spoofs
+- Much more...
+=====================================
+OnePlus 8 Pro (Instantnoodlep) changes:
+=====================================
+- Initial Release
+- Ships with snapCamera - Gcam recommended
+- Introduce to Mido Kernel V-1.0 - Based on SM8250 PixelExperience perf (will add changelog later on)
+- Cleaned up dead build packages and solve setup loop issue thx to Master aka mhmdeve for his kindest help
+- Updated blobs
+- CTS passed by default
+- Much more
