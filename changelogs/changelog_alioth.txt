@@ -1,4 +1,16 @@
 =====================================
+PixelPlusUI v4.7 Android 12.1
+=====================================
+- Fixed blue tinted videos in apps like Instagram and others;
+- Fixed TikTok hangs;
+- Fixed "fastboot boot recovery.img", now you can boot any recovery you desire;
+- Swiched to cortex-a76 art & bionic optimisations;
+- Nuked iorapd (Deprecated in android 13, due power consumption increase and other reasons);
+- Updated radio props;
+- Updated N0kernel to beta 11.2.3;
+- Other improvements under the hood;
+
+=====================================
 PixelPlusUI v4.6 Android 12.1 Release 8
 =====================================
 - Maintainer changed to EmanuelCN
