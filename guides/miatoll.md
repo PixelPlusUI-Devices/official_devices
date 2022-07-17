@@ -16,5 +16,5 @@
 3. Reboot
 
 ## Note: 
-• OrangeFox R11.1_1 Recovery recommended for flashing
-- clean flash is always recommended
+- Use OrangeFox R11.1_3 FBEV1 Recovery or twrp from support group
+- check notes in group for recommended recovery
