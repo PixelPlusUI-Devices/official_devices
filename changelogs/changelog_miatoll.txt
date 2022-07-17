@@ -1,3 +1,9 @@
+## PPUI 4.7
+- July security patch
+- Disable zram writeback
+- Updated IMS libs from alioth 12
+- Updated display blobs
+
 ## PPUI 4.6
 
 - June security patch
