@@ -1,1 +1,4 @@
-• Kernel Upstream to 4.9.316
+- Kernel upstream to 4.9.322
+- Merged latest caf tag LA.UM.9.8.r1-05000-SDM710.0 in kernel
+- Merged qcacld-3.0, fw-api, qca-wifi-host-cmn wifi drivers from LA.UM.9.8.r1-05000-SDM710.0
+- Clean flash mandatory for this update 
