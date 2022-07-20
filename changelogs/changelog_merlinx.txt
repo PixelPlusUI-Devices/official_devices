@@ -1,12 +1,16 @@
-Initial build by LuMorningStarr
-All basic informations are based in PixelExperience-Devices
-For VOLTE use firmware 12.5.1
-May Scurity Patch
-Kernel pizza
-Linux 4.14.281
+# Device
+Import SpeechVol Param for modifications
+audio: Make gain control work properlyRevert "lava: proprietary-files: checkout Power-Hardware from miui_merlin_V12.0.8.0.QJOMIXM"
+Switch to 64bit powerhal
+Drop unneeded power_native_test binaries
+Drop buildable libs
+Switch to 64bit powerhal
+kernel updated to 4.14.288
+pizza kernel
 
-Special Thanks to testers
-@ Cr4zyyyyyy @kaike
+# Rom changes are in update channel
+Updated to July security patch
+A lot of fix and changes
 
 Thanks for device source and Kernel
 @chcepizze @SparXFusion @ashblk @TheMalachite
