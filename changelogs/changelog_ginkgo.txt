@@ -1,5 +1,6 @@
-- Upgrade adreno stack 
-- Update Version 4.7
-- July security patch
-- Improved performance and stability
+- Enable iorap perfetto
+- Drop allow_encrypt_override
+- Update Rild Stack from Surya
+- Ignore CNE in location indicator
+- GPS Update from LA.UM.9.11.r1-05600-NICOBAR.QSSI12.0
 - Misc Changes and Fixes 
