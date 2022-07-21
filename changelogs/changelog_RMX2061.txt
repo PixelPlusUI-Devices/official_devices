@@ -1,18 +1,10 @@
-Device Changelog:
-- Enforcing SELinux
-- Switched to user build
-- Improved UI Smoothness
-- Safetynet passed by default
-- kernel upstreamed 4.14.276 (DragonSoul Galore)
-- April security patch
-- Improved battery backup
-- Fixed camera is not working on some apps
-- Enabled call recording on Gdialer by default
+Device Changelog :
 
-
-=====================================
-PixelPlusUI v4.4 Android 12.1 Release 4
-=====================================
-For Android 12.1 System was needed to be done from scratch.
-Part of stuffs can be replaced, added later, or not exist anymore.
-Thanks for understanding.
+- Fixed Video Lag Issue.
+- Kernel Upstreamed To 4.14.212 (DragonSouL SaphirA Z1x).
+- Enabled 60HZ, 75HZ & 90HZ Screen Refresh Rate.
+- Fixed Youtube not supporting Quality Higher Then 1080p.
+- Fixed Some App not Able To Access Camera(e.g. Telegram).
+- Fixed Streaming Apps Errors.
+- Merged July Security Patch.
+- Many More Fixes Don't remember.
