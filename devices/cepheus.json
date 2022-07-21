@@ -1,21 +1,27 @@
 {
-        "response": [
-                {
-                        "maintainer": "freesoul00",
-                        "device": "Xiaomi Mi9",
-                        "filename": "PixelPlusUI_4.6_cepheus-12.1-20220612-1348-OFFICIAL.zip",
-                        "download": "https://download.ppui.site/twelve/cepheus/PixelPlusUI_4.6_cepheus-12.1-20220612-1348-OFFICIAL.zip",
-                        "timestamp": 1655041624,
-                        "md5": "4aba0f17e6866d28dac77da39a6fc39d",
-                        "sha256": "6abb082e35f856ddd8c9f2adb6d0ba096b309f0c04efc95e3f871fe5f3d857ab",
-                        "size": 1692550048,
-                        "version": 4.6,
-                        "buildtype": "Monthly",
-                        "forum": "https://forum.xda-developers.com/t/rom-12-0-cepheus-pixelplusui-official-twelve-aosp.4381029/",
-                        "firmware": "",
-                        "recovery": "https://eu.dl.twrp.me/cepheus/",
-                        "paypal": "https://www.paypal.me/uglykid24",
-                        "telegram": "https://t.me/ppui_mi9"
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "freesoul00",
+			"oem": "",
+			"device": "Xiaomi Mi9",
+			"filename": "PixelPlusUI_4.7_cepheus-12.1-20220721-1056-OFFICIAL.zip",
+			"download": "https://download.ppui.site/twelve/cepheus/PixelPlusUI_4.7_cepheus-12.1-20220721-1056-OFFICIAL.zip",
+			"timestamp": 1658400885,
+			"md5": "0846e5b6154a37bd3c3e160537605836",
+			"sha256": "ff6884c50837231f7e8f2512bdae456ba20410b723e2d01811b5b4ab6f02e488",
+			"size": 1692185552,
+			"version": 4.7,
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-12-0-cepheus-pixelplusui-official-twelve-aosp.4381029/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://eu.dl.twrp.me/cepheus/",
+			"paypal": "https://www.paypal.me/uglykid24",
+			"telegram": "https://t.me/ppui_mi9",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
 }
