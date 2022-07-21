@@ -1,0 +1,7 @@
+# Device changelogs
+
+==== 20th July ====
+Initial OFFICIAL Build 
+* Shipped with MistyX kernel thanks to @OhMyVenyx 
+* Improved performance 
+* Misc. Fixes and Improvement.
