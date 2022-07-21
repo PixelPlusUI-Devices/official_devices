@@ -1,0 +1,27 @@
+{
+	"response": [
+		       {
+			"maintainer": "Iris",
+			"oem": "Redmi",
+			"device": "Redmi S2/S2",
+			"filename": "PixelPlusUI_4.7_ysl-12.1-20220721-0940-OFFICIAL.zip",
+			"download": "https://download.ppui.site/twelve/ysl/PixelPlusUI_4.7_ysl-12.1-20220721-0940-OFFICIAL.zip",
+			"timestamp": 1658396407,
+			"md5": "740442b0e09024ed0cfbb6c5f5c27c62",
+			"sha256": "2dc1b96f35fe5942484f3164892218c63cd30dc3305bacba4b2a5ff9aa55022a",
+			"size": 1513308718,
+			"version": 4.7,
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-official-pixelplusui-4-7-a12-1-ysl.4470999/",
+			"firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+			"paypal": "https://www.paypal.me/uglykid24",
+			"telegram": "https://t.me/Ppui_YSL",
+                        "dt": "https://github.com/Iris0411/device_xiaomi_ysl",
+                        "common-dt": "https://github.com/Iris0411/device_xiaomi_msm8953-common",
+                        "kernel": "https://github.com/DhruvChhura/kernel_xiaomi_ysl"
+	     	}
+	]
+}

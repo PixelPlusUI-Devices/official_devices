@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi S2/Y2 (ysl)
+Device maintainer: Iris
+
+==== 21 July, 2022 ====
+- Synced with latest sources v4.7
+- Initial OFFICIAL Build 
+- Shipped with MistyX kernel thanks to @OhMyVenyx -
+- Improved performance 
+- Misc & Fixes
