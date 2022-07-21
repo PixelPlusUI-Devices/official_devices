@@ -2,22 +2,26 @@
         "response": [
                 {
                         "maintainer": "ugly_kid_af",
+                        "oem": "",
                         "device": "Redmi Note 7 Pro",
-                        "filename": "PixelPlusUI_4.6_violet-12.1-20220624-1720-OFFICIAL.zip",                        
-                        "download": "https://download.ppui.site/twelve/violet/PixelPlusUI_4.6_violet-12.1-20220624-1720-OFFICIAL.zip",                        
-                        "timestamp": 1656091144,
-                        "md5": "7828127aed9575bef9b6097ab2395ca1",                        
-                        "sha256": "e91998bd9c4676751ed618f8cbe5b69755f92539cd7d6e2b8def437680c83a53",                        
-                        "size": 1765360586,
-                        "version": 4.6,
+                        "filename": "PixelPlusUI_4.7_violet-12.1-20220720-1050-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/twelve/violet/PixelPlusUI_4.7_violet-12.1-20220720-1050-OFFICIAL.zip",
+                        "timestamp": 1658314063,
+                        "md5": "c26772323c25be333152f5e9f7d99261",
+                        "sha256": "dc35fae3d9494bdbdde589b8377b74b2b76d966bac451411a300d2e34a53daba",
+                        "size": 1767939926,
+                        "version": 4.7,
                         "buildtype": "",
                         "forum": "https://forum.xda-developers.com/t/rom-12-0-violet-pixelplusui-official-twelve-aosp.4374079/",
                         "firmware": "",
-                        "recovery": "",
                         "modem": "",
                         "bootloader": "",
+                        "recovery": "",
                         "paypal": "https://paypal.me/uglykid24",
-                        "telegram": "https://t.me/noobs_build"
+                        "telegram": "https://t.me/noobs_build",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
                 }
         ]
 }
