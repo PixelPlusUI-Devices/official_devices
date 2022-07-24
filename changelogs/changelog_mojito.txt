@@ -1,8 +1,10 @@
 Changelog :
 
-- 1 Year Of PPUI Mojito
-- Wait This IS Not A Changelog
+- Added Pixel Launcher Mod
+- Improved Battery
+- Address some sepolicy denials
+- Other Minors FIxes
 =====================================
-PixelPlusUI v4.7-PreRelease Android 12.1 
+PixelPlusUI v4.7 Android 12.1 
 =====================================
 
