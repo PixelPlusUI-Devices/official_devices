@@ -8,6 +8,7 @@ Boot into Pixel Experience recovecy
 2. Click on "Apply update" and select "Install from ADB"
 3. On your computer, open comamnd prompt in your [android platform tools folder](https://developer.android.com/studio/releases/platform-tools), and run `adb sideload PPUI_Mojito.zip` (your zip file will be named differently)
 4. The sideload might fail at 47%. This is normal.
+6. Flash [13.0.5](https://t.me/ppui_mojito/28837) FW
 5. Reboot your phone and enjoy!
 
 ### DIRTY FLASH FOR UPDATES:
@@ -15,6 +16,7 @@ Boot into Pixel Experience recovecy
 1. Click on "Apply update" and select "Install from ADB"
 2. On your computer, open comamnd prompt in your [android platform tools folder](https://developer.android.com/studio/releases/platform-tools), and run `adb sideload PPUI_Mojito.zip` (your zip file will be named differently)
 3. The sideload might fail at 47%. This is normal.
+5. Flash [13.0.5](https://t.me/ppui_mojito/28837) FW
 4. Reboot your phone and enjoy!
 
 ## Note: 
@@ -22,4 +24,4 @@ Boot into Pixel Experience recovecy
 
 • Flash The Fastboot Rom Again Then Do The Steps If You Face Any Issues
 
-• This also works via TWRP but LineageOS/Pixel Experience recovery is recommended
+• This also works via TWRP but Pixel Experience recovery is recommended
