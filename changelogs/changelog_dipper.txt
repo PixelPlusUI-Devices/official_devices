@@ -1,5 +1,12 @@
+It's highly recommend clean install
+All necessary files exists in telegram group
+
+# Device changes
 Update rounded corners
-Change power profile for better experience
-Updated platform audio 
+Add notch killer
+Back to Pixel bases
+Updated platform audio and more
 Applied remove packages for system space
-Kernel update to Linux 4.9.319 (Etude Op.12 No.3)
+Kernel update to Linux 4.9.324 (Etude Op.12 No.4)
+
+
