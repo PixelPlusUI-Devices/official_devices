@@ -1,6 +1,23 @@
 Device Changes 
 
 ==========================================================================
+PixelPlusUI v4.7 
+==========================================================================
+ - A lot of tweaks in init scripts (Added from @Project-Awaken vayu device tree)
+ - Update vendor blobs to miui 13.0.4.0
+ - Added notch bar killer overlay (This overlay gets rid of the black bar in most apps/games and lets the screen fill past the notch.)
+ - Import vibration patterns from Pixel 4 XL
+ - Imporove statusbar padding and margins
+ - Build some RIL libs to overcome call failing issues
+ - Disable some GMS components | Results in better wifi speeds and battery backup
+ - Tune zRAM for better performance
+ - Add fastboot[in recovery] mode to advanced reboot menu
+ - Upstreamed Pixel Launcher MOD to 9.8 | Full changelogs HERE
+ - Removed Pixel Launcher MODs app, as it requires root
+ - Fixed greyed out USB actions in notifications when connected to PC
+ - Revert "Set Recommended Night Display Color Temperature as default"
+
+==========================================================================
 PixelPlusUI v4.6 Semi-Monthly Release (2nd Release) 
 ==========================================================================
  - Fixed heating issues and battery drain issues 
