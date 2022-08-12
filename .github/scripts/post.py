@@ -109,6 +109,7 @@ def get_info(ID):
         DATE_TIME = datetime.datetime.fromtimestamp(int(info['response'][0]['timestamp']))
         MD5 = info['response'][0]['md5']
         SIZE = round(int(info['response'][0]['size'])/1000000000, 2)
+        SUPPORT_GROUP = info['response'][0]['telegram'] or "https://t.me/ppuichat"
         msg = ""
         msg += f"Pixel Plus UI {PPUI_VERSION}\n"
         msg += f"Android Version: {ANDROID_VERSION}\n"
@@ -130,7 +131,8 @@ def get_info(ID):
             "size": SIZE,
             "download": DOWNLOAD_URL,
             "md5": MD5,
-            "xda": XDA
+            "xda": XDA,
+            "support": SUPPORT_GROUP
         }
 
 # Prepare function for posting message in channel
@@ -166,7 +168,7 @@ def button(information):
     buttons.row_width = 3
     button1 = InlineKeyboardButton(text="Channel", url=f"https://t.me/ppuich")
     button2 = InlineKeyboardButton(text="XDA", url=f"{information['xda']}")
-    button3 = InlineKeyboardButton(text="Support", url=f"https://t.me/ppuichat")
+    button3 = InlineKeyboardButton(text="Support", url=f"{information['support']}")
     button4 = InlineKeyboardButton(text="Download", url=f"https://ppui.site/download")
     return buttons.add(button1, button2, button3, button4)
 
