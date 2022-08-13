@@ -1,6 +1,19 @@
-Improved boot time
-Updated HALs
-Fixed OMX crash
-Improved cache handling
-Added Gcam Greatness By default
-etc..
+Added OnePlus Camera support (Including Portrait Mode) Thanks to @ShevT
+Switched to Neptune Kernel (Test)
+Updated Blobs from OOS 11.0.9.1
+Fixed Some Banking apps crashing
+Added Smart charging
+Updated OpenGL version
+Fixed Sensors issue
+Improved Dolby experience
+Fixed 5GHz HotSpot issue
+Added Warp Charging support
+Improved media Codecs
+Fix WFD Audio issues
+Upstreamed some HALs
+Added Touch Senstivity Mode
+Improved UI experience 
+Added OnePlus IFAA support
+Add hotword input for hotword mic concurrency 
+Added Pixel Launcher MOD with DT2S
+Added Back Blur support
