@@ -1,10 +1,11 @@
 Device Changelog :
 
-- Fixed Video Lag Issue.
-- Kernel Upstreamed To 4.14.212 (DragonSouL SaphirA Z1x).
-- Enabled 60HZ, 75HZ & 90HZ Screen Refresh Rate.
-- Fixed Youtube not supporting Quality Higher Then 1080p.
-- Fixed Some App not Able To Access Camera(e.g. Telegram).
-- Fixed Streaming Apps Errors.
-- Merged July Security Patch.
-- Many More Fixes Don't remember.
+- Kernel Upstreamed To 4.14.212 (DragonSouL SaphirA Zx3.1).
+- Merged August Security Patch.
+- Added Smart Charging
+- Added kprofile
+- Volume Slider Now Shows Percentage
+- Swift To 90HZ Only For Better Smoothness
+- Introduced remove_packages To Remove Some Prebuilt Apps
+- CTS Profile Pass
+
