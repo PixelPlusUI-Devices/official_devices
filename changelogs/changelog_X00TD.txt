@@ -1,5 +1,5 @@
 =====================================
-PixelPlusUI v4.7 Android 12.1 Release 11
+PixelPlusUI v4.8 Android 12.1 Release 22
 =====================================
 - PixelPropsUtils: Rework for PPUI environment, fix Hide for Tencent Games
 - Added Pixelizer with initial customizations implementations - thanks to mhmdeve
@@ -10,17 +10,17 @@ PixelPlusUI v4.7 Android 12.1 Release 11
 =====================================
 Asus Zenfone Max Pro M1 (X00T/D) changes:
 =====================================
-- Updated FP to Raven july
-- Ships with ANX Camera by default
-- Ships with latest Lawnchair Dev version
-- Properties: Disable debug.sf.enablehwcvds
-- Cleaned up dead build packages
-- Updated blobs from LA.UM.9.2.r1-03500-SDMxx0.0
-- Fixed camera lags (Reccomended not to use EAS-OC)
-- Switched to QTI bluetooth stack
-- Switch to QTI Vibrator hal
-- Added night display color temperature calibration from Coral
-- Updated adreno from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
-- Change default GPU idle timeout to 60ms
+- Reverted FP back to stock A10
+- Camera: Imported FOSS camera hals
+- Camera: Upstreamed camera blobs from LA.UM.9.2.r1-03600-SDMxx0.0
+- Camera: Disabled lib2d rotation
+- Camera: Link to libhidltransport instead of android.hidl.base
+- Disabled triple buffering
+- Disabled slow blur effect to avoid laggish blur effect
+- Fixed camera lags
+- Dropped all SF offset related props
+- Fixed Google Camera crashes issue
+- Tuned memory parameters from CAF
+- Tuned CPU and sched parameters from CAF
 - CTS passed by default
 - ROM is NON-FBE & LV build
