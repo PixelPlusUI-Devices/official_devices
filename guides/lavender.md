@@ -20,3 +20,4 @@
 ## Notes:
 - Clean flash is must if coming from miui or different roms.
 - Only do dirty flash for updating pixel plus ui rom to latest version.
+- Better use Ofox latest beta

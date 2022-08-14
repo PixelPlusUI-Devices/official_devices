@@ -1,0 +1,27 @@
+{
+  "response": [
+    {
+      "maintainer": "AlCoptan99",
+      "oem": "Xiaomi",
+      "device": "Redmi Note 7/7s",
+      "filename": "PixelPlusUI_4.8_lavender-12.1-20220814-1428-OFFICIAL.zip",
+      "download": "https://download.ppui.site/twelve/lavender/PixelPlusUI_4.8_lavender-12.1-20220814-1428-OFFICIAL.zip",
+      "timestamp": 1660487310,
+      "md5": "a2ecea497741c705f53c5f6876ba9443",
+      "sha256": "9718320c50fd0c4c5df4c74f16947989469a003fa3fa13264cabc6ddd35afb4e",
+      "size": 1507544586,
+      "version": 4.8,
+      "buildtype": "monthly",
+      "forum": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://paypal.me/uglykid24",
+      "telegram": "https://t.me/ppui_lavender",
+      "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_lavender",
+      "common-dt": "",
+      "kernel": "https://github.com/projects-nexus/nexus_kernel_xiaomi_lavender"
+    }
+  ]
+}
