@@ -3,6 +3,14 @@ Build type: Monthly
 Device: Redmi S2/Y2 (ysl)
 Device maintainer: Iris
 
+==== 15 August, 2022 ====
+- Forced disable Iorapd
+- Set Google autofill service as default
+- Added offline charging LED indicator
+- Set window animation/transition scale to 50%
+- Added rounded corner padding overlays
+- CTS passes by default
+
 ==== 21 July, 2022 ====
 - Synced with latest sources v4.7
 - Initial OFFICIAL Build 
