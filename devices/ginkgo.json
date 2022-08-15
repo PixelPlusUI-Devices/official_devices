@@ -1,27 +1,27 @@
 {
-	"response": [
-		{
-			"maintainer": "erwinabs",
-			"oem": "Xiaomi",
-			"device": "Redmi Note 8/8T",
-			"filename": "PixelPlusUI_4.7_ginkgo-12.1-20220719-0924-OFFICIAL.zip",
-			"download": "https://download.ppui.site/twelve/ginkgo/PixelPlusUI_4.7_ginkgo-12.1-20220719-0924-OFFICIAL.zip",
-			"timestamp": 1658222528,
-			"md5": "2a8e0dd8b7197ca1a8dd15bef58d36a6",
-			"sha256": "592391632c191f638b1931eac667f94f24344b55daba92273d62bddc1dac7d2b",
-			"size": 1736686314,
-			"version": 4.7,
-			"buildtype": "weekly",
-			"forum": "https://forum.xda-developers.com/t/rom-11-ginkgo-willow-pixelplusui-official-3-8.4232791/",
-			"firmware": "https://xiaomifirmwareupdater.com/firmware/ginkgo/stable/V12.5.5.0.RCOEUXM/",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "https://paypal.me/uglykid24",
-			"telegram": "https://t.me/ppuiginkgo",
-			"dt": "https://github.com/erwinabs/device_xiaomi_ginkgo",
-			"common-dt": "",
-			"kernel": "https://github.com/erwinabs/kernel_xiaomi_ginkgo"
-		}
-	]
+  "response": [
+    {
+      "maintainer": "erwinabs",
+      "oem": "Xiaomi",
+      "device": "Redmi Note 8/8T",
+      "filename": "PixelPlusUI_4.8_ginkgo-12.1-20220814-0935-OFFICIAL.zip",
+      "download": "https://download.ppui.site/twelve/ginkgo/PixelPlusUI_4.8_ginkgo-12.1-20220814-0935-OFFICIAL.zip",
+      "timestamp": 1660469298,
+      "md5": "67f7f5d460252f8bbb53a036c9b8ed9b",
+      "sha256": "eba94da1f4e55dad4ac4d0b1f35ee7cb5da9744166bf29f7ba71cb286515ce28",
+      "size": 1733744161,
+      "version": 4.8,
+      "buildtype": "weekly",
+      "forum": "https://forum.xda-developers.com/t/rom-11-ginkgo-willow-pixelplusui-official-3-8.4232791/",
+      "firmware": "https://xiaomifirmwareupdater.com/firmware/ginkgo/stable/V12.5.5.0.RCOEUXM/",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://paypal.me/uglykid24",
+      "telegram": "https://t.me/ppuiginkgo",
+      "dt": "https://github.com/erwinabs/device_xiaomi_ginkgo",
+      "common-dt": "",
+      "kernel": "https://github.com/erwinabs/kernel_xiaomi_ginkgo"
+    }
+  ]
 }
