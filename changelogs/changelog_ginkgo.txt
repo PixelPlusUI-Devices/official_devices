@@ -1,6 +1,12 @@
-- Enable iorap perfetto
-- Drop allow_encrypt_override
-- Update Rild Stack from Surya
-- Ignore CNE in location indicator
-- GPS Update from LA.UM.9.11.r1-05600-NICOBAR.QSSI12.0
-- Misc Changes and Fixes 
+- allow sched_boost write
+- Disable redir_party_num
+- Add secondary interface using gEnableConcurrentSTA=wlan1
+- Update Blobs MIUI v12.5.5.0 China Stable
+- Build Pixel Launcher MOD
+- Update QTI factory HAL to v2.3 
+- Update IBluetoothAudioProvidersFactory HAL to v2.1 
+- Update ImsRadio HAL to v1.7. 
+- Update QtiRadio HAL to v2.6. 
+- Uprev vendor.ims.factory to 1.1
+- Update init.recovery.qcom.rc
+- Fixed Michat Mode portrait
