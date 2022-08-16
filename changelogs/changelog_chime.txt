@@ -1,0 +1,46 @@
+4.8:
+
+- Switch to chime codename
+- Switch again to qti perf
+- tune perfboostconfig for smoother ui
+- Compile HWUI for performance
+- Enable the pre-rendering feature
+- And more changes again.
+
+4.7:
+
+- July Security Patch
+- Switch to libperfmgr
+- Update blobs from miui_LIMEPRE_22.7.6_5b91be000b_12.0
+- Switch to Pixel Power HAL
+- Import powerhint from sunfish
+- Tune powerhint tables for juice usage
+- Fix DRM
+
+4.6:
+Device changelog:
+- Switch to OSS vendor ( CLEAN FLASH REQUIRED )
+- Update blobs from miui_LIME_22.5.18_024e3361db_11.0
+- Switch to QTI Power hal.
+- Set max WFD resolution to 1080p
+- Sync idle/touch timer to raven
+- Sync durations props with redbull
+- Enable IORap app launch prefetching
+
+Notes:
+- Clean flash required if you from prebuilt vendor.
+- Enforcing
+- Guuji kernel as default kernel
+
+
+4.5:
+Device Changelog:
+- Bump Raven FP to May update.
+- Reworked statusbar padding
+- Fixed lag on some animation
+
+Notes:
+- Clean Flash is Compulsory
+- Enforcing + user build
+- Juice-Bengal as default kernel
+- Safetynet Passes By Default
