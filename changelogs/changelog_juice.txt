@@ -1,3 +1,12 @@
+4.8:
+
+- Switch to chime codename
+- Switch again to qti perf
+- tune perfboostconfig for smoother ui
+- Compile HWUI for performance
+- Enable the pre-rendering feature
+- And more changes again.
+
 4.7:
 
 - July Security Patch
