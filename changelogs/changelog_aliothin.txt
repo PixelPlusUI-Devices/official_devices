@@ -1,73 +1,49 @@
 =====================================
-PixelPlusUI v4.6-PreRelease Android 12.1 Release 5
+PixelPlusUI v4.8 Android 12.1
 =====================================
-This is not scheduled planned release, some features can be in {BETA}
+- Fixed Discord screen share crash;
+- Fixed video calls crash;
+- Fixed multiple denials;
+- Fixed audio recorder;
+- Fixed boot animation size;
+- Improved proximity sensor;
+- Back to HIDL version of memtrack;
+- Fully added MIUI's display calibration;
+- The entire rom is compiled with GLOBAL ThinLTO;
+- Updated N0Kernel to beta 12.2.9;
+- Optimised ART, Bionic, System Core, SqLite and more;
+- Improved RAM Management.
+
 =====================================
-- PixelPropsUtils: Rework for PPUI environment, fix Hide for Tencent Games
-- Added Pixelizer with initial customizations implementations - thanks to mhmdeve
-- Added GameSpace - thanks to nullxception, Neobuddy and Stallix for main changes and implementations
-- Monet Customizations, App Lock, Black Theme, Fonts customizations, Blurs {Beta} and more other features added to system
-- Improve hide for SafetyNet spoofs
-- Much more...
+PixelPlusUI v4.7 Android 12.1
 =====================================
-Device Side:
+- Fixed blue tinted videos in apps like Instagram and others;
+- Fixed TikTok hangs;
+- Fixed "fastboot boot recovery.img", now you can boot any recovery you desire;
+- Swiched to cortex-a76 art & bionic optimisations;
+- Nuked iorapd (Deprecated in android 13, due power consumption increase and other reasons);
+- Updated radio props;
+- Updated N0kernel to beta 11.2.6;
+- Improved audio quality and loudness;
+- Other improvements under the hood;
+
 =====================================
-- Update vendor from Miui 13.0.6.0 Global Europe
-- Final sepolicy rules for Ks/mdm_helper support (Ported from Sony Devices and Adapted for Xiaomi 8250)
-- audio: Use QCOM implementation for audio effects
-- Inherit Build time optimizations for platform
-- Revert "sm8250-common: audio: Use USB audio policy configuration from AOSP" (USB dac was broken)
-- Import & adapt qti vibrator effects
-- Import vibrator service prebuilts from Miui 13.0.4.0 EU
-- Implement support of vendor.qti.hardware.btconfigstore@2.0
-- Update and improve props from Miui Alioth V13.0.4.0.SKHEUXM
-- Improve Ultrasound Proximity Sensor
-- Latest kernel upstreams & adapt Vibraor for current environment
+PixelPlusUI v4.6 Android 12.1
 =====================================
-PixelPlusUI v4.5 Android 12.1 Release 5
-=====================================
-- Full rework of device trees from scratch on top of LineageOS 19.1
-- Full clean rework of vendor from scratch on top of LineageOS 19.1
-- Import and fix QTI BT Stack
-- Fix ScreenRecorder to be 120Hz 120FPS
-- Import back updated Display stack, hardware/qcom-caf/display as usual latest LA.UM.9.12.r1-14100.01-SMxx50.QSSI13.0
-- Imported back 24bit audio Enforcement for all apps
-- Imported back fixes for USB Audio [Will be more advanced improvements in later builds]
-- Imported back all Parts modifications:
-(Thermal profiles, Clear Speaker, Refresh Rate QS, Thermal Profiles QS, update to SDK32, Allow to wake the screen instead of pulsing, raise to wake gesture and Per-app maximum refresh rate)
-- SourceBuild vendor.qti.hardware.audiohalext@1.0
-- Set default Settings.Global.DEVICE_NAME according to MIUI
-- Configure display cutout
-- Make less statusbar padding
-- Declare default screen density 420 Dpi
-- Update blobs from Miui Alioth 13.0.4.0 Global Europe
-- Update mixer_paths from Miui 13.0.4.0 Global Europe 
-- Import Enrire pack of audio configs from Miui 13.0.4.0
-- Use MIUI poweroff charging animation
-- Enable Miui Notch overlay
-- Compile kernel with AOSP Clang 14.0.5
-- Update Immensity to v3.0.0 with multi-gen LRU
-- Drop Atrace compilation 
-- Fix scaling of dynamic refresh rate to be more properly
-- Kill IMS logspam with fire
-- Increase audio HAL buffer size to 240
-- Powerhint: Update powerhint from Emanuel module
-- Set dalvik vm props based on ram size
-- Add advanced_sf_offsets configuration
-- Import VulkanAPI Layers from Google Pixel 5
-- Switch back to SkiaGL Threaded
-- Update Display Stack from LA.UM.9.12.r1-13700.03-SMxx50.QSSI12.0
-- Switch to QTI BT Stack
-- Massive Rework of Sepolicy for sm8250-common Android 12/12.1 adaptation, with dropping ALL Neverallows, adressing tons of denials and ability to boot native SDK32 as main
-- Ramp 'ro.surface_flinger.set_idle_timer_ms' value
-- Enable DPM Connection Tracking (CT)
-- Allow Softwarecodecs work with GPU
-- Drop Xiaomi touch HIDL Support, it's not needed for Immensity kernel
-- Disable Async MTE on System Server 
-- Enable dex2oat64 to do dexopt
-- Enable IORAP feature. 
-- Enable UXE IO Prefetcher 
-- Provide Sepolicy and overlays for FPS Counter access
-- Port of Sony sepolicy for mdm_helper, right now stock helper for modem restart works as needed
-- Disable remote Keyguard animation
-=====================================
+- Maintainer changed to EmanuelCN
+- Now ships with N0Kernel
+- Swiched to EROFS
+- Dropped HOS display calibration
+- Dropped Moto Dolby
+- Using prebuilt audio hal from miui
+- Updated adreno drivers to @0530
+- Updated almost all blobs to LA.UM.9.12.r1-14100.01-SMxx50.QSSI13.0
+- Enhanced audio quality
+- Forced 32bit audio output
+- Using Media Codec2
+- Removed zram_writeback feature
+- Updated powerhint
+- Updated rootdir scripts to LA.UM.9.14.r1-18900-LAHAINA.QSSI12.0
+- Disabled some debugging services
+- Fixed remaining selinux denials
+- Using Pixel Atrace hal
