@@ -1,4 +1,20 @@
 =====================================
+PixelPlusUI v4.8 Android 12.1
+=====================================
+- Fixed Discord screen share crash;
+- Fixed video calls crash;
+- Fixed multiple denials;
+- Fixed audio recorder;
+- Fixed boot animation size;
+- Improved proximity sensor;
+- Back to HIDL version of memtrack;
+- Fully added MIUI's display calibration;
+- The entire rom is compiled with GLOBAL ThinLTO;
+- Updated N0Kernel to beta 12.2.9;
+- Optimised ART, Bionic, System Core, SqLite and more;
+- Improved RAM Management.  
+
+=====================================
 PixelPlusUI v4.7 Android 12.1
 =====================================
 - Fixed blue tinted videos in apps like Instagram and others;
