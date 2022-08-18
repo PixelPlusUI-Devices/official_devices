@@ -1,6 +1,14 @@
 Device Changes 
 
 ==========================================================================
+PixelPlusUI v4.8 
+==========================================================================
+ - Revert back to default paddings and margins 
+ - Rebase to aLn kernel 
+ - Upstream Pixel Launcher MOD to v10.8
+ - Import full set of audio configs from MIUI EU 13.0.5
+
+==========================================================================
 PixelPlusUI v4.7 
 ==========================================================================
  - A lot of tweaks in init scripts (Added from @Project-Awaken vayu device tree)
