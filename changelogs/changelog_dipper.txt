@@ -2,11 +2,7 @@ It's highly recommend clean install
 All necessary files exists in telegram group
 
 # Device changes
-Update rounded corners
-Add notch killer
-Back to Pixel bases
 Updated platform audio and more
-Applied remove packages for system space
-Kernel update to Linux 4.9.324 (Etude Op.12 No.4)
-
-
+Update Surface Flinger
+A huge change since latest version
+Kernel update to Linux 4.9.325 (Etude Op.12 No.4)
