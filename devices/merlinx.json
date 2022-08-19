@@ -1,27 +1,28 @@
 {
 	"response": [
 		{
-			"maintainer": "Matheus Costa",
+			"maintainer": "Kaike",
 			"oem": "Xiaomi",
 			"device": "Redmi Note 9",
-			"filename": "PixelPlusUI_4.7_merlinx-12.1-20220720-0009-OFFICIAL.zip",
-			"download": "https://download.ppui.site/twelve/merlinx/PixelPlusUI_4.7_merlinx-12.1-20220720-0009-OFFICIAL.zip",
-			"timestamp": 1658275764,
-			"md5": "48a6bebe13eb09b72eb2bc3d45102e27",
-			"sha256": "14fdd9d5af7ac21afc61d9c42b8540bc1c48eda573c14973054ca24766d1af85",
-			"size": 1726702073,
-			"version": 4.7,
+			"filename": "PixelPlusUI_4.8_merlinx-12.1-20220819-1557-OFFICIAL.zip",
+			"download": "https://download.ppui.site/twelve/merlinx/PixelPlusUI_4.8_merlinx-12.1-20220819-1557-OFFICIAL.zip",
+			"timestamp": 1660924651,
+			"md5": "568d49fd55c1ca798b7d1eedbc2bfd66",
+			"sha256": "3d811663bd139bbfdb8fb8f586f2a9fa4b123d3e86480ee1a5f573abdd4cf77f",
+			"size": 1680619215,
+			"version": 4.8,
 			"buildtype": "Monthly",
-			"forum": "https://forum.xda-developers.com/t/rom-12-1-official-pixelplusui-redmi-note-9-merlinx.4452419/",
+			"forum": "https://forum.xda-developers.com/t/rom-12-1-official-pixelplusui-redmi-note-9-merlinx.4482093/",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "https://paypal.me/uglykid24",
 			"telegram": "https://t.me/ppui_merlin",
-			"dt": "https://github.com/LucyfMorning/device_xiaomi_merlinx",
-			"common-dt": "https://github.com/PixelExperience-Devices/device_xiaomi_mt6768-common",
-			"kernel": "https://github.com/PixelExperience-Devices/kernel_xiaomi_mt6768"
+			"dt": "https://github.com/kaikeEXE/device_xiaomi_merlinx",
+			"common-dt": "https://github.com/kaikeEXE/device_xiaomi_mt6768-common",
+			"kernel": "https://github.com/kaikeEXE/kernel_xiaomi_mt6768",
+			"is_active": true
 		}
 	]
 }
