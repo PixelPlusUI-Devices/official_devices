@@ -4,14 +4,22 @@
 
 ########## **IF YOU ALREADY USING PIXELPLUSUI FIRST BUILD, THEN NEED CLEAN FLASH AS FOLLOW** ################
 
+######### **Chek all files in Telegram support chat** ############
+
 1. Backup Your Data
 
-2. Boot to Custom Recovery (TWRP, OrangeFox, PBRB)
+2. Boot to Custom Recovery (TWRP system as metadata or SHRP)
 
 3. Wipe System, Data, Dalvik, Cache, Vendor
 
-4. In TWRPIOrangeFox, open Terminal (Advanced/ Terminal in TWRP, Menu/More/Terminal in OrangeFox), and run command mke2fs -t ext4 -b 4096 /dev/block/bootdevice/by-name/cust, then enter "y" to confirm.
+4. Flash custom firmware avaible in support group
 
 5. Flash PixelPlusUI ROM zip
 
+6. Make Format Factory (not is format data)
+
 6. Reboot to System
+
+# Warning
+
+If you not follow correct installation steps, your system will broken and bluetooth keeps stopping. Not report this like a bug because you not followed a correct step.

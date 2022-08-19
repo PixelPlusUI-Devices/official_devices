@@ -1,27 +1,28 @@
 {
 	"response": [
 		{
-                  "maintainer": "LuMorningStarr",
-                  "oem": "xiaomi",
-                  "device": "Mi 8",
-                  "filename": "PixelPlusUI_4.7_dipper-12.1-20220724-1823-OFFICIAL.zip",
-                  "download": "https://download.ppui.site/twelve/dipper/PixelPlusUI_4.7_dipper-12.1-20220724-1823-OFFICIAL.zip",
-                  "timestamp": 1658686932,
-                  "md5": "2797a8fb52bbb766068c8329832603bd",
-                  "sha256": "5b4b24970fe040508b062a45d2e41727c07627cd3f8c0f5407f8b8b7cfc68d5e",
-                  "size": 1638221024,
-                  "version": 4.7,
-                  "buildtype": "Monthly",
-                  "forum": "https://forum.xda-developers.com/t/rom-official-12-1-pixelplusui-mi-8-dipper.4446501/",
-                  "firmware": "",
-                  "modem": "",
-                  "bootloader": "",
-                  "recovery": "",
-                  "paypal": "https://paypal.me/uglykid24",
-                  "telegram": "https://t.me/ppui_dipper",
-                  "dt": "https://github.com/LucyfMorning/device_xiaomi_dipper",
-                  "common-dt": "https://github.com/LucyfMorning/device_xiaomi_sdm845-common",
-                  "kernel": "https://github.com/PixelExperience-Devices/kernel_xiaomi_polaris"
-                }
+			"maintainer": "LuMorningStarr",
+			"oem": "xiaomi",
+			"device": "Mi 8",
+			"filename": "PixelPlusUI_4.8_dipper-12.1-20220818-1158-OFFICIAL.zip",
+			"download": "https://download.ppui.site/twelve/dipper/PixelPlusUI_4.8_dipper-12.1-20220818-1158-OFFICIAL.zip",
+			"timestamp": 1660823790,
+			"md5": "8f3b95d012b164cd9d6ff72e625754fb",
+			"sha256": "f400838e8ed9704fccff0b3c1ed455c12758ad48379ba84119de1c90580665a7",
+			"size": 1607560683,
+			"version": 4.8,
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-official-12-1-pixelplusui-mi-8-dipper.4446501/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/uglykid24",
+			"telegram": "https://t.me/ppui_dipper",
+			"dt": "https://github.com/LucyfMorning/device_xiaomi_dipper",
+			"common-dt": "https://github.com/LucyfMorning/device_xiaomi_sdm845-common",
+			"kernel": "https://github.com/PixelExperience-Devices/kernel_xiaomi_polaris",
+			"is_active": true
+		}
 	]
 }
