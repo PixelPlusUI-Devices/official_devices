@@ -1,27 +1,28 @@
 {
 	"response": [
-		{
-			"maintainer": "thecloverly",
-			"oem": "Realme",
-			"device": "RM6785",
-			"filename": "PixelPlusUI_4.3_RM6785-12.0-20220314-0155-OFFICIAL.zip",
-			"download": "https://download.ppui.site/twelve/RM6785/PixelPlusUI_4.5_RM6785-12.1-20220523-1229-OFFICIAL.zip",
-			"timestamp": 1653308980,
-			"md5": "f13f6b7e264fda08169081e0e6a441c0",
-			"sha256": "74cf9f8654d9f9d28e73d0ef250dd43d72dc947cee598af325e2246a6f5a6d4d",
-			"size": 1753198755,
-			"version": 4.5,
-			"buildtype": "Monthly",
-			"forum": "https://forum.xda-developers.com/t/rom-12-official-pixelplusui-v4-5-23-05-2022.4390871/",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "https://paypal.me/uglykid24",
-			"telegram": "https://t.me/ppui_RM6785",
-			"dt": "https://github.com/realme-mt6785-devs",
-			"common-dt": "",
-			"kernel": "https://github.com/realme-mt6785-devs/android_kernel_realme_mt6785/"
-		}
+			{
+					"maintainer": "thecloverly",
+					"oem": "Realme",
+					"device": "Realme 6/6i/6s/7/Narzo 20 Pro/30 4G",
+					"filename": "PixelPlusUI_4.8_RM6785-12.1-20220819-0446-OFFICIAL.zip",
+					"download": "https://download.ppui.site/twelve/RM6785/PixelPlusUI_4.8_RM6785-12.1-20220819-0446-OFFICIAL.zip",
+					"timestamp": 1660884400,
+					"md5": "b371d57bab8559b4561982d261582eaf",
+					"sha256": "4adff2e3a1be572721a57a5fdfb9539b150fb0fd9f1d21394ea3c8eec869fe6e",
+					"size": 1869155403,
+					"version": 4.8,
+					"buildtype": "Monthly",
+					"forum": "https://forum.xda-developers.com/t/rom-12-official-pixelplusui-v4-5-23-05-2022.4390871/",
+					"firmware": "",
+					"modem": "",
+					"bootloader": "",
+					"recovery": "",
+					"paypal": "https://paypal.me/uglykid24",
+					"telegram": "https://t.me/ppui_RM6785",
+					"dt": "https://github.com/realme-mt6785-devs",
+					"common-dt": "",
+					"kernel": "https://github.com/realme-mt6785-devs/android_kernel_realme_mt6785/",
+					"is_active": true
+			}
 	]
 }
