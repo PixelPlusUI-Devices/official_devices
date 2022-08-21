@@ -1,27 +1,28 @@
 {
-        "response": [
-                {
-                        "maintainer": "Matheus Costa",
-                        "oem": "Xiaomi",
-                        "device": "Redmi 9 / Poco M2",
-                        "filename": "PixelPlusUI_4.7_lava-12.1-20220720-0809-OFFICIAL.zip",
-                        "download": "https://download.ppui.site/twelve/lava/PixelPlusUI_4.7_lava-12.1-20220720-0809-OFFICIAL.zip",
-                        "timestamp": 1658304418,
-                        "md5": "a1680a82b96506355f11787c668b7074",
-                        "sha256": "e476349ccb87e1b411845634212b1b574e52abc14e6de97eb552b6b7a60094fc",
-                        "size": 1707632666,
-                        "version": 4.7,
-                        "buildtype": "Monthly",
-                        "forum": "https://forum.xda-developers.com/t/rom-12-1-official-pixelplusui-redmi-9-poco-m2-lava.4452735/",
-                        "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "",
-                        "paypal": "https://paypal.me/uglykid24",
-                        "telegram": "https://t.me/ppui_lancelot",
-                        "dt": "https://github.com/PixelExperience-Devices/device_xiaomi_lava",
-                        "common-dt": "https://github.com/PixelExperience-Devices/device_xiaomi_mt6768-common",
-                        "kernel": "https://github.com/PixelExperience-Devices/kernel_xiaomi_mt6768"
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "Kaike",
+			"oem": "Xiaomi",
+			"device": "Redmi 9 / Poco M2",
+			"filename": "PixelPlusUI_4.8_lava-12.1-20220820-1538-OFFICIAL.zip",
+			"download": "https://download.ppui.site/twelve/lava/PixelPlusUI_4.8_lava-12.1-20220820-1538-OFFICIAL.zip",
+			"timestamp": 1661009917,
+			"md5": "d34bf795ae9b5a725d2493ae983993f4",
+			"sha256": "03f565b7276b853070e86aebfae9e439bc902b40ff9550cede46502d39348172",
+			"size": 1661611004,
+			"version": 4.8,
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-12-1-official-pixelplusui-redmi-9-poco-m2-lava.4482575/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/uglykid24",
+			"telegram": "https://t.me/ppui_lancelot",
+			"dt": "https://github.com/kaikeEXE/device_xiaomi_lava",
+			"common-dt": "https://github.com/kaikeEXE/device_xiaomi_mt6768-common",
+			"kernel": "https://github.com/kaikeEXE/kernel_xiaomi_mt6768",
+			"is_active": true
+		}
+	]
 }
