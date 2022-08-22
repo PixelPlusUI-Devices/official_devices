@@ -1,10 +1,11 @@
 Changelog :
 
-- Added Pixel Launcher Mod
-- Improved Battery
-- Address some sepolicy denials
-- Other Minors FIxes
+- Minor Improvements And Fixes
+
+Notes: 
+- Based on 13.0.5 FW
+
 =====================================
-PixelPlusUI v4.7 Android 12.1 
+PixelPlusUI v4.8 Android 12.1 
 =====================================
 
