@@ -1,16 +1,16 @@
 {
-        "response": [
-                {
+	"response": [
+		{
                         "maintainer": "ugly_kid_af",
                         "oem": "",
                         "device": "Redmi Note 7 Pro",
-                        "filename": "PixelPlusUI_4.7_violet-12.1-20220720-1050-OFFICIAL.zip",
-                        "download": "https://download.ppui.site/twelve/violet/PixelPlusUI_4.7_violet-12.1-20220720-1050-OFFICIAL.zip",
-                        "timestamp": 1658314063,
-                        "md5": "c26772323c25be333152f5e9f7d99261",
-                        "sha256": "dc35fae3d9494bdbdde589b8377b74b2b76d966bac451411a300d2e34a53daba",
-                        "size": 1767939926,
-                        "version": 4.7,
+                        "filename": "PixelPlusUI_4.8_violet-12.1-20220822-1830-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/twelve/violet/PixelPlusUI_4.8_violet-12.1-20220822-1830-OFFICIAL.zip",
+                        "timestamp": 1661192586,
+                        "md5": "335acb6bd513ed36dc9e5c544490a808",
+                        "sha256": "d1ab53208f478134662afd246769bf6793c5b7d8e09ab64cc64329bf79eaaf5b",
+                        "size": 1767399862,
+                        "version": 4.8,
                         "buildtype": "",
                         "forum": "https://forum.xda-developers.com/t/rom-12-0-violet-pixelplusui-official-twelve-aosp.4374079/",
                         "firmware": "",
@@ -21,7 +21,8 @@
                         "telegram": "https://t.me/noobs_build",
                         "dt": "",
                         "common-dt": "",
-                        "kernel": ""
+                        "kernel": "",
+                        "is_active": true
                 }
         ]
 }
