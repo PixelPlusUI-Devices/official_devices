@@ -1,27 +1,28 @@
 {
-	"response": [
-		{
-			"maintainer": "freesoul00",
-			"oem": "",
-			"device": "Xiaomi Mi9",
-			"filename": "PixelPlusUI_4.7_cepheus-12.1-20220721-1056-OFFICIAL.zip",
-			"download": "https://download.ppui.site/twelve/cepheus/PixelPlusUI_4.7_cepheus-12.1-20220721-1056-OFFICIAL.zip",
-			"timestamp": 1658400885,
-			"md5": "0846e5b6154a37bd3c3e160537605836",
-			"sha256": "ff6884c50837231f7e8f2512bdae456ba20410b723e2d01811b5b4ab6f02e488",
-			"size": 1692185552,
-			"version": 4.7,
-			"buildtype": "Monthly",
-			"forum": "https://forum.xda-developers.com/t/rom-12-0-cepheus-pixelplusui-official-twelve-aosp.4381029/",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "https://eu.dl.twrp.me/cepheus/",
-			"paypal": "https://www.paypal.me/uglykid24",
-			"telegram": "https://t.me/ppui_mi9",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
-		}
-	]
+        "response": [
+                {
+                        "maintainer": "freesoul00",
+                        "oem": "",
+                        "device": "Xiaomi Mi9",
+                        "filename": "PixelPlusUI_4.8_cepheus-12.1-20220824-2248-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/twelve/cepheus/PixelPlusUI_4.8_cepheus-12.1-20220824-2248-OFFICIAL.zip",
+                        "timestamp": 1661381317,
+                        "md5": "21d2551453721dbc8b39414b317a45e5",
+                        "sha256": "f770fc60d1912779bccc611417fe054c8a73d6f1f77bd3f441830c7ce2ae29f9",
+                        "size": 1686139175,
+                        "version": 4.8,
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/rom-12-0-cepheus-pixelplusui-official-twelve-aosp.4381029/",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "https://eu.dl.twrp.me/cepheus/",
+                        "paypal": "https://www.paypal.me/uglykid24",
+                        "telegram": "https://t.me/ppui_mi9",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": "",
+                        "is_active": true
+                }
+        ]
 }
