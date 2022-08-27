@@ -21,7 +21,8 @@
 			"telegram": "https://t.me/ppuichat",
 			"dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_onclite.git",
 			"common-dt": "",
-			"kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_onclite.git"
-		}
+			"kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_onclite.git",
+                        "is_active": false
+                }
 	]
 }

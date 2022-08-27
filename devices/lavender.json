@@ -21,7 +21,8 @@
       "telegram": "https://t.me/ppui_lavender",
       "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_lavender",
       "common-dt": "",
-      "kernel": "https://github.com/projects-nexus/nexus_kernel_xiaomi_lavender"
+      "kernel": "https://github.com/projects-nexus/nexus_kernel_xiaomi_lavender",
+      "is_active": true
     }
   ]
 }

@@ -21,7 +21,8 @@
 			"telegram": "https://t.me/ppuimiatoll",
 			"dt": "",
 			"common-dt": "",
-			"kernel": ""
-		}
+			"kernel": "",
+                        "is_active": true
+                }
 	]
 }

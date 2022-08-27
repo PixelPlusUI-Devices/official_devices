@@ -21,7 +21,8 @@
                         "telegram": "https://t.me/ppuispes",
                         "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_spes",
                         "common-dt": "",
-                        "kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_spes"
+                        "kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_spes",
+                        "is_active": true
                 }
         ]
 }

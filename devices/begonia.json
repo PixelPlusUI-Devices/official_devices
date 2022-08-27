@@ -13,7 +13,8 @@
                         "buildtype": "Monthly",
                         "paypal": "https://paypal.me/uglykid24",
                         "forum": "https://forum.xda-developers.com/t/4417779/",
-                        "telegram": "https://t.me/ppui_begonia"
+                        "telegram": "https://t.me/ppui_begonia",
+                        "is_active": false
                 }
         ]
 }

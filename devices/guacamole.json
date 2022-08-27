@@ -21,7 +21,8 @@
 			"telegram": "https://t.me/ppui_guacamole",
 			"dt": "https://github.com/PixelPlusUI-devices/device_oneplus_guacamole",
 			"common-dt": "https://github.com/PixelPlusUI-devices/device_oneplus_sm8150-common",
-			"kernel": "https://github.com/PixelPlusUI-devices/kernel_oneplus_guacamole"
-		}
+			"kernel": "https://github.com/PixelPlusUI-devices/kernel_oneplus_guacamole",
+                        "is_active": true
+                }
 	]
 }

@@ -21,7 +21,8 @@
          "telegram":"https://t.me/ppui_alioth",
          "dt":"https://github.com/PixelPlusUI-Devices/device_xiaomi_alioth",
          "common-dt":"https://github.com/PixelPlusUI-Devices/alioth_device_xiaomi_sm8250-common",
-         "kernel":"https://github.com/PixelPlusUI-Devices/alioth_kernel_xiaomi_sm8250"
+         "kernel":"https://github.com/PixelPlusUI-Devices/alioth_kernel_xiaomi_sm8250",
+         "is_active": true
       }
    ]
 }

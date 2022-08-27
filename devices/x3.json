@@ -21,7 +21,8 @@
 					"telegram": "https://t.me/ppui_RMX2081",
 					"dt": "https://github.com/PixelPlusUI-devices/device_realme_x3",
 					"common-dt": "",
-					"kernel": "https://github.com/PixelPlusUI-devices/kernel_realme_x3"
-			}
+					"kernel": "https://github.com/PixelPlusUI-devices/kernel_realme_x3",
+                                        "is_active": false
+                        }
 	]
 }

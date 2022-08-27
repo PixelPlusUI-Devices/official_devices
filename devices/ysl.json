@@ -21,7 +21,8 @@
                         "telegram": "https://t.me/Ppui_YSL",
                         "dt": "https://github.com/Iris0411/device_xiaomi_ysl",
                         "common-dt": "https://github.com/Iris0411/device_xiaomi_msm8953-common",
-                        "kernel": "https://github.com/ItsVixano/android_kernel_xiaomi_msm8953"
+                        "kernel": "https://github.com/ItsVixano/android_kernel_xiaomi_msm8953",
+                        "is_active": true
                 }
         ]
 }

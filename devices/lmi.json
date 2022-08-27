@@ -21,7 +21,8 @@
 			"telegram": "https://t.me/ppui_lmi",
 			"dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_lmi",
 			"common-dt": "https://github.com/PixelPlusUI-Devices/lmi_xiaomi_sm8250-common",
-			"kernel": "https://github.com/PixelPlusUI-Devices/lmi_kernel_xiaomi_sm8250"
-		}
+			"kernel": "https://github.com/PixelPlusUI-Devices/lmi_kernel_xiaomi_sm8250",
+                        "is_active": false
+                }
 	]
 }

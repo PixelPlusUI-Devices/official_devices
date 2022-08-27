@@ -21,7 +21,8 @@
 			"telegram": "https://t.me/ppui_rmx1921",
 			"dt": "https://github.com/Dhruvesh16/device_realme_RMX1921/tree/ppui",
 			"common-dt": "",
-			"kernel": "https://github.com/Dhruvesh16/android_kernel_realme_RMX1921/tree/11"
-		}
+			"kernel": "https://github.com/Dhruvesh16/android_kernel_realme_RMX1921/tree/11",
+                        "is_active": true
+                }
 	]
 }

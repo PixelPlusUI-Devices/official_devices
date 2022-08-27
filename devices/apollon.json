@@ -21,7 +21,8 @@
 			"telegram": "https://t.me/ppui_apollo",
 			"dt": "",
 			"common-dt": "https://github.com/ahmedtohamy1/device_xiaomi_sm8250-common",
-			"kernel": ""
-		}
+			"kernel": "",
+                        "is_active": true
+                }
 	]
 }

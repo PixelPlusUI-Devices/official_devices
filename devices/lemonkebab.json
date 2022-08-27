@@ -21,7 +21,8 @@
 					"telegram": "https://t.me/ppui_lemonkebab",
 					"dt": "https://github.com/PixelPlusUI-devices/device_oneplus_lemonkebab",
 					"common-dt": "",
-					"kernel": "https://github.com/PixelPlusUI-devices/kernel_oneplus_lemonkebab"
-			}
+					"kernel": "https://github.com/PixelPlusUI-devices/kernel_oneplus_lemonkebab",
+                                        "is_active": false
+                        }
 	]
 }

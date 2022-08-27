@@ -21,7 +21,8 @@
                         "telegram": "https://t.me/ppui_realme6pro",
                         "dt": "https://github.com/DestroyerV/android_device_realme_RMX2061",
                         "common-dt": "https://github.com/DestroyerV/android_device_realme_sm7125-common",
-                        "kernel": "https://github.com/rmx2061/android_kernel_realme_sm7125"
+                        "kernel": "https://github.com/rmx2061/android_kernel_realme_sm7125",
+                        "is_active": true
                 }
         ]
 }

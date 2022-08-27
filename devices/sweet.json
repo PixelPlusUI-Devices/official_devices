@@ -21,7 +21,8 @@
 			"telegram": "https://t.me/ppui_sweet",
                         "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_sweet",
                         "common-dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_sm6150-common_sweet",
-                        "kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_sweet"
-	     	}
+                        "kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_sweet",
+                        "is_active": true
+                       }
 	]
 }
