@@ -208,12 +208,13 @@ def get_devices():
     for all_files in files:
         with open(f"{jsonDir}/{all_files}", "r") as file:
             data = json.loads(file.read())
-            devices.append({
-                "device_name": data['response'][0]['device'],
-                "codename": all_files.replace(".json", ""),
-                "maintainer": data['response'][0]['maintainer'],
-                "datetime": int(data['response'][0]['timestamp'])
-            })
+            if data['response'][0]['is_active']:
+                devices.append({
+                    "device_name": data['response'][0]['device'],
+                    "codename": all_files.replace(".json", ""),
+                    "maintainer": data['response'][0]['maintainer'],
+                    "datetime": int(data['response'][0]['timestamp'])
+                })
     return devices
 
 # Prepare log format for private group
