@@ -1,0 +1,28 @@
+{
+    "response": [
+            {
+                    "maintainer": "VitorSSSouzaBR",
+                    "oem": "Xiaomi",
+                    "device": "Mi A3",
+                    "filename": "PixelPlusUI_4.8_laurel_sprout-12.1-20220905-2035-OFFICIAL.zip",
+                    "download": "https://download.ppui.site/twelve/laurel_sprout/PixelPlusUI_4.8_laurel_sprout-12.1-20220905-2035-OFFICIAL.zip",
+                    "timestamp": 1662377978,
+                    "md5": "71fe98e070cb059a58044d635afd84c1",
+                    "sha256": "a8bc73f0c7e5b725c2fd739906a7a5a7566dd8bf8f4b37ee4f5b0fcfcd8c80c4",
+                    "size": 1662377980,
+                    "version": 4.8,
+                    "buildtype": "Monthly",
+                    "forum": "https://forum.xda-developers.com/t/pixelplusui-4-8.4489111/",
+                    "firmware": "",
+                    "modem": "",
+                    "bootloader": "",
+                    "recovery": "",
+                    "paypal": "",
+                    "telegram": "https://t.me/+GR8IDszQyf04MWIx",
+                    "dt": "https://github.com/PixelPlusUI-devices/device_xiaomi_laurel_sprout",
+                    "common-dt": "",
+                    "kernel": "https://github.com/PixelPlusUI-devices/kernel_xiaomi_laurel_sprout",
+                                        "is_active": true
+                        }
+    ]
+}

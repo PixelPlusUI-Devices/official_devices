@@ -1,0 +1,5 @@
+DEVICE CHANGES
+
+- Initial Android 12l release
+- Cleanflash is mandatory
+- Selinux Enforcing
