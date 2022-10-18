@@ -13,7 +13,7 @@ env:
   BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
   CHAT_ID: ${{ secrets.CHAT_ID }}
   PRIV_CHAT_ID: ${{ secrets.PRIV_CHAT_ID }}
-  BANNER_URL: ${{ secrets.BANNER_URL }}
+  BANNER_URL_T: ${{ secrets.BANNER_URL_T }}
   STICKER_ID: ${{ secrets.STICKER_ID }}
   NOTES: ${{ secrets.NOTES }}
 
@@ -44,4 +44,4 @@ jobs:
           COMMIT_MESSAGE=$(cat commit_mesg.txt)
           rm commit_mesg.txt
           git add . && git commit -sm "$COMMIT_MESSAGE"
-          git push origin snowcone
+          git push origin tiramisu
