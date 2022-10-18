@@ -151,8 +151,8 @@ def message_content(information):
     msg += f"<b>Rom Version:</b> <code>{information['ppui_version']}</code>\n"
     msg += f"<b>Build Date:</b> <code>{information['datetime']} UTC</code>\n\n"
     msg += f"<b>Source Changelogs:</b> <a href='https://ppui.site/changelog'>Here</a>\n"
-    msg += f"<b>Device Changelogs:</b> <a href='https://raw.githubusercontent.com/PixelPlusUI-Devices/official_devices_a12/snowcone/changelogs/changelog_{information['codename']}.txt'>Here</a>\n\n"
-    msg += f"<b>Installation Guide:</b> <a href='https://github.com/PixelPlusUI-Devices/official_devices_a12/blob/snowcone/guides/{information['codename']}.md'>Here</a>\n"
+    msg += f"<b>Device Changelogs:</b> <a href='https://raw.githubusercontent.com/PixelPlusUI-Devices/official_devices/snowcone/changelogs/changelog_{information['codename']}.txt'>Here</a>\n\n"
+    msg += f"<b>Installation Guide:</b> <a href='https://github.com/PixelPlusUI-Devices/official_devices/blob/snowcone/guides/{information['codename']}.md'>Here</a>\n"
     msg += f"<b>Screenshots:</b> <a href='https://ppui.site/gallery'>Here</a>\n"
     msg += f"<b>MD5:</b> <code>{information['md5']}</code>\n"
     if NOTES is not None and len(NOTES) > 1:
