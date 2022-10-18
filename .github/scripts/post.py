@@ -37,7 +37,7 @@ try:
     CHAT_ID = getConfig("CHAT_ID")
     PRIV_CHAT_ID = getConfig("PRIV_CHAT_ID")
     STICKER_ID =  getConfig("STICKER_ID")
-    BANNER_URL = getConfig("BANNER_URL")
+    BANNER_URL_T = getConfig("BANNER_URL_T")
 except KeyError:
     print("Fill all the configs plox..\nExiting...")
     exit(0)
@@ -99,7 +99,7 @@ def get_info(ID):
                 break
     with open(f"{jsonDir}/{device}") as device_file:
         info = json.loads(device_file.read())
-        ANDROID_VERSION = "12.1"
+        ANDROID_VERSION = "13"
         PPUI_VERSION = info['response'][0]['version']
         DEVICE_NAME = info['response'][0]['device']
         CODENAME =  device.replace(".json", "")
@@ -151,8 +151,8 @@ def message_content(information):
     msg += f"<b>Rom Version:</b> <code>{information['ppui_version']}</code>\n"
     msg += f"<b>Build Date:</b> <code>{information['datetime']} UTC</code>\n\n"
     msg += f"<b>Source Changelogs:</b> <a href='https://ppui.site/changelog'>Here</a>\n"
-    msg += f"<b>Device Changelogs:</b> <a href='https://raw.githubusercontent.com/PixelPlusUI-Devices/official_devices_a12/snowcone/changelogs/changelog_{information['codename']}.txt'>Here</a>\n\n"
-    msg += f"<b>Installation Guide:</b> <a href='https://github.com/PixelPlusUI-Devices/official_devices_a12/blob/snowcone/guides/{information['codename']}.md'>Here</a>\n"
+    msg += f"<b>Device Changelogs:</b> <a href='https://raw.githubusercontent.com/PixelPlusUI-Devices/official_devices/tiramisu/changelogs/changelog_{information['codename']}.txt'>Here</a>\n\n"
+    msg += f"<b>Installation Guide:</b> <a href='https://github.com/PixelPlusUI-Devices/official_devices/blob/tiramisu/guides/{information['codename']}.md'>Here</a>\n"
     msg += f"<b>Screenshots:</b> <a href='https://ppui.site/gallery'>Here</a>\n"
     msg += f"<b>MD5:</b> <code>{information['md5']}</code>\n"
     if NOTES is not None and len(NOTES) > 1:
@@ -187,9 +187,9 @@ def tg_message():
             info = get_info(devices)
             if STICKER_ID:
                 bot.send_sticker(CHAT_ID, STICKER_ID)
-                send_post(CHAT_ID, BANNER_URL, message_content(info), button(info))
+                send_post(CHAT_ID, BANNER_URL_T, message_content(info), button(info))
             else:
-                send_post(CHAT_ID, BANNER_URL, message_content(info), button(info))
+                send_post(CHAT_ID, BANNER_URL_T, message_content(info), button(info))
             commit_description += f"- {info['device_name']} ({info['codename']})\n"
             sleep(5)
     update(get_new_id())
@@ -231,7 +231,7 @@ def tg_log():
             YetToUpdate.append(device)
     count = 1
     msg = ""
-    msg += f"<b>Pixel Plus UI Devices Update Status</b>\n\n"
+    msg += f"<b>Pixel Plus UI Devices Tiramisu Update Status</b>\n\n"
     msg += f"<b>The following devices have been updated in the current month</b> <code>(after {str(month_start)} hours)</code><b>:</b> "
     if len(Updated) == 0:
         msg += f"<code>None</code>"
