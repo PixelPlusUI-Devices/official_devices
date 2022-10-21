@@ -1,21 +1,29 @@
-* violet: Nuke Lawnchair & Ship TeamFiles Pixel launcher
-* violet: Drop atrace HIDL
-* violet: Uprev radio config into 1.2
-* violet: sepolicy: Attach property type into device_id
-* violet: Move to common IFAAService
-* violet: Switch to source-built mlipay interface
-* violet: remove QTI perfd remainding components
-* violet: Stop explicitely building netutils-wrapper-1.0
-* violet: Update Bluetooth stack from SWEETEEAGlobal_V13.0.10.0.SKFEUXM
-* violet: Update IBluetoothAudioProvidersFactory HAL to v2.1
-* violet: Uprev android.hardware.bluetooth
-* violet: Drop redundant targets/packages
-* violet: Increase SYSTEMIMAGE partition size
-* violet: rootdir: Set max_comp_streams to 4
-* violet: rootdir: Set Zram size to 50%
-* violet: Update Prebuilt Azure Kernel back to 19 June 2022
-* violet: Enable IORAP feature
-* violet: Tune Haptics and Vibrations
-* Fixed decryption of encrypted storage on Android 12/12.1 (With Pin/Password/Pattern/No lock) (Use proper Recovery)
-* Improved performance and stability
-* Misc changes and fixes
+- Initial release
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working
+- No need to flash firmware or gapps (included)
+- violet: Switch to metadata FBE
+- violet: sepolicy: Address init denial
+- violet: Don't build FM for now
+- violet: Switch back to AOSP bluetooth stack
+- violet: Disable LE audio related profiles 
+- violet: Switch BtAudio to AIDL
+- violet: Revert back to old media codecs 
+- violet: Update adreno stack from from LA.UM.9.14.r1-19300.01-LAHAINA.…
+- violet: Checkout media config files to LA.UM.9.1.r1-11500.02-SMxxx0.Q… 
+- violet: audio: Increase In-call earpiece volume
+- violet: rootdir: Add Offline Charging LED Indicator 
+- violet: Migrate to AIDL ClearKey DRM HAL
+- violet: Enable zygote critical window
+- violet: Add apk/jar/vintf fragments to PRODUCT_PACKAGES
+- violet: Update system blobs from LA.QSSI.13.0.r1-05500-qssi.0
+- violet: Drop trusted user interface
+- violet: Enable vibration intensity levels
+- violet: Update adreno stack from LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
+- violet: Checkout CarrierConfig to LA.QSSI.13.0.r1-05500-qssi.0
+- violet: Checkout CarrierConfig to LA.QSSI.12.0.r1-05800.01-qssi.0 
+- violet: overlay: Migrate rounded corner content padding 
+- violet: Update system blobs from LA.QSSI.13.0.r1-05800-qssi.0
+- violet: overlay: Remove BT related configs
+- violet: Move Bluetooth power overlays to sysprops
