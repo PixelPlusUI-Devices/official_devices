@@ -1,5 +1,5 @@
 =====================================
-PixelPlusUI v4.8 Android 12.1 Release 22
+PixelPlusUI v5.0 Android 13 Release 7
 =====================================
 - PixelPropsUtils: Rework for PPUI environment, fix Hide for Tencent Games
 - Added Pixelizer with initial customizations implementations - thanks to mhmdeve
@@ -10,17 +10,18 @@ PixelPlusUI v4.8 Android 12.1 Release 22
 =====================================
 Asus Zenfone Max Pro M1 (X00T/D) changes:
 =====================================
-- Reverted FP back to stock A10
-- Camera: Imported FOSS camera hals
-- Camera: Upstreamed camera blobs from LA.UM.9.2.r1-03600-SDMxx0.0
-- Camera: Disabled lib2d rotation
-- Camera: Link to libhidltransport instead of android.hidl.base
-- Disabled triple buffering
-- Disabled slow blur effect to avoid laggish blur effect
-- Fixed camera lags
-- Dropped all SF offset related props
-- Fixed Google Camera crashes issue
-- Tuned memory parameters from CAF
-- Tuned CPU and sched parameters from CAF
+- Updated FP to Raven October 2022
+- Updated to latest PixelPlusUI 5.0 Source
+- props: don't latch unsignal buffers
+- props: Use threaded GLES render engine
+- Removed activity recognition libs
+- Upreved framework compatibility matrix to 2.0
+- doze: Include SettingsLib in static libraries
+- Migrated to AIDL ClearKey DRM HAL
+- Dropped config_setColorTransformAccelerated
+- Added IOP blobs from SLD_sprout
+- Disabled alpha compositing in WM
+- Imported stock Dalvik heap overrides
+- Some misc implementations & improvements
 - CTS passed by default
 - ROM is NON-FBE & LV build
