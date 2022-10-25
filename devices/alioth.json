@@ -1,28 +1,28 @@
 {
-   "response":[
-      {
-         "maintainer":"EmanuelCN0",
-         "oem":"Poco",
-         "device":"Redmi K40/ POCO F3/ Mi 11x",
-         "filename":"PixelPlusUI_4.8_alioth-12.1-20220817-1611-OFFICIAL.zip",
-         "download":"https://download.ppui.site/twelve/alioth/PixelPlusUI_4.8_alioth-12.1-20220817-1611-OFFICIAL.zip",
-         "timestamp":1660752676,
-         "md5":"cb7623d1ceb33b0c49c08fe9621eb886",
-         "sha256":"7fcf3ac8d887459d8fd141bf3405a6ccedd2259b51a05635ad17aec296b1f1ec",
-         "size":2016648695,
-         "version":4.8,
-         "buildtype":"Monthly",
-         "forum":"https://forum.xda-developers.com/t/rom-official-pixelplusui-4-5-a12-1-alioth-in.4458085/",
-         "firmware":"",
-         "modem":"",
-         "bootloader":"",
-         "recovery":"https://eu.dl.twrp.me/alioth/",
-         "paypal":"https://paypal.me/uglykid24",
-         "telegram":"https://t.me/ppui_alioth",
-         "dt":"https://github.com/PixelPlusUI-Devices/device_xiaomi_alioth",
-         "common-dt":"https://github.com/PixelPlusUI-Devices/alioth_device_xiaomi_sm8250-common",
-         "kernel":"https://github.com/PixelPlusUI-Devices/alioth_kernel_xiaomi_sm8250",
-         "is_active": true
-      }
-   ]
+        "response": [
+                {
+                        "maintainer": "revolwoc",
+                        "oem": "Poco",
+                        "device": "Redmi K40/ POCO F3/ Mi 11x",
+                        "filename": "PixelPlusUI_5.0_alioth-13.0-20221023-1757-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/thirteen/alioth/PixelPlusUI_5.0_alioth-13.0-20221023-1757-OFFICIAL.zip",
+                        "timestamp": 1666547767,
+                        "md5": "6f5ebdc67fe8742a8a33eb632ebac801",
+                        "sha256": "21bb50b24e9d7923a75533da139cf90a5eb4788fad5dec7725fd8a21906ba46b",
+                        "size": 1791266573,
+                        "version": 5.0,
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/rom-13-0-alioth-pixelplusui-official-stable-aosp.4509973/",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "https://eu.dl.twrp.me/alioth/",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://t.me/ppui_alioth",
+                        "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_alioth",
+                        "common-dt": "https://github.com/PixelPlusUI-Devices/alioth_device_xiaomi_sm8250-common",
+                        "kernel": "https://github.com/PixelPlusUI-Devices/alioth_kernel_xiaomi_sm8250",
+                        "is_active": true
+                }
+        ]
 }
