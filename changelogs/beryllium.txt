@@ -1,0 +1,23 @@
+=====================================
+PixelPlusUI v5.0 Android 13 Release 7
+=====================================
+- PixelPropsUtils: Rework for PPUI environment, fix Hide for Tencent Games
+- Added Pixelizer with initial customizations implementations - thanks to mhmdeve
+- Added GameSpace - thanks to nullxception, Neobuddy and Stallix for main changes and implementations
+- Monet Customizations, App Lock, Black Theme, Fonts customizations, Blurs {Beta} and more other features added to system
+- Improve hide for SafetyNet spoofs
+- Much more...
+=====================================
+Xiaomi Poco F1 (beryllium) changes:
+=====================================
+- Updated to latest PixelPlusUI 5.0 Source
+- Added aptx support
+- Added LDAC support
+- Removed Smart Scene
+- Added Uclamp support
+- Updated CarrierConfigs
+- Updated APN's configs
+- Added FPS info overlay
+- Added Offline charging indicator
+- Fixed thermal profile low frequency
+- Improved thermal profile list to only 3 options
