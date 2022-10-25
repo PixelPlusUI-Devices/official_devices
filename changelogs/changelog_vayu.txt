@@ -1,97 +1,19 @@
-Device Changes 
-
-==========================================================================
-PixelPlusUI v4.8 
-==========================================================================
- - Revert back to default paddings and margins 
- - Rebase to aLn kernel 
- - Upstream Pixel Launcher MOD to v10.8
- - Import full set of audio configs from MIUI EU 13.0.5
-
-==========================================================================
-PixelPlusUI v4.7 
-==========================================================================
- - A lot of tweaks in init scripts (Added from @Project-Awaken vayu device tree)
- - Update vendor blobs to miui 13.0.4.0
- - Added notch bar killer overlay (This overlay gets rid of the black bar in most apps/games and lets the screen fill past the notch.)
- - Import vibration patterns from Pixel 4 XL
- - Imporove statusbar padding and margins
- - Build some RIL libs to overcome call failing issues
- - Disable some GMS components | Results in better wifi speeds and battery backup
- - Tune zRAM for better performance
- - Add fastboot[in recovery] mode to advanced reboot menu
- - Upstreamed Pixel Launcher MOD to 9.8 | Full changelogs HERE
- - Removed Pixel Launcher MODs app, as it requires root
- - Fixed greyed out USB actions in notifications when connected to PC
- - Revert "Set Recommended Night Display Color Temperature as default"
-
-==========================================================================
-PixelPlusUI v4.6 Semi-Monthly Release (2nd Release) 
-==========================================================================
- - Fixed heating issues and battery drain issues 
- - Upstreamed Pixel Launcher MOD to v9.5 | Changelogs -> https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-05-28
-
-==========================================================================
-PixelPlusUI v4.6 
-==========================================================================
- - Add per-app refresh rate settings
- - Added Moto Dolby by ReiRyuki 
- - Upstreamed Pixel Launcher MOD to v9.3 | Changelogs -> https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-05-28
- - Upstream GCam to MGC_8.1.101_A9_GV2b | Source -> https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl88/3/ | Recommended config -> https://t.me/chandeler_s_chat/17887
-
-==========================================================================
-PixelPlusUI v4.5 HotFix
-==========================================================================
- - Updated GCam to latest version (MGC_8.1.101_A9_GV1zfix) 
- - Add QS tile to launch Thermal Profiles
- - Add Ambient Display settings
-   - Pick-up to wake device
-   - Hand Wave to wake device
-   - Wake device when out of pocket
- - Add FPS info QS tile
- - Update Pixel Launcher MOD to v8.4
-   - Added themed icons from the module
-   - More changelogs -> https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-03-31-2
-[BUG FIX] Fixed lags in system UI
-
-==========================================================================
-PixelPlusUI v4.5 
-==========================================================================
- - Increase SWAP (zRAM) memory to improve system smoothness
- - Add G Cam by BSG as default [Bug: Camera crashing when system's camera API is requested] 
- - Enable haptics when swiping text cursor
- - Remove mobile plan from Settings -> Network & Internet
- - Set Recommended Night Display Color Temperature as default 
- - Make the UI smoother on top of smoothness provided by Android 12.1
- - Added modded Pixel Launcher as prebuilt home app
-    - Double Tap to Sleep
-    - More Grids Options [Available 6x9, 6x8, 6x7, 6x6, 5x8, 5x7, 5x6, 5x5, 4x7, 4x6, 4x5, 4x4, 3x3, 2x2]
-    - The appearance of app-drawer in-device search bar colour in light/dark theme is correct(which is buggy in original pixel launcher on all aosp based roms, only works fine in pixel devices)
-    - Search Results Highlight Colour shows in material you colour. When you press enter while highlighting search results, that app/settings opens. Subtle Changes in Group Highlights & Search Box Highlight
-    - Smoothness better than original launcher. Added Tweaks which makes the launcher more smoother.
-    - [Bug] Weather widget in 'At a Glance' widget (below calendar/date) not launching google weather app (Weather data is working fine tho)
- - Reduce time taken to boot into system (Faster boot times, usually took 10 seconds to move from splash screen to boot animation, reduced that delay to half)
- - Revert "combined signal icons in status bar"
- - Add call recording to Google Phone app
- - Show Turbo Charging when using the proprietary charger, like MIUI
- - Video captured in ScrenRecorder is capped to 120 FPS
- - Some network and GPS improvemnts
-
-==========================================================================
-PixelPlusUI v4.3 
-==========================================================================
- - Nuke Adaptive Charging
-
-==========================================================================
-PixelPlusUI v4.2 
-==========================================================================
- - Add support for AUX camers in Open Camera App
- - Nuke default camera app
- - VILTE calls working
- - Enable combined signal icons in status bar
- - Increase handset speaker and mic volume
- - Enable quick tap
- - Enable adaptive charging
- - Add 'Saturated' color mode
- - Dropped Xiaomi Parts
- 
+ - Rebased to Arrow OS device trees 
+ - Switch to Mochi kernel 
+ - Forward port G Cam MOD by BSG 8.1 
+ - Dropped Dolby 
+ - Update audio HAL to 7.1 and add some audio tweaks 
+ - Update surface flinger props and other smoothness tweaks 
+ - Switch to SkiaGL Threaded render engine 
+ - Import Brightness overlays from MIUI 
+ - Improve haptic and vibe patterns 
+ - Enable configurable haptic strengths 
+ - Import powerhint.json and power profile from coral (*adapt for vayu) 
+ - Drop IORAP prefetching [DEPRECATED in Android 13 and above] 
+ - Drop liba2dpoffload target [source built is UNSUPPORTED in Android 13] 
+ - Unpin render script binaries [DEPRECATED on Android 12 and above] 
+ - Enable dex2oat64 to do dexopt 
+ - Disable vsync for CPU rendered Apps 
+ - Force disable low ram config [our device is having 6/8+ GB ram, so it's not low ram conditions] 
+ - Improve video calling 
+ - Tune Adaptive Suspend parameters 
