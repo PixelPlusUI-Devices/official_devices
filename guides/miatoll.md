@@ -2,19 +2,13 @@
 
 # Installation Guide For PixelPlusUI for Xiaomi Redmi Note 9S/Pro/Pro Max / POCO M2 Pro 9 (Miatoll)
 
-### CLEAN FLASH (RECOMMENDED) : 
-1. First take backup 
-2. Reboot to Recovery then do Wipe cache, dalvik/ART cache,Format Data
-3. Flash Rom
-4. Flash latest firmware
-5. Flash magisk (if needed)
-6. Reboot
+## IF YOU ARE MOVING FROM ANDROID 11 or ANDROID 12 TO ANDROID 13 then install stable MIUI firmware and CLEAN FLASH ( Format Data ) Is COMPULSORY.
 
-### DIRTY FLASH IF AN UPDATE
-1. Wipe Cache and Dalvik Cache
-2. Flash ROM (and Magisk if needed)
-3. Reboot
+## Recovery Link : [OFOX Recovery](https://orangefox.download/release/6327989a3c05f43c193c0acb)
 
-## Note: 
-- Use OrangeFox R11.1_3 FBEV1 Recovery or twrp from support group
-- check notes in group for recommended recovery
+### installation instruction : 
+1. use orangefox fbev1 recovery
+2. format data (by typing yes)
+3. Flash latest stable [Global Firmware](https://xiaomifirmwareupdater.com/firmware/)
+4. Flash rom 
+5. Reboot

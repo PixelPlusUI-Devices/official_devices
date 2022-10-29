@@ -4,15 +4,15 @@
 			"maintainer": "Lopster_70",
 			"oem": "",
 			"device": "Poco M2 Pro/Redmi Note 9 Pro/Max/9s/10 Lite",
-			"filename": "PixelPlusUI_4.7_miatoll-12.1-20220717-0557-OFFICIAL.zip",
-			"download": "https://download.ppui.site/twelve/miatoll/PixelPlusUI_4.7_miatoll-12.1-20220717-0557-OFFICIAL.zip",
-			"timestamp": 1658037397,
-			"md5": "fd903cb933e57644da10d043b5a84763",
-			"sha256": "07605c27542b1609782323642f77398f8eccb06bd6079cbc8056dc4c6371a26e",
-			"size": 2012860132,
-			"version": 4.7,
+			"filename": "PixelPlusUI_5.0_miatoll-13.0-20221028-0407-OFFICIAL.zip",
+			"download": "https://download.ppui.site/thirteen/miatoll/PixelPlusUI_5.0_miatoll-13.0-20221028-0407-OFFICIAL.zip",
+			"timestamp": 1666930066,
+			"md5": "43645315427a77b87cb21a2c1fbae12e",
+			"sha256": "3b0a998b635c686b98061c8aa37813b8cf16d9f3f7e33859c15ced920ac83baa",
+			"size": 1691283326,
+			"version": ,
 			"buildtype": "Monthly",
-			"forum": "https://forum.xda-developers.com/t/rom-12-0-miatoll-pixelplusui-official-twelve-aosp.4380723/",
+			"forum": "https://forum.xda-developers.com/t/rom-13-0-miatoll-pixelplusui-official-stable-aosp.4511857/",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
@@ -22,7 +22,7 @@
 			"dt": "",
 			"common-dt": "",
 			"kernel": "",
-                        "is_active": true
-                }
+			"is_active": true
+		}
 	]
 }
