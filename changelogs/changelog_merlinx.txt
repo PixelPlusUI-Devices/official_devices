@@ -6,7 +6,7 @@ Disabled blur for better experience
 Clean flash from 4.8 is MANDATORY
 
 # Rom changes are in update channel
-Updated to August security patch
+Updated to October security patch
 A lot of fix and changes
 
 #Thanks for device source and Kernel
