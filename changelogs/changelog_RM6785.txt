@@ -1,22 +1,8 @@
- ==== 19th August, 2022 ====
-
-• August ASB (android-12.1.0_r22)
-• PixelplusUI source upstream
-• Fixed IPv6 tethering
-• Upstreamed kernel to 4.14.290
-• Updated vendor blobs and firmware images to RMX2002_11.C.19
-• Fixed youtube lag while playing 1080p/2K video's
-• Improved Smoothness
+• Initial A13 build
+• October ASB (android-13.0.0_r8)
+• Source upstream (All features are now implemented)
+• Passes SafetyNet out-of-the-box
+• Disabled boosts on power saving mode
+• Incresed Voice Call volume steps to 15
+• Re-adjusted status bar paddings
 • Misc improvements
-
-==== 23th May, 2022 ====
-• May ASB (android-12.1.0_r5)
-• SELinux Enforcing
-• PixelplusUI source upstream
-• Fixed Auto brightness QS toggle
-• Unlocked Google app weather widgets
-• Improved haptics
-• Improved UI performance
-• Fixed lag on viewfinder in GCam
-• power: Boost min CPU freq to 1618000,1419000 on interaction
-• Drop redundant secure element service
