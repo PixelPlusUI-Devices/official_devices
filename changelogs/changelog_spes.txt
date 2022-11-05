@@ -1,3 +1,12 @@
+## 5.0 Spes/Spesn
+
+- Initial Android 13 release
+- Tune auto-brightness configs
+- Expose aux camera globally
+- Define multiple vibration intensity levels config
+- Set all default haptic levels to high
+- Cleanup performance tuning
+
 ## 4.8 Spes/Spesn
 
 - Updated blobs from SPESNGlobal V13.0.2.0-A12
