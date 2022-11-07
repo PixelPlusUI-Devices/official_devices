@@ -1,6 +1,7 @@
-- PixelPlusUI v4.8 Android 12.1 
-- Addressed some denials
-- Switched audio hal to V7
-- Updated blobs from V13.0.12.0 SKFMIXM
-- Updated VantomKernel
-- Other misc. changes
+- Initial Android 13 Build by me
+- PixelPlusUI v5.0 Android 13.0
+- Added Moto DOlby
+- Added back Smooth Display
+- Gcamgo as Default Camera
+- Updated blobs from V13.0.15.0 SKFMIXM
+- Updated VantomKernel to 296
