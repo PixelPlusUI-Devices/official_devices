@@ -1,1 +1,19 @@
-Initial Build
+Bluetooth: Disable clean turn on
+Added UDFPS COlor Customization
+Kang Power Profile from OOS12
+Update BUILD_FINGERPRINT from OOS 12
+Update security patch level to 22-08-05 (OOS)
+Update Refresh Rate configs
+Add blkio tuning from sunfish
+Add and Improve face unlock for popup camera
+Improved OOS Camera
+Enable the pre-rendering feature 
+update pinner list 
+Extract Time services blobs from LA.UM.9.1.r1-11500
+Give QCOM TEE directory access to tmpfs 
+add nodes to hide Magisk in banking apps 
+Add ih8sn
+camera: support Laser
+Use appropriate charging thresholds 
+ETC..
+Special Thanks to My Tester: Anil Nageshwaran
