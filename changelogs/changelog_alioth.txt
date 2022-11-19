@@ -1,4 +1,14 @@
 =====================================
+PixelPlusUI v5.1 Android 13
+=====================================
+- Enabled wifi 6GHz band 
+- mod pixel launcher support 
+- Added battery healthy info supported
+- Added parameters for Hotspot 2.0
+- Updated LE Audio profile properties 
+- Removed QTI BT stack bits
+
+=====================================
 PixelPlusUI v5.0 Android 13
 =====================================
 - initial Android 13 release
