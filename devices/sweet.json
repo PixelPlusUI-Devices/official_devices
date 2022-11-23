@@ -1,28 +1,28 @@
 {
 	"response": [
-		       {
+		{
 			"maintainer": "Pavanpadamata",
 			"oem": "Xiaomi",
 			"device": "Redmi Note 10 Pro",
-			"filename": "PixelPlusUI_5.0_sweet-13.0-20221107-1016-OFFICIAL.zip",
-			"download": "https://download.ppui.site/thirteen/sweet/PixelPlusUI_5.0_sweet-13.0-20221107-1016-OFFICIAL.zip",
-			"timestamp": 1667796360,
-			"md5": "f3a0c67b018c896e0aa1c0618f4a0312",
-			"sha256": "3f26ecc6dd321da41a800f344ca1b814f8ca311463d1218f24fa29fa91752f06",
-			"size":  2014710170,
-			"version": 5.0,
+			"filename": "PixelPlusUI_5.1_sweet-13.0-20221123-0806-OFFICIAL.zip",
+			"download": "https://download.ppui.site/thirteen/sweet/PixelPlusUI_5.1_sweet-13.0-20221123-0806-OFFICIAL.zip",
+			"timestamp": 1669190481,
+			"md5": "caf8449e22274d6442334a3e83717031",
+			"sha256": "9f0b09ffd78da5175bd2e42f5ab4664455ccafaab8ab6f26ca73d4951c22444e",
+			"size": 2025215931,
+			"version": 5.1,
 			"buildtype": "Monthly",
-			"forum": "https://forum.xda-developers.com/t/rom-13-0-sweet-pixel-plus-ui-official-aosp.4515733/",
+			"forum": "https://forum.xda-developers.com/t/rom-13-0-sweet-pixel-plus-ui-official-aosp.4522211/",
 			"firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "",  
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
 			"paypal": "https://paypal.me/uglykid24",
-			"telegram": "https://t.me/ppui_sweet",
-                        "dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_sweet",
-                        "common-dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_sm6150-common_sweet",
-                        "kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_sweet",
-                        "is_active": true
-                       }
+			"telegram": "https://t.me/pavanbuilds",
+			"dt": "https://github.com/PixelPlusUI-Devices/android_device_xiaomi_sweet",
+			"common-dt": "https://github.com/PixelPlusUI-Devices/android_device_xiaomi_sm6150-common",
+			"kernel": "https://github.com/PixelPlusUI-Devices/kernel_xiaomi_sweet",
+			"is_active": true
+		}
 	]
 }
