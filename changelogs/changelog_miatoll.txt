@@ -1,3 +1,10 @@
+## PPUI 5.1
+
+- November security patch
+- CTS passes by default
+- Decryption issue fixed 
+
+
 ## PPUI 5.0
 - october security patch
 - Initial A13 build
