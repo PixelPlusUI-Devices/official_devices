@@ -1,3 +1,16 @@
+-- 27-11-202 --
+• Initial stable release
+• November ASB (android-13.0.0_r14)
+• PixelPlusUI source upstream
+• Fixed video playback crash
+• Disabled boosts on power saving mode
+• Incresed Voice Call volume steps to 15
+• Re-adjusted status bar paddings
+• Switched to pixel power-libperfmgr HAL
+• Enabled AUX camera support on aperture camera app
+• Fixed buzzed brightness slider
+• Upstreamed kernel to 4.14.297
+
 • Initial A13 build
 • October ASB (android-13.0.0_r8)
 • Source upstream (All features are now implemented)
