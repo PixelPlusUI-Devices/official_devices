@@ -4,12 +4,12 @@
 			"maintainer": "dhruvesh_23",
 			"oem": "Nothing",
 			"device": "NothingPhone(1)",
-			"filename": "PixelPlusUI_5.1_Spacewar-13.0-20221122-1321-OFFICIAL.zip",
-			"download": "https://private.ppui.site/thirteen/Spacewar/PixelPlusUI_5.1_Spacewar-13.0-20221122-1321-OFFICIAL.zip",
-			"timestamp": 1669123260,
-			"md5": "d4f0d2f16da0fa2b9107563fac9e62f2",
-			"sha256": "d7cbc55f259ec00ac0be0af5d78db5ae59b35ec4eb47a212e22be13314812d3e",
-			"size": 1793289310,
+			"filename": "PixelPlusUI_5.1_Spacewar-13.0-20221129-1009-OFFICIAL.zip",
+			"download": "https://download.ppui.site/thirteen/Spacewar/PixelPlusUI_5.1_Spacewar-13.0-20221129-1009-OFFICIAL.zip",
+			"timestamp": 1669716522,
+			"md5": "d0d982652188f6afce20cd359fa5fa73",
+			"sha256": "4650bcffe9617424616f0271e37b699237313c1e5d94c4683e68c33ea5b5bb91",
+			"size": 1788461191,
 			"version": 5.1,
 			"buildtype": "Monthly",
 			"forum": "https://forum.xda-developers.com/t/rom-nothingphone-1-13-0-official-pixelplus-ui-for-nothingphone-1-aosp.4521871/",
@@ -22,7 +22,7 @@
 			"dt": "https://github.com/Nothing-Devs",
 			"common-dt": "",
 			"kernel": "https://github.com/PixysOS-Devices/kernel_nothing_sm7325",
-                        "is_active": true
-                }
+			"is_active": true
+		}
 	]
 }
