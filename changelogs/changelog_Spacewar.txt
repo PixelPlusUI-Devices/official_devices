@@ -1,0 +1,2 @@
+- Fixed call audio issue
+- Fixed 1080p video playback 
