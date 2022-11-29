@@ -1,10 +1,14 @@
-PPUI 5.0 Changelog
+PPUI 5.1 Changelog
 
-- Will continu Release Based on OOS11 Fw
-- CTS passes by default
-- Selinux is Enforcing
-- Build is encrypted
-- Mostly everything works
-
-NOTE:-
-- If you find any bugs tag me with logs.
+- Upgrade Fw to OOS2 Basis 
+- Recovery build-in based to PixelRecovery A13
+- Completly new tree rebased to PixelExperience trees
+- Alerte slider fixed 
+- Improve FOD reaction
+- Enable Haptic cursor
+- update patched PowerOffAlarm
+- Adapt Brightness level to OOS basis
+- Device OplusExtra dopped for now (will manage to bring it up next release)
+- Improve Battery performance
+- If Bugs you tell me ... :)
+- Enjoy ....
