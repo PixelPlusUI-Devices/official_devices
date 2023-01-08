@@ -1,9 +1,6 @@
-5.1:
+5.2:
 
-Initial Android 13 release
-Fixed media playback issue
-Fixed Ok/Hey Google issue
-Fixed mic issues on some apps
-Increased AOD Brightness a bit
+Jan Sp
+Fixed LTE+ issue on Jio Network
+Fixed battery meter not updating
 Merged latest sm8350 changes to tree
-Aux cams on aperture

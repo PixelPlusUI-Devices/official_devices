@@ -1,26 +1,28 @@
 {
-    "response": [{
-        "maintainer": "itsXRP",
-        "oem": "realme",
-        "device": "realme GT Master Edition",
-        "filename": "PixelPlusUI_5.1_RMX3360-13.0-20221126-1633-OFFICIAL.zip",
-        "download": "https://download.ppui.site/thirteen/RMX3360/PixelPlusUI_5.1_RMX3360-13.0-20221126-1633-OFFICIAL.zip",
-        "timestamp": 1669480380,
-        "md5": "3dc790dbc745a7d0bce82222864337a6",
-        "sha256": "0803c74444bf48acb390e31f303a7355c7336f0d579bb80467121d812a81cab0",
-        "size": 1719784309,
-        "version": 5.1,
-        "buildtype": "Monthly",
-        "forum": "https://forum.xda-developers.com/t/rom-13-0-realme-gt-master-rmx3360-3363-pixelplusui-official-aosp.4523383",
-        "firmware": "",
-        "modem": "",
-        "bootloader": "",
-        "recovery": "",
-        "paypal": "https://paypal.me/uglykid24",
-        "telegram": "https://t.me/elixir_gtme",
-        "dt": "",
-        "common-dt": "",
-        "kernel": "",
-        "is_active": true
-    }]
+        "response": [
+                {
+                        "maintainer": "itsXRP",
+                        "oem": "realme",
+                        "device": "realme GT Master Edition",
+                        "filename": "PixelPlusUI_5.2_RMX3360-13.0-20230108-0801-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/thirteen/RMX3360/PixelPlusUI_5.2_RMX3360-13.0-20230108-0801-OFFICIAL.zip",
+                        "timestamp": 1673164818,
+                        "md5": "2c844509116876b9472de3a0172eea38",
+                        "sha256": "d8e9e40b34e38125eea6a865d744e79d17e7f38b5374eccca029d0c2e85899da",
+                        "size": 1847869681,
+                        "version": 5.2,
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/rom-13-0-realme-gt-master-rmx3360-3363-pixelplusui-official-aosp.4523383",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://t.me/elixir_gtme",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": "",
+                        "is_active": true
+                }
+        ]
 }
