@@ -1,8 +1,7 @@
-- PixelPlusUI v5.0 Android 13.0
-- Nuked Moto DOlby
-- Added Oneplus Dolby
-- Updated Some camera libraries from V13.0.7.0.SKFINMX
-- Enable 24-bit for primary output and deep buffer
-- Import Some more media codecs from sweet
-- Updated VantomKernel to 299(included ln8000 driver)
-- Supports fast charging
+- PixelPlusUI v5.2 Android 13.0
+- Oneplus Dolby included
+- Aperture Cam From Los is Default Cam
+- MIUI camera not there and doesn't support
+- Switched to Sleepy Kernel(latest)
+- Added Toggle for disabling ripple animation
+- Added Touch Improvement sysprops
