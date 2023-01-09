@@ -1,5 +1,5 @@
 =====================================
-PixelPlusUI v5.0 Android 13 Release 13
+PixelPlusUI v5.2 Android 13 Release 23
 =====================================
 - PixelPropsUtils: Rework for PPUI environment, fix Hide for Tencent Games
 - Added Pixelizer with initial customizations implementations - thanks to mhmdeve
@@ -10,16 +10,17 @@ PixelPlusUI v5.0 Android 13 Release 13
 =====================================
 Asus Zenfone Max Pro M1 (X00T/D) changes:
 =====================================
-- Updated FP to Cheetah November 2022
-- Updated to latest PixelPlusUI 5.1 Source
-- Removed msadp symlinking
-- Defered triggering WiFi load to HAL
-- Set WIFI_DRIVER_DEFAULT to qca_cld3
-- Cleaned up BT A2DP HAL entries from manifest
-- overlay: Removed BT related configs
-- Dropped DRM service flag
-- Migrated to AIDL ClearKey DRM HAL
-- Dropped component overrides
+- Updated FP to Cheetah January 2022
+- Updated to latest PixelPlusUI 5.2 Source
+- Disabled ZSL mode
+- Removed odex/oat files from pinner list.
+- Audio: Added voice-hac-handset path
+- Audio: Add missing voice-headset path
+- Audio: add missing echo-reference paths
+- Added new flag name to compress offload case
+- Removed references to a2dp module
+- Re-configured cpusets for dex2oat
+- Optimized ART props
 - Some misc implementations & improvements
 - CTS passed by default
 - ROM is NON-FBE & LV build
