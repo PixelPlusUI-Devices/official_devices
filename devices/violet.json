@@ -1,28 +1,28 @@
 {
-        "response": [
-                {
-                        "maintainer": "ugly_kid_af",
-                        "oem": "",
-                        "device": "Redmi Note 7 Pro",
-                        "filename": "PixelPlusUI_5.1_violet-13.0-20221126-1342-OFFICIAL.zip",
-                        "download": "https://download.ppui.site/thirteen/violet/PixelPlusUI_5.1_violet-13.0-20221126-1342-OFFICIAL.zip",
-                        "timestamp": 1669470046,
-                        "md5": "ab3a79a16f25a7444efc716e61d3b478",
-                        "sha256": "3a797704dea40251f152f9d96b0bd9d721ad99031df525fb14dc2fa9eb117ef3",
-                        "size": 1530283004,
-                        "version": 5.1,
-                        "buildtype": "",
-                        "forum": "https://forum.xda-developers.com/t/rom-13-0-violet-pixelplusui-official-stable-aosp.4508627/",
-                        "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "",
-                        "paypal": "https://paypal.me/uglykid24",
-                        "telegram": "https://t.me/noobs_build",
-                        "dt": "",
-                        "common-dt": "",
-                        "kernel": "",
-                        "is_active": true
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "ugly_kid_af",
+			"oem": "",
+			"device": "Redmi Note 7 Pro",
+			"filename": "PixelPlusUI_5.2_violet-13.0-20230110-0906-OFFICIAL.zip",
+			"download": "https://download.ppui.site/thirteen/violet/PixelPlusUI_5.2_violet-13.0-20230110-0906-OFFICIAL.zip",
+			"timestamp": 1673341568,
+			"md5": "cbe373c039776f32ab8ba9802c356e59",
+			"sha256": "4319de602e3f243c75e45284907eea6873faa96ad8a60c4cbd4f3285267beb9a",
+			"size": 1980322482,
+			"version": 5.2,
+			"buildtype": "",
+			"forum": "https://forum.xda-developers.com/t/rom-13-0-violet-pixelplusui-official-stable-aosp.4508627/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/uglykid24",
+			"telegram": "https://t.me/noobs_build",
+			"dt": "",
+			"common-dt": "",
+			"kernel": "",
+			"is_active": true
+		}
+	]
 }
