@@ -9,6 +9,6 @@
 ### installation instruction : 
 1. use orangefox fbev1 recovery
 2. format data (by typing yes)
-3. Flash latest stable [Global Firmware](https://xiaomifirmwareupdater.com/firmware/)
+3. Flash stable [Global Firmware](https://xiaomifirmwareupdater.com/firmware/)
 4. Flash rom 
 5. Reboot
