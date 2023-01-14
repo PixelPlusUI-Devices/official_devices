@@ -1,16 +1,16 @@
 {
         "response": [
                 {
-                        "maintainer": "revolwoc",
+                        "maintainer": "Perses",
                         "oem": "Poco",
                         "device": "Redmi K40/ POCO F3/ Mi 11x",
-                        "filename": "PixelPlusUI_5.1_alioth-13.0-20221119-0956-OFFICIAL.zip",
-                        "download": "https://download.ppui.site/thirteen/alioth/PixelPlusUI_5.1_alioth-13.0-20221119-0956-OFFICIAL.zip",
-                        "timestamp": 1668851735,
-                        "md5": "c003fff761a50383698378f797653339",
-                        "sha256": "2c77210cf266a68595dd1e476b232394576d788a06b3fe1a1912e15dff6a5b07",
-                        "size": 1860879707,
-                        "version": 5.1,
+                        "filename": "PixelPlusUI_5.2_alioth-13.0-20230114-1037-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/thirteen/alioth/PixelPlusUI_5.2_alioth-13.0-20230114-1037-OFFICIAL.zip",
+                        "timestamp": 1673692549,
+                        "md5": "f3a3cf5946ce9ecd4a0bd1616b210d84",
+                        "sha256": "47b7a97c38ea8a344471bcc9cbac8f8bb0b182a114abbf87c14641fd8f2d3797",
+                        "size": 2006916154,
+                        "version": 5.2,
                         "buildtype": "Monthly",
                         "forum": "https://forum.xda-developers.com/t/rom-13-0-alioth-pixelplusui-official-stable-aosp.4509973/",
                         "firmware": "",
@@ -26,3 +26,4 @@
                 }
         ]
 }
+
