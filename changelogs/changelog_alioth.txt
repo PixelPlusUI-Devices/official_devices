@@ -1,4 +1,16 @@
 =====================================
+PixelPlusUI v5.2 Android 13
+=====================================
+- Updated more Blobs from 13.0.8.0
+- Follow status bar height on keyguard
+- Update punch-hole cutout
+- Update rounded corner value form AOSPA 
+- Update deprecated powerprofile items
+- Limit AOD refresh rate to 60hz
+- Used ThinLTO
+- Updated to Latest Immensity Kernel
+
+=====================================
 PixelPlusUI v5.1 Android 13
 =====================================
 - Enabled wifi 6GHz band 
