@@ -1,28 +1,31 @@
 {
-	"response": [
-			{
-					"maintainer": "Patriot",
-					"oem": "Realme",
-					"device": "Realme X3/SuperZoom",
-					"filename": "PixelPlusUI_4.3_x3-12.0-20220314-1646-OFFICIAL.zip",
-					"download": "https://download.ppui.site/eleven/x3/PixelPlusUI_4.3_x3-12.0-20220314-1646-OFFICIAL.zip",
-					"timestamp": 1647276360,
-					"md5": "faa3fdd880925b2619d1ce2f0d6598b7",
-					"sha256": "29cb2ecbff99f492798936c566f82e024435f537ffa2aa0d273635efac35a0ce",
-					"size": 1460017045,
-					"version": 4.3,
-					"buildtype": "Monthly",
-					"forum": "https://forum.xda-developers.com/t/rom-12-0-rmx2081-pixelplusui-official-unified-aosp.4400949/",
-					"firmware": "",
-					"modem": "",
-					"bootloader": "",
-					"recovery": "",
-					"paypal": "https://paypal.me/uglykid24",
-					"telegram": "https://t.me/ppui_RMX2081",
-					"dt": "https://github.com/PixelPlusUI-devices/device_realme_x3",
-					"common-dt": "",
-					"kernel": "https://github.com/PixelPlusUI-devices/kernel_realme_x3",
-                                        "is_active": false
-                        }
-	]
+        "response": [
+                {
+                        "maintainer": "Perses",
+                        "oem": "Realme",
+                        "device": "Realme X3/SuperZoom",
+                        "filename": "PixelPlusUI_5.2_x3-13.0-20230117-1128-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/thirteen/x3/PixelPlusUI_5.2_x3-13.0-20230117-1128-OFFICIAL.zip",
+                        "timestamp": 1673954838,
+                        "md5": "b700e5c81fb219e32f52914a5d26e7c3",
+                        "sha256": "619e905577edd33c541022b77140e7047958de4a2e2f3866fb74af834610cc3b",
+                        "size": 1687333667,
+                        "version": 5.2,
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/rom-13-0-x3-pixelplusui-official-stable-aosp.4542657/",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://t.me/ppui_RMX2081",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": "",
+                        "is_active": true
+                }
+        ]
 }
+
+
+
