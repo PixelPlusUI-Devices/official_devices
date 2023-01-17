@@ -1,3 +1,11 @@
+5.2:
+- Rebased Trees
+- Fixed Low recording audio
+- Use Fingerprint from miui
+- Merge LA.UM.9.15.2.r1-05200-KAMORTA.QSSI12.0 HALs
+- Update blobs from miui_LIMEGlobal_V13.0.2.0.SJQMIXM_06b44f7aa8_12.0
+- And more...
+
 5.1:
 
 - Initial Android 13 release
