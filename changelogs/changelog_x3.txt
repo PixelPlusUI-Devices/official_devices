@@ -6,7 +6,7 @@ Device maintainer: Perses
 =====================================
 PixelPlusUI v5.2 Android 13
 =====================================
-• Welcome back to PixelPlusUI
+- Welcome back to PixelPlusUI
 
 ===== 15 March, 2022 =====
 -Synced with latest PPUI 4.3 Codebase
