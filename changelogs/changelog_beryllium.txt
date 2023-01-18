@@ -1,0 +1,8 @@
+=====================================
+PixelPlusUI v5.2 Android 13
+=====================================
+- Fixed Snapchat Filter issue.
+- Fixed Crashing of Live Caption.
+- Fixed Crashing of Netflix.
+- Misc. Changes in Blurtooth.
+- Improved thermal performance.
