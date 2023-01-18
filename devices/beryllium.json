@@ -1,26 +1,28 @@
 {
-    "response": [{
-        "maintainer": "Wisky",
-        "oem": "Xiaomi",
-        "device": "Xiaomi Poco F1",
-        "filename": "PixelPlusUI_5.0_beryllium-13.0-20221024-1906-OFFICIAL.zip",
-        "download": "https://download.ppui.site/thirteen/beryllium/PixelPlusUI_5.0_beryllium-13.0-20221024-1906-OFFICIAL.zip",
-        "timestamp": 1666638360,
-        "md5": "0063cab9bad7b87de25d71c6c54bf321",
-        "sha256": "629184dae3cde99aa5c503418e61d4bf5d5ca18405e1743c034ac9dbd98df77c",
-        "size": 1649386180,
-        "version": 5.0,
-        "buildtype": "Monthly",
-        "forum": "https://forum.xda-developers.com/t/beryllium-rom-pixelplusui-5-0-android-13-aosp-official-25-10-2022.4509827/",
-        "firmware": "",
-        "modem": "",
-        "bootloader": "",
-        "recovery": "",
-        "paypal": "https://paypal.me/uglykid24",
-        "telegram": "https://telegram.me/wisky_chat",
-        "dt": "",
-        "common-dt": "",
-        "kernel": "",
-        "is_active": true
-    }]
+        "response": [
+                {
+                        "maintainer": "Wisky",
+                        "oem": "Xiaomi",
+                        "device": "Xiaomi Poco F1",
+                        "filename": "PixelPlusUI_5.2_beryllium-13.0-20230118-0417-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/thirteen/beryllium/PixelPlusUI_5.2_beryllium-13.0-20230118-0417-OFFICIAL.zip",
+                        "timestamp": 1674015469,
+                        "md5": "a491f1bd594e2664aa065e9466a211c6",
+                        "sha256": "0087b4ed72e4b55148e54eaea4786caf654c1e822c02580b7f5f741bcb19d03b",
+                        "size": 1765472818,
+                        "version": 5.2,
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/beryllium-rom-pixelplusui-5-0-android-13-aosp-official-25-10-2022.4509827/",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://paypal.me/uglykid24",
+                        "telegram": "https://telegram.me/wisky_chat",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": "",
+                        "is_active": true
+                }
+        ]
 }
