@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "AR",
+			"oem": "Poco",
+			"device": "Poco F4",
+			"filename": "PixelPlusUI_5.2_munch-13.0-20230118-1718-OFFICIAL.zip",
+			"download": "https://private.ppui.site/thirteen/munch/PixelPlusUI_5.2_munch-13.0-20230118-1718-OFFICIAL.zip",
+			"timestamp": 1674062280,
+			"md5": "54de57bfcc938fe116de15ad7d9419f9 ",
+			"sha256": "80aef54d5669e8469e3bc4b2112b118c3ad759c73322de64822805110c01d860 ",
+			"size": 2059171236,
+			"version": 5.2,
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-13-munch-pixelplusui-official-aosp.4543117/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/uglykid24",
+			"telegram": "https://t.me/ActualRealityAR",
+			"dt": "https://github.com/PixysOS-Devices",
+			"common-dt": "https://github.com/PixysOS-Devices",
+			"kernel": "https://github.com/madmax7896/kernel_xiaomi_sm8250",
+			"is_active": true
+		}
+	]
+}

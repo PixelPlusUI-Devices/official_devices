@@ -1,0 +1,10 @@
+### PixelPlusUI for Redmi K40S / POCO F4 (munch) Changelogs
+
+### v5.2 munch (15-01-2023)
+
+- Initial Release
+- Added MIUI Camera Lecia Edition 
+- Update MI Sound Blobs to MIUI 14 CN
+- Enabled V-Sync for CPU Rendered Apps 
+- Build with Prelude Clang (16.0)
+- January 2023 Security Patch
