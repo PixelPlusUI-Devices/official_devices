@@ -1,0 +1,2 @@
+- Improved mic audio on call 
+- Enabled blur 
