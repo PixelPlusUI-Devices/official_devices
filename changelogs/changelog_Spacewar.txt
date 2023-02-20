@@ -1,5 +1,0 @@
-- Clean flash mandatory
-- SELinux Enforcing!
-- Implepented single tap and double tap
-- Glyph: Added blink for notifications 
-- User build
