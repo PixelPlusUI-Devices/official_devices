@@ -1,18 +1,16 @@
-PPUI5.2 Changelog:
+Project PPUI 5.3 Changelog:
 
-- January security patch
-- Upgrade Fw to OOS13 Basis 
-- Recovery build-in based to PixelRecovery A13
-- Tree rebased to PixelExperience trees
+- February security patch
+- Fw OOS13 Basis 
+- Change Kernel to Meteoric "thanks to @hellboy017
+- bump kernel toolchain to Clang 16.0.2
 - Alerte slider fixed 
-- Improve FOD reaction
 - Ship along with OnePlus firmware
 - Switch to EROFS
-- Switch to FBEV2 for better security
-- Correct SystemUI package name and pinner service
-- Added carrierConfig overlay from OOS 11.F.13
-- Enable status bar burn in protection
+- Added carrierConfig overlay from OOS 11.F.15
 - Support exFAT
 - Support NTFS
-- Add wireguard support in kernel- If Bugs you tell me ... :)
-- Enjoy ....!
+- Add wireguard support in kernel
+- If Bugs you tell me ... :)
+- Enjoy ....
+
