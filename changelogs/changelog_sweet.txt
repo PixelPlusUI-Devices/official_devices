@@ -1,9 +1,10 @@
-- PixelPlusUI v5.2 Android 13.0
-- Oneplus Dolby included
+- PixelPlusUI v5.3 Android 13.0
+- Rebased with lates lineageos device trees
+- Non-Erofs Build
+- Vantom Kernel 4.14.304 default
+- Changed to Playground Clang-17
+- Improved Dolby
+- Widevine L1 Works now
 - Aperture Cam From Los is Default Cam
 - MIUI camera not there and doesn't support
-- Switched to Sleepy Kernel(latest)
-- Added Toggle for disabling ripple animation
-- Added Touch Improvement sysprops
-- Droped Smooth Display and Added min/max refreshrate config
-- Fixed Screen flickering
+
