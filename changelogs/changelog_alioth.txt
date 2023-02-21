@@ -1,4 +1,16 @@
 =====================================
+PixelPlusUI v5.3 Android 13
+=====================================
+- Update Adreno to LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
+- Update display blobs from LA.UM.9.12.r1-15100-SMxx50.QSSI13.0
+- Better RAM management
+- Added  HBM (High Brightness Mode)
+- Enable SSR for all subsytem types
+- Override cgroups.json & task_profiles.json
+- set default wifi country code to '00'
+
+
+=====================================
 PixelPlusUI v5.2 Android 13
 =====================================
 - Updated more Blobs from 13.0.8.0
