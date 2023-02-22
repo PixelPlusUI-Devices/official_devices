@@ -4,6 +4,15 @@ Device: Realme X3/SuperZoom (x3)
 Device maintainer: Perses
 
 =====================================
+PixelPlusUI v5.3 Android 13
+=====================================
+- Synced with latest PPUI 5.3 Codebase
+- Fix ripple animation lag
+- Increase 5 GHz network signal tolerance
+- Enable world phone bool
+- Improved Overall Stability and Performance
+
+=====================================
 PixelPlusUI v5.2 Android 13
 =====================================
 - Welcome back to PixelPlusUI

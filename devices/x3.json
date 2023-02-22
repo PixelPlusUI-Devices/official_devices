@@ -4,13 +4,13 @@
                         "maintainer": "bntxperses",
                         "oem": "Realme",
                         "device": "Realme X3/SuperZoom",
-                        "filename": "PixelPlusUI_5.2_x3-13.0-20230117-1128-OFFICIAL.zip",
-                        "download": "https://download.ppui.site/thirteen/x3/PixelPlusUI_5.2_x3-13.0-20230117-1128-OFFICIAL.zip",
-                        "timestamp": 1673954838,
-                        "md5": "b700e5c81fb219e32f52914a5d26e7c3",
-                        "sha256": "619e905577edd33c541022b77140e7047958de4a2e2f3866fb74af834610cc3b",
-                        "size": 1687333667,
-                        "version": 5.2,
+                        "filename": "PixelPlusUI_5.3_x3-13.0-20230221-1140-OFFICIAL.zip",
+                        "download": "https://download.ppui.site/thirteen/x3/PixelPlusUI_5.3_x3-13.0-20230221-1140-OFFICIAL.zip",
+                        "timestamp": 1676979557,
+                        "md5": "5132329d523b5aa16c631e6a7d2e4ee7",
+                        "sha256": "a2cb4f9e153549a96cf315690c7e6682f4091a4e01f18e15cd90977dcd2238b5",
+                        "size": 1567578381,
+                        "version": 5.3,
                         "buildtype": "Monthly",
                         "forum": "https://forum.xda-developers.com/t/rom-13-0-x3-pixelplusui-official-stable-aosp.4542657/",
                         "firmware": "",
@@ -26,6 +26,5 @@
                 }
         ]
 }
-
 
 
