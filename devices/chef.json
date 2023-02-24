@@ -22,7 +22,7 @@
                     "dt": "https://github.com/rushiranpise/device_motorola_chef",
                     "common-dt": "https://github.com/rushiranpise/device_motorola_sdm660-common",
                     "kernel": "https://github.com/rushiranpise/kernel_motorola_msm8998",
-                    "is_active": true
+                    "is_active": false
             }
     ]
 }
