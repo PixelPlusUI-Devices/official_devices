@@ -22,7 +22,7 @@
                         "dt": "",
                         "common-dt": "",
                         "kernel": "",
-                        "is_active": true
+                        "is_active": false
                 }
         ]
 }
