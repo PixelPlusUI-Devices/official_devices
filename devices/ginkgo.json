@@ -22,7 +22,7 @@
       "dt": "https://github.com/erwinabs/device_xiaomi_ginkgo",
       "common-dt": "",
       "kernel": "https://github.com/erwinabs/kernel_xiaomi_ginkgo",
-      "is_active": true
+      "is_active": false
     }
   ]
 }
