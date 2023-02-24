@@ -22,7 +22,7 @@
                     "dt": "https://github.com/PixelPlusUI-devices/device_xiaomi_laurel_sprout",
                     "common-dt": "",
                     "kernel": "https://github.com/PixelPlusUI-devices/kernel_xiaomi_laurel_sprout",
-                                        "is_active": true
+                                        "is_active": false
                         }
     ]
 }
