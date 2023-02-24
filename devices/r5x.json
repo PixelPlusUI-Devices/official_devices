@@ -21,7 +21,7 @@
 			"telegram": "https://t.me/ppui_realme5",
 			"dt": "https://github.com/PixelPlusUI-Devices/device_realme_r5x",
 			"kernel": "https://github.com/PixelPlusUI-Devices/kernel_realme_r5x",
-                        "is_active": true
+                        "is_active": false
                 }
 	]
 }
