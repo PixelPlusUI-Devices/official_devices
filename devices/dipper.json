@@ -22,7 +22,7 @@
 			"dt": "https://github.com/LucyfMorning/device_xiaomi_dipper",
 			"common-dt": "https://github.com/LucyfMorning/device_xiaomi_sdm845-common",
 			"kernel": "https://github.com/PixelExperience-Devices/kernel_xiaomi_polaris",
-			"is_active": true
+			"is_active": false
 		}
 	]
 }
