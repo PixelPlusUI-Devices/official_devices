@@ -22,7 +22,7 @@
 			"dt": "https://github.com/PixysOS-Devices",
 			"common-dt": "https://github.com/PixysOS-Devices",
 			"kernel": "https://github.com/madmax7896/kernel_xiaomi_sm8250",
-			"is_active": true
+			"is_active": false
 		}
 	]
 }
