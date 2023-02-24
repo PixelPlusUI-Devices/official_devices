@@ -22,7 +22,7 @@
 			"dt": "https://github.com/kaikeEXE/device_xiaomi_merlinx",
 			"common-dt": "https://github.com/6768Team/android_device_xiaomi_mt6768-common",
 			"kernel": "https://GitHub.com/orkunergun/LightningPlus.git",
-			"is_active": true
+			"is_active": false
 		}
 	]
 }
