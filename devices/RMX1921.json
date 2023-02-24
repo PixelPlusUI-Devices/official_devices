@@ -22,7 +22,7 @@
 			"dt": "https://github.com/Dhruvesh16/device_realme_RMX1921/tree/ppui",
 			"common-dt": "",
 			"kernel": "https://github.com/Dhruvesh16/android_kernel_realme_RMX1921/tree/11",
-                        "is_active": true
+                        "is_active": false
                 }
 	]
 }
