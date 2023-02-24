@@ -22,7 +22,7 @@
 			"dt": "https://github.com/PixelPlusUI-Devices/device_xiaomi_juice",
 			"common-dt": "",
 			"kernel": "https://github.com/PixelPlusUI-Devices/android_kernel_xiaomi_juice",
-			"is_active": true
+			"is_active": false
 		}
 	]
 }
