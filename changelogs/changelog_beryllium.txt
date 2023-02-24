@@ -1,4 +1,11 @@
 =====================================
+PixelPlusUI v5.3 Android 13
+=====================================
+- Source Upstream.
+- Fixed Cracking Sound on Bluetooth Headset in AAC Mode.
+
+
+=====================================
 PixelPlusUI v5.2 Android 13
 =====================================
 - Fixed Snapchat Filter issue.
