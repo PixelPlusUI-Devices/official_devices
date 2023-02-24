@@ -22,7 +22,7 @@
 			"dt": "https://github.com/kaikeEXE/device_xiaomi_lava",
 			"common-dt": "https://github.com/kaikeEXE/device_xiaomi_mt6768-common",
 			"kernel": "https://github.com/kaikeEXE/kernel_xiaomi_mt6768",
-			"is_active": true
+			"is_active": false
 		}
 	]
 }
